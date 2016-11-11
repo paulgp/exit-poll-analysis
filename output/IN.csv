@@ -1,0 +1,171 @@
+state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+IN,Gender,1817,Male,49%,33%,62%,5%
+IN,Gender,1817,Female,51%,42%,53%,5%
+IN,Age,1817,18-29,19%,46%,46%,8%,N/A
+IN,Age,1817,30-44,28%,37%,57%,6%,N/A
+IN,Age,1817,45-64,38%,34%,63%,4%,N/A
+IN,Age,1817,65 and older,14%,39%,58%,3%,N/A
+IN,Age,1817,18-24,11%,50%,44%,6%,N/A
+IN,Age,1817,25-29,9%,42%,48%,10%,N/A
+IN,Age,1817,30-39,19%,38%,56%,6%,N/A
+IN,Age,1817,40-49,20%,30%,63%,7%,N/A
+IN,Age,1817,50-64,28%,37%,62%,2%,N/A
+IN,Age,1817,65 and older,14%,39%,58%,3%,N/A
+IN,Age,1817,18-44,47%,41%,53%,7%,N/A
+IN,Age,1817,45 and older,53%,35%,61%,3%,1%
+IN,Race,1817,White,83%,32%,64%,5%,N/A
+IN,Race,1817,Black,9%,83%,12%,4%,1%
+IN,Race,1817,Latino,5%,N/A,N/A,N/A,N/A
+IN,Race,1817,Asian,1%,N/A,N/A,N/A,N/A
+IN,Race,1817,Other race,2%,N/A,N/A,N/A,N/A
+IN,Race,1817,White,83%,32%,64%,5%
+IN,Race,1817,Non-white,17%,69%,27%,5%
+IN,Race and gender,1817,White men,41%,27%,68%,5%,N/A
+IN,Race and gender,1817,White women,42%,35%,60%,5%,N/A
+IN,Race and gender,1817,Black men,4%,N/A,N/A,N/A,N/A
+IN,Race and gender,1817,Black women,5%,88%,8%,4%,N/A
+IN,Race and gender,1817,Latino men,3%,N/A,N/A,N/A,N/A
+IN,Race and gender,1817,Latino women,3%,N/A,N/A,N/A,N/A
+IN,Race and gender,1817,Others,3%,N/A,N/A,N/A,N/A
+IN,Education,1817,High school or less,20%,30%,66%,4%,N/A
+IN,Education,1817,Some college,33%,34%,61%,5%,N/A
+IN,Education,1817,College graduate,32%,38%,56%,6%,N/A
+IN,Education,1817,Postgraduate,15%,54%,41%,5%,N/A
+IN,Are you a college graduate?,1817,Yes,47%,43%,51%,6%,N/A
+IN,Are you a college graduate?,1817,No,53%,33%,63%,4%,N/A
+IN,Education and race,1817,White college graduates,40%,37%,57%,6%,N/A
+IN,Education and race,1817,Whites no degree,44%,26%,69%,4%,1%
+IN,Education and race,1817,Non-whites college grads,7%,75%,21%,4%,N/A
+IN,Education and race,1817,Non-whites no degree,10%,62%,34%,5%,N/A
+IN,Education among whites by sex,1817,White college-grad women,21%,39%,55%,6%,N/A
+IN,Education among whites by sex,1817,White non-college women,22%,30%,65%,5%,N/A
+IN,Education among whites by sex,1817,White college-grad men,19%,34%,60%,6%,N/A
+IN,Education among whites by sex,1817,White non-college men,21%,22%,73%,4%,1%
+IN,Education among whites by sex,1817,Non-whites,17%,68%,28%,4%,N/A
+IN,Income,1817,"Under $30,000",15%,41%,49%,10%,N/A
+IN,Income,1817,"$30K-$49,999",21%,38%,53%,8%,1%
+IN,Income,1817,"$50K-$99,999",35%,33%,63%,4%,N/A
+IN,Income,1817,"$100K-$199,999",22%,31%,63%,5%,1%
+IN,Income,1817,"$200K-$249,999",3%,N/A,N/A,N/A,N/A
+IN,Income,1817,"$250,000 or more",3%,N/A,N/A,N/A,N/A
+IN,Income,1817,Under $50K,37%,40%,52%,9%,N/A
+IN,Income,1817,$50K-$100K,35%,33%,63%,4%,N/A
+IN,Income,1817,$100K or more,28%,34%,62%,5%,N/A
+IN,Income,1817,Under $50K,37%,40%,52%,9%,N/A
+IN,Income,1817,$50K or more,63%,33%,62%,4%,1%
+IN,Income,1817,Under $100K,72%,36%,57%,7%
+IN,Income,1817,$100K or more,28%,34%,62%,5%
+IN,Party ID,1817,Democrats,30%,84%,13%,3%,N/A
+IN,Party ID,1817,Republicans,42%,6%,92%,3%,N/A
+IN,Party ID,1817,Independents,28%,36%,53%,11%,N/A
+IN,Ideology,1817,Liberal,22%,79%,15%,5%,1%
+IN,Ideology,1817,Moderate,40%,41%,53%,6%,N/A
+IN,Ideology,1817,Conservative,38%,10%,86%,4%,N/A
+IN,Party by gender,1817,Democratic men,12%,85%,15%,1%,N/A
+IN,Party by gender,1817,Democratic women,18%,84%,13%,3%,N/A
+IN,Party by gender,1817,Republican men,22%,6%,93%,2%,N/A
+IN,Party by gender,1817,Republican women,21%,6%,91%,4%,N/A
+IN,Party by gender,1817,Independent men,16%,34%,53%,13%,N/A
+IN,Party by gender,1817,Independent women,12%,39%,52%,9%,N/A
+IN,White born-again or evangelical Christian?,1817,Yes,39%,22%,75%,3%,N/A
+IN,White born-again or evangelical Christian?,1817,No,61%,50%,45%,5%,N/A
+IN,Marital status,1817,Married,62%,33%,61%,6%
+IN,Marital status,1817,Unmarried,38%,45%,49%,6%
+IN,Marital status by gender,1817,Married men,31%,29%,65%,7%
+IN,Marital status by gender,1817,Married women,32%,37%,57%,6%
+IN,Marital status by gender,1817,Unmarried men,16%,41%,54%,5%
+IN,Marital status by gender,1817,Unmarried women,21%,48%,45%,7%
+IN,When did you decide presidential vote?,1817,Last few days,15%,33%,49%,18%,N/A
+IN,When did you decide presidential vote?,1817,Last week,6%,N/A,N/A,N/A,N/A
+IN,When did you decide presidential vote?,1817,In October,7%,N/A,N/A,N/A,N/A
+IN,When did you decide presidential vote?,1817,In September,7%,N/A,N/A,N/A,N/A
+IN,When did you decide presidential vote?,1817,Before September,63%,37%,60%,3%,N/A
+IN,When did you decide presidential vote?,1817,In the last week,21%,36%,51%,14%,N/A
+IN,When did you decide presidential vote?,1817,Before that,78%,35%,61%,4%,N/A
+IN,When did you decide presidential vote?,1817,In the last month,29%,34%,53%,13%,N/A
+IN,When did you decide presidential vote?,1817,Before that,71%,35%,61%,4%,N/A
+IN,Opinion of presidential candidate you voted for,1817,Strongly favor ,45%,36%,61%,3%,N/A
+IN,Opinion of presidential candidate you voted for,1817,Have reservations,32%,41%,55%,4%,N/A
+IN,Opinion of presidential candidate you voted for,1817,Dislike opponents,21%,36%,56%,8%,N/A
+IN,Most important issue facing the country,1817,Foreign policy,13%,45%,48%,7%,N/A
+IN,Most important issue facing the country,1817,Immigration,13%,N/A,N/A,N/A,N/A
+IN,Most important issue facing the country,1817,Economy,54%,38%,54%,8%,N/A
+IN,Most important issue facing the country,1817,Terrorism,17%,28%,68%,4%,N/A
+IN,Which candidate quality mattered most?,1817,Cares about me,20%,52%,45%,3%,N/A
+IN,Which candidate quality mattered most?,1817,Can bring change,49%,10%,84%,6%,N/A
+IN,Which candidate quality mattered most?,1817,Right experience,14%,82%,12%,6%,N/A
+IN,Which candidate quality mattered most?,1817,Good judgment,15%,54%,34%,12%,N/A
+IN,Illegal immigrants working in the U.S. should be:,1817,Offered legal status,67%,50%,45%,5%,N/A
+IN,Illegal immigrants working in the U.S. should be:,1817,Deported to home country,30%,13%,84%,2%,1%
+IN,How do things work in the U.S. today?,1817,Whites are favored,29%,73%,22%,5%,N/A
+IN,How do things work in the U.S. today?,1817,Minorities are favored,35%,15%,82%,2%,1%
+IN,How do things work in the U.S. today?,1817,No group is favored,33%,32%,62%,6%,N/A
+IN,Feelings about the federal government,1817,Enthusiastic,4%,N/A,N/A,N/A,N/A
+IN,Feelings about the federal government,1817,Satisfied,24%,70%,29%,1%,N/A
+IN,Feelings about the federal government,1817,Dissatisfied,49%,32%,63%,5%,N/A
+IN,Feelings about the federal government,1817,Angry,20%,10%,84%,6%,N/A
+IN,Feelings about the federal government,1817,Enthusiastic/Satisfied,28%,71%,28%,1%,N/A
+IN,Feelings about the federal government,1817,Dissatisfied/Angry,70%,26%,69%,5%,N/A
+IN,Opinion of Barack Obama as president,1817,Strongly approve,22%,88%,6%,5%,1%
+IN,Opinion of Barack Obama as president,1817,Somewhat approve,20%,61%,20%,19%,N/A
+IN,Opinion of Barack Obama as president,1817,Somewhat disapprove,14%,13%,81%,6%,N/A
+IN,Opinion of Barack Obama as president,1817,Strongly disapprove,44%,3%,95%,2%,N/A
+IN,Opinion of Barack Obama as president,1817,Approve,42%,75%,13%,12%,N/A
+IN,Opinion of Barack Obama as president,1817,Disapprove,57%,5%,92%,3%,N/A
+IN,Opinion of Hillary Clinton,1817,Favorable,28%,96%,2%,2%,N/A
+IN,Opinion of Hillary Clinton,1817,Unfavorable,71%,11%,81%,8%,N/A
+IN,Opinion of Donald Trump,1817,Favorable,46%,6%,94%,N/A
+IN,Opinion of Donald Trump,1817,Unfavorable,52%,61%,27%,12%
+IN,Opinion of Clinton and Trump,1817,Both favorable,1%,N/A,N/A,N/A,N/A
+IN,Opinion of Clinton and Trump,1817,Only Clinton favorable,26%,98%,1%,2%,N/A
+IN,Opinion of Clinton and Trump,1817,Only Trump favorable,45%,4%,96%,N/A,N/A
+IN,Opinion of Clinton and Trump,1817,Both unfavorable,26%,22%,54%,23%,1%
+IN,Opinion of Mike Pence,1817,Favorable,57%,7%,89%,4%,N/A
+IN,Opinion of Mike Pence,1817,Unfavorable,41%,70%,20%,10%,N/A
+IN,Is Hillary Clinton honest and trustworthy?,1817,Yes,27%,92%,8%,1%
+IN,Is Hillary Clinton honest and trustworthy?,1817,No,72%,18%,77%,6%
+IN,Is Donald Trump honest and trustworthy?,1817,Yes,42%,7%,93%,1%
+IN,Is Donald Trump honest and trustworthy?,1817,No,56%,63%,30%,7%
+IN,Which candidate is honest?,1817,Both are,4%,N/A,N/A,N/A
+IN,Which candidate is honest?,1817,Only Clinton is,23%,99%,1%,N/A
+IN,Which candidate is honest?,1817,Only Trump is,38%,2%,98%,0%
+IN,Which candidate is honest?,1817,Neither is,33%,37%,51%,12%
+IN,Is Clinton qualified to serve as president?,1817,Yes,37%,85%,7%,8%,N/A
+IN,Is Clinton qualified to serve as president?,1817,No,63%,4%,90%,5%,1%
+IN,Is Trump qualified to serve as president?,1817,Yes,50%,4%,96%,0%
+IN,Is Trump qualified to serve as president?,1817,No,49%,65%,22%,13%
+IN,Who is qualified to serve as president?,1817,Both are,3%,N/A,N/A,N/A
+IN,Who is qualified to serve as president?,1817,Only Clinton is,33%,90%,1%,9%
+IN,Who is qualified to serve as president?,1817,Only Trump is,46%,2%,98%,N/A
+IN,Who is qualified to serve as president?,1817,Neither is,16%,12%,67%,21%
+IN,Does Clinton have the temperament to be president?,1817,Yes,43%,81%,14%,5%,N/A
+IN,Does Clinton have the temperament to be president?,1817,No,55%,5%,91%,4%,N/A
+IN,Does Trump have the temperament to be president?,1817,Yes,42%,5%,95%,0%
+IN,Does Trump have the temperament to be president?,1817,No,56%,64%,29%,7%
+IN,Which candidate has the right temperament?,1817,Both do,6%,N/A,N/A,N/A
+IN,Which candidate has the right temperament?,1817,Only Clinton does,37%,91%,4%,5%
+IN,Which candidate has the right temperament?,1817,Only Trump does,37%,3%,97%,0%
+IN,Which candidate has the right temperament?,1817,Neither does,18%,9%,80%,11%
+IN,Condition of national economy,1817,Excellent,5%,N/A,N/A,N/A,N/A
+IN,Condition of national economy,1817,Good,30%,75%,21%,4%,N/A
+IN,Condition of national economy,1817,Not good,49%,23%,72%,6%,N/A
+IN,Condition of national economy,1817,Poor,15%,7%,91%,2%,N/A
+IN,Condition of national economy,1817,Good,35%,74%,23%,4%,N/A
+IN,Condition of national economy,1817,Poor,64%,19%,76%,5%,N/A
+IN,Financial situation compared to four years ago:,1817,Better today,37%,60%,36%,4%,N/A
+IN,Financial situation compared to four years ago:,1817,Worse today,26%,12%,86%,2%,N/A
+IN,Financial situation compared to four years ago:,1817,About the same,36%,33%,61%,5%,1%
+IN,Life for the next generation of Americans will be:,1817,Better than today,39%,35%,63%,3%,N/A
+IN,Life for the next generation of Americans will be:,1817,Worse than today,28%,20%,73%,7%,N/A
+IN,Life for the next generation of Americans will be:,1817,About the same,30%,48%,42%,10%,N/A
+IN,Vote for president in a two-way race,1817,Clinton,40%,95%,3%,2%
+IN,Vote for president in a two-way race,1817,Trump,55%,2%,95%,3%
+IN,Vote for president in a two-way race,1817,Would not vote,4%,N/A,N/A,N/A
+IN,Area type,1817,Urban area,33%,46%,50%,5%
+IN,Area type,1817,Suburban area,46%,36%,59%,5%
+IN,Area type,1817,Rural area,21%,30%,65%,5%
+IN,Region,1817,Northwest,17%,52%,43%,5%,N/A
+IN,Region,1817,North / Central,32%,30%,66%,3%,1%
+IN,Region,1817,Marion County,13%,57%,37%,6%,N/A
+IN,Region,1817,Indianapolis Area,17%,31%,63%,6%,N/A
+IN,Region,1817,South,21%,32%,63%,5%,N/A

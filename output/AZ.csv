@@ -1,0 +1,174 @@
+state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+AZ,Gender,1729,Male,49%,38%,51%,7%,1%,3%
+AZ,Gender,1729,Female,51%,49%,43%,4%,2%,2%
+AZ,Age,1729,18-29,15%,50%,34%,12%,3%,1%
+AZ,Age,1729,30-44,25%,45%,40%,8%,3%,4%
+AZ,Age,1729,45-64,37%,42%,52%,3%,1%,2%
+AZ,Age,1729,65 and older,24%,42%,54%,2%,0%,2%
+AZ,Age,1729,18-24,9%,N/A,N/A,N/A,N/A,N/A
+AZ,Age,1729,25-29,5%,N/A,N/A,N/A,N/A,N/A
+AZ,Age,1729,30-39,17%,44%,40%,8%,2%,6%
+AZ,Age,1729,40-49,17%,43%,46%,5%,2%,4%
+AZ,Age,1729,50-64,27%,42%,52%,3%,1%,2%
+AZ,Age,1729,65 and older,24%,42%,54%,2%,0%,2%
+AZ,Age,1729,18-44,40%,47%,38%,10%,3%,2%
+AZ,Age,1729,45 and older,60%,42%,53%,3%,0%,2%
+AZ,Race,1729,White,75%,39%,52%,5%,1%,3%
+AZ,Race,1729,Black,2%,N/A,N/A,N/A,N/A,N/A
+AZ,Race,1729,Latino,16%,60%,30%,6%,3%,1%
+AZ,Race,1729,Asian,2%,N/A,N/A,N/A,N/A,N/A
+AZ,Race,1729,Other race,5%,N/A,N/A,N/A,N/A,N/A
+AZ,Race,1729,White,75%,39%,52%,5%,1%,3%
+AZ,Race,1729,Non-white,25%,59%,31%,6%,2%,2%
+AZ,Race and gender,1729,White men,37%,35%,54%,8%,1%,2%
+AZ,Race and gender,1729,White women,39%,43%,49%,3%,1%,4%
+AZ,Race and gender,1729,Black men,1%,N/A,N/A,N/A,N/A,N/A
+AZ,Race and gender,1729,Black women,1%,N/A,N/A,N/A,N/A,N/A
+AZ,Race and gender,1729,Latino men,8%,51%,40%,4%,2%,3%
+AZ,Race and gender,1729,Latino women,7%,70%,18%,7%,3%,2%
+AZ,Race and gender,1729,Others,7%,N/A,N/A,N/A,N/A,N/A
+AZ,Education,1729,High school or less,19%,41%,51%,5%,0%,3%
+AZ,Education,1729,Some college,31%,43%,47%,5%,3%,2%
+AZ,Education,1729,College graduate,36%,40%,49%,7%,1%,3%
+AZ,Education,1729,Postgraduate,15%,60%,37%,3%,0%,N/A
+AZ,Are you a college graduate?,1729,Yes,51%,46%,45%,6%,1%,2%
+AZ,Are you a college graduate?,1729,No,49%,42%,49%,5%,2%,2%
+AZ,Education and race,1729,White college graduates,40%,44%,48%,6%,1%,1%
+AZ,Education and race,1729,Whites no degree,35%,34%,56%,5%,2%,3%
+AZ,Education and race,1729,Non-whites college grads,11%,54%,34%,6%,0%,6%
+AZ,Education and race,1729,Non-whites no degree,14%,62%,28%,6%,3%,1%
+AZ,Education among whites by sex,1729,White college-grad women,20%,47%,46%,3%,1%,3%
+AZ,Education among whites by sex,1729,White non-college women,18%,39%,53%,2%,2%,4%
+AZ,Education among whites by sex,1729,White college-grad men,19%,40%,50%,9%,0%,1%
+AZ,Education among whites by sex,1729,White non-college men,17%,29%,60%,7%,2%,2%
+AZ,Education among whites by sex,1729,Non-whites,25%,59%,31%,6%,2%,2%
+AZ,Party ID,1729,Democrats,28%,88%,7%,4%,0%,1%
+AZ,Party ID,1729,Republicans,32%,7%,86%,5%,N/A,2%
+AZ,Party ID,1729,Independents,40%,42%,45%,7%,3%,3%
+AZ,Party by gender,1729,Democratic men,10%,87%,6%,6%,N/A,1%
+AZ,Party by gender,1729,Democratic women,18%,89%,7%,3%,1%,N/A
+AZ,Party by gender,1729,Republican men,15%,6%,86%,6%,N/A,2%
+AZ,Party by gender,1729,Republican women,16%,8%,86%,5%,N/A,1%
+AZ,Party by gender,1729,Independent men,24%,38%,48%,9%,2%,3%
+AZ,Party by gender,1729,Independent women,17%,47%,40%,3%,4%,6%
+AZ,Ideology,1729,Liberal,27%,78%,11%,5%,4%,2%
+AZ,Ideology,1729,Moderate,33%,53%,37%,7%,1%,2%
+AZ,Ideology,1729,Conservative,40%,13%,80%,5%,0%,2%
+AZ,Income,1729,"Under $30,000",16%,52%,37%,6%,1%,4%
+AZ,Income,1729,"$30K-$49,999",20%,46%,41%,8%,3%,2%
+AZ,Income,1729,"$50K-$99,999",32%,48%,46%,3%,1%,2%
+AZ,Income,1729,"$100K-$199,999",23%,38%,53%,7%,0%,2%
+AZ,Income,1729,"$200K-$249,999",4%,N/A,N/A,N/A,N/A,N/A
+AZ,Income,1729,"$250,000 or more",4%,N/A,N/A,N/A,N/A,N/A
+AZ,Income,1729,Under $50K,36%,49%,39%,7%,2%,3%
+AZ,Income,1729,$50K-$100K,32%,48%,46%,3%,1%,2%
+AZ,Income,1729,$100K or more,32%,39%,52%,6%,0%,3%
+AZ,Income,1729,Under $50K,36%,49%,39%,7%,2%,3%
+AZ,Income,1729,$50K or more,64%,43%,49%,4%,1%,3%
+AZ,Income,1729,Under $100K,68%,48%,43%,5%,2%,2%
+AZ,Income,1729,$100K or more,32%,39%,52%,6%,0%,3%
+AZ,When did you decide presidential vote?,1729,Last few days,N/A,N/A,N/A,N/A,N/A,N/A
+AZ,When did you decide presidential vote?,1729,Last week,6%,N/A,N/A,N/A,N/A,N/A
+AZ,When did you decide presidential vote?,1729,In October,17%,39%,46%,9%,3%,3%
+AZ,When did you decide presidential vote?,1729,In September,12%,41%,42%,8%,3%,6%
+AZ,When did you decide presidential vote?,1729,Before September,63%,49%,47%,2%,0%,2%
+AZ,When did you decide presidential vote?,1729,In the last week,6%,N/A,N/A,N/A
+AZ,When did you decide presidential vote?,1729,Before that,91%,46%,47%,7%
+AZ,When did you decide presidential vote?,1729,In the last month,23%,38%,45%,10%,3%,4%
+AZ,When did you decide presidential vote?,1729,Before that,75%,48%,47%,3%,1%,1%
+AZ,Opinion of presidential candidate you voted for,1729,Strongly favor ,41%,45%,51%,2%,1%,1%
+AZ,Opinion of presidential candidate you voted for,1729,Have reservations,27%,53%,40%,4%,2%,1%
+AZ,Opinion of presidential candidate you voted for,1729,Dislike opponents,31%,38%,46%,10%,1%,5%
+AZ,Most important issue facing the country,1729,Foreign policy,16%,57%,30%,8%,3%,2%
+AZ,Most important issue facing the country,1729,Immigration,12%,28%,68%,2%,1%,1%
+AZ,Most important issue facing the country,1729,Economy,52%,47%,44%,5%,1%,3%
+AZ,Most important issue facing the country,1729,Terrorism,17%,38%,52%,5%,1%,4%
+AZ,Which candidate quality mattered most?,1729,Cares about me,12%,43%,43%,10%,2%,2%
+AZ,Which candidate quality mattered most?,1729,Can bring change,34%,8%,86%,4%,1%,1%
+AZ,Which candidate quality mattered most?,1729,Right experience,23%,89%,8%,1%,1%,1%
+AZ,Which candidate quality mattered most?,1729,Good judgment,27%,53%,31%,8%,3%,5%
+AZ,Illegal immigrants working in the U.S. should be:,1729,Offered legal status,77%,55%,35%,6%,1%,3%
+AZ,Illegal immigrants working in the U.S. should be:,1729,Deported to home country,18%,12%,82%,3%,2%,1%
+AZ,View of U.S. wall along the entire Mexican border,1729,Support,43%,11%,85%,2%,1%,1%
+AZ,View of U.S. wall along the entire Mexican border,1729,Oppose,53%,74%,13%,8%,2%,3%
+AZ,How do things work in the U.S. today?,1729,Whites are favored,34%,78%,14%,4%,2%,2%
+AZ,How do things work in the U.S. today?,1729,Minorities are favored,16%,12%,81%,5%,N/A,2%
+AZ,How do things work in the U.S. today?,1729,No group is favored,44%,34%,56%,6%,1%,3%
+AZ,Feelings about the federal government,1729,Enthusiastic,1%,N/A,N/A,N/A,N/A,N/A
+AZ,Feelings about the federal government,1729,Satisfied,21%,86%,11%,2%,N/A,1%
+AZ,Feelings about the federal government,1729,Dissatisfied,43%,43%,47%,5%,1%,4%
+AZ,Feelings about the federal government,1729,Angry,33%,21%,69%,6%,2%,2%
+AZ,Feelings about the federal government,1729,Enthusiastic/Satisfied,22%,84%,12%,2%,N/A,2%
+AZ,Feelings about the federal government,1729,Dissatisfied/Angry,77%,33%,57%,6%,2%,2%
+AZ,Opinion of Barack Obama as president,1729,Strongly approve,31%,94%,1%,1%,1%,3%
+AZ,Opinion of Barack Obama as president,1729,Somewhat approve,19%,66%,21%,9%,2%,2%
+AZ,Opinion of Barack Obama as president,1729,Somewhat disapprove,13%,17%,61%,15%,4%,3%
+AZ,Opinion of Barack Obama as president,1729,Strongly disapprove,37%,3%,91%,3%,0%,3%
+AZ,Opinion of Barack Obama as president,1729,Approve,50%,83%,9%,4%,1%,3%
+AZ,Opinion of Barack Obama as president,1729,Disapprove,49%,7%,83%,6%,1%,3%
+AZ,Opinion of Hillary Clinton,1729,Favorable,40%,97%,2%,1%,0%,N/A
+AZ,Opinion of Hillary Clinton,1729,Unfavorable,58%,8%,77%,8%,2%,5%
+AZ,Opinion of Donald Trump,1729,Favorable,40%,3%,94%,2%,N/A,1%
+AZ,Opinion of Donald Trump,1729,Unfavorable,59%,74%,13%,7%,2%,4%
+AZ,Opinion of Clinton and Trump,1729,Both favorable,1%,N/A,N/A,N/A,N/A,N/A
+AZ,Opinion of Clinton and Trump,1729,Only Clinton favorable,39%,98%,1%,1%,0%,N/A
+AZ,Opinion of Clinton and Trump,1729,Only Trump favorable,38%,1%,96%,2%,N/A,1%
+AZ,Opinion of Clinton and Trump,1729,Both unfavorable,19%,24%,38%,21%,6%,11%
+AZ,Is Hillary Clinton honest and trustworthy?,1729,Yes,34%,96%,2%,2%,0%,N/A
+AZ,Is Hillary Clinton honest and trustworthy?,1729,No,64%,17%,71%,7%,2%,3%
+AZ,Is Donald Trump honest and trustworthy?,1729,Yes,39%,5%,92%,1%,0%,2%
+AZ,Is Donald Trump honest and trustworthy?,1729,No,59%,72%,15%,8%,2%,3%
+AZ,Which candidate is honest?,1729,Both are,2%,N/A,N/A,N/A,N/A,N/A
+AZ,Which candidate is honest?,1729,Only Clinton is,31%,98%,1%,1%,0%,N/A
+AZ,Which candidate is honest?,1729,Only Trump is,37%,1%,97%,1%,0%,1%
+AZ,Which candidate is honest?,1729,Neither is,26%,39%,34%,16%,4%,7%
+AZ,Does Clinton have the temperament to be president?,1729,Yes,56%,78%,14%,5%,1%,2%
+AZ,Does Clinton have the temperament to be president?,1729,No,42%,2%,89%,5%,1%,3%
+AZ,Does Trump have the temperament to be president?,1729,Yes,39%,4%,94%,1%,0%,1%
+AZ,Does Trump have the temperament to be president?,1729,No,59%,73%,14%,8%,2%,3%
+AZ,Which candidate has the right temperament?,1729,Both do,8%,16%,79%,2%,2%,1%
+AZ,Which candidate has the right temperament?,1729,Only Clinton does,48%,88%,3%,6%,1%,2%
+AZ,Which candidate has the right temperament?,1729,Only Trump does,31%,1%,97%,1%,N/A,1%
+AZ,Which candidate has the right temperament?,1729,Neither does,11%,6%,61%,18%,6%,9%
+AZ,Is Trump qualified to serve as president?,1729,Yes,41%,3%,93%,2%,0%,2%
+AZ,Is Trump qualified to serve as president?,1729,No,58%,75%,11%,8%,2%,4%
+AZ,Is Clinton qualified to serve as president?,1729,Yes,53%,82%,11%,5%,1%,1%
+AZ,Is Clinton qualified to serve as president?,1729,No,47%,3%,86%,6%,2%,3%
+AZ,Who is qualified to serve as president?,1729,Both are,7%,N/A,N/A,N/A,N/A,N/A
+AZ,Who is qualified to serve as president?,1729,Only Clinton is,46%,92%,2%,4%,1%,1%
+AZ,Who is qualified to serve as president?,1729,Only Trump is,35%,1%,97%,1%,0%,1%
+AZ,Who is qualified to serve as president?,1729,Neither is,11%,9%,50%,22%,6%,13%
+AZ,Does Clinton's use of private email bother you:,1729,A lot,50%,6%,83%,7%,1%,3%
+AZ,Does Clinton's use of private email bother you:,1729,Some,16%,70%,21%,5%,2%,2%
+AZ,Does Clinton's use of private email bother you:,1729,Not much,13%,84%,9%,3%,2%,2%
+AZ,Does Clinton's use of private email bother you:,1729,Not at all,21%,91%,5%,3%,0%,1%
+AZ,Does Clinton's use of private email bother you?,1729,Yes,66%,21%,68%,7%,1%,3%
+AZ,Does Clinton's use of private email bother you?,1729,No,34%,88%,7%,3%,1%,1%
+AZ,Does Donald Trump's treatment of women bother you:,1729,A lot,48%,78%,11%,6%,2%,3%
+AZ,Does Donald Trump's treatment of women bother you:,1729,Some,20%,21%,71%,6%,1%,1%
+AZ,Does Donald Trump's treatment of women bother you:,1729,Not much,11%,10%,81%,5%,2%,2%
+AZ,Does Donald Trump's treatment of women bother you:,1729,Not at all,20%,5%,90%,2%,N/A,3%
+AZ,Does Donald Trump's treatment of women bother you?,1729,Yes,68%,61%,29%,6%,2%,2%
+AZ,Does Donald Trump's treatment of women bother you?,1729,No,31%,7%,87%,3%,1%,2%
+AZ,Who would better handle the economy?,1729,Clinton,46%,92%,2%,4%,2%,N/A
+AZ,Who would better handle the economy?,1729,Trump,49%,3%,91%,5%,1%,N/A
+AZ,Who would better handle foreign policy?,1729,Clinton,52%,83%,7%,6%,1%,3%
+AZ,Who would better handle foreign policy?,1729,Trump,43%,2%,93%,3%,1%,1%
+AZ,Condition of national economy,1729,Excellent,1%,N/A,N/A,N/A,N/A,N/A
+AZ,Condition of national economy,1729,Good,34%,82%,11%,6%,0%,1%
+AZ,Condition of national economy,1729,Not good,35%,32%,54%,6%,3%,5%
+AZ,Condition of national economy,1729,Poor,30%,15%,79%,3%,1%,2%
+AZ,Condition of national economy,1729,Good,35%,82%,11%,6%,0%,1%
+AZ,Condition of national economy,1729,Poor,65%,24%,66%,5%,2%,3%
+AZ,Life for the next generation of Americans will be:,1729,Better than today,30%,56%,38%,3%,1%,2%
+AZ,Life for the next generation of Americans will be:,1729,Worse than today,30%,23%,63%,6%,3%,5%
+AZ,Life for the next generation of Americans will be:,1729,About the same,34%,57%,34%,7%,1%,1%
+AZ,Vote for president in a two-way race,1729,Clinton,44%,95%,1%,4%
+AZ,Vote for president in a two-way race,1729,Trump,48%,1%,93%,6%
+AZ,Vote for president in a two-way race,1729,Would not vote,7%,N/A,N/A,N/A
+AZ,Area type,1729,Urban area,55%,49%,41%,6%,2%,2%
+AZ,Area type,1729,Suburban area,39%,38%,54%,5%,1%,2%
+AZ,Area type,1729,Rural area,5%,39%,53%,7%,2%,N/A
+AZ,Region,1729,Maricopa County ,60%,43%,46%,6%,1%,4%
+AZ,Region,1729,Pima County,17%,53%,39%,4%,2%,2%
+AZ,Region,1729,Rest of Arizona,23%,38%,54%,5%,1%,2%

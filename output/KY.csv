@@ -1,0 +1,126 @@
+state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+KY,Gender,1099,Male,49%,26%,71%,3%
+KY,Gender,1099,Female,51%,40%,54%,6%
+KY,Age,1099,18-29,19%,34%,59%,7%
+KY,Age,1099,30-44,23%,29%,66%,5%
+KY,Age,1099,45-64,42%,33%,63%,4%
+KY,Age,1099,65 and older,17%,37%,61%,2%
+KY,Age,1099,18-24,10%,31%,61%,6%,1%,1%
+KY,Age,1099,25-29,9%,N/A,N/A,N/A,N/A,N/A
+KY,Age,1099,30-39,15%,33%,61%,0%,3%,3%
+KY,Age,1099,40-49,18%,24%,72%,3%,1%,N/A
+KY,Age,1099,50-64,32%,35%,61%,3%,0%,1%
+KY,Age,1099,65 and older,17%,37%,61%,1%,N/A,1%
+KY,Age,1099,18-44,42%,31%,63%,6%
+KY,Age,1099,45 and older,58%,34%,62%,4%
+KY,Race,1099,White,88%,27%,68%,5%
+KY,Race,1099,Black,8%,N/A,N/A,N/A
+KY,Race,1099,Latino,3%,N/A,N/A,N/A
+KY,Race,1099,Asian,1%,N/A,N/A,N/A
+KY,Race,1099,Other race,1%,N/A,N/A,N/A
+KY,Race,1099,White,88%,27%,68%,5%
+KY,Race,1099,Non-white,12%,73%,20%,7%
+KY,Race and gender,1099,White men,43%,20%,77%,3%
+KY,Race and gender,1099,White women,44%,35%,60%,5%
+KY,Race and gender,1099,Black men,4%,N/A,N/A,N/A
+KY,Race and gender,1099,Black women,4%,N/A,N/A,N/A
+KY,Race and gender,1099,Latino men,1%,N/A,N/A,N/A
+KY,Race and gender,1099,Latino women,1%,N/A,N/A,N/A
+KY,Race and gender,1099,Others,2%,N/A,N/A,N/A
+KY,Education,1099,High school or less,25%,28%,66%,6%
+KY,Education,1099,Some college,36%,33%,64%,3%
+KY,Education,1099,College graduate,24%,28%,67%,5%
+KY,Education,1099,Postgraduate,15%,53%,42%,5%
+KY,Are you a college graduate?,1099,Yes,40%,38%,58%,4%
+KY,Are you a college graduate?,1099,No,60%,31%,65%,4%
+KY,Education and race,1099,White college graduates,36%,34%,61%,5%
+KY,Education and race,1099,Whites no degree,52%,23%,73%,4%
+KY,Education and race,1099,Non-whites college grads,4%,N/A,N/A,N/A
+KY,Education and race,1099,Non-whites no degree,9%,N/A,N/A,N/A
+KY,Education among whites by sex,1099,White college-grad women,19%,42%,52%,6%
+KY,Education among whites by sex,1099,White non-college women,26%,28%,66%,6%
+KY,Education among whites by sex,1099,White college-grad men,17%,26%,71%,3%
+KY,Education among whites by sex,1099,White non-college men,26%,18%,80%,2%
+KY,Education among whites by sex,1099,Non-whites,13%,74%,18%,8%
+KY,Income,1099,"Under $30,000",17%,36%,55%,5%,1%,3%
+KY,Income,1099,"$30K-$49,999",23%,33%,60%,3%,1%,3%
+KY,Income,1099,"$50K-$99,999",33%,32%,65%,2%,1%,N/A
+KY,Income,1099,"$100K-$199,999",21%,27%,71%,1%,N/A,1%
+KY,Income,1099,"$200K-$249,999",3%,N/A,N/A,N/A,N/A,N/A
+KY,Income,1099,"$250,000 or more",2%,N/A,N/A,N/A,N/A,N/A
+KY,Income,1099,Under $50K,41%,34%,58%,8%
+KY,Income,1099,$50K-$100K,33%,32%,65%,3%
+KY,Income,1099,$100K or more,26%,30%,68%,2%
+KY,Income,1099,Under $50K,41%,34%,58%,8%
+KY,Income,1099,$50K or more,59%,31%,66%,3%
+KY,Income,1099,Under $100K,74%,33%,61%,6%
+KY,Income,1099,$100K or more,26%,30%,68%,2%
+KY,Party ID,1099,Democrats,38%,75%,22%,2%,1%,N/A
+KY,Party ID,1099,Republicans,45%,3%,93%,1%,0%,3%
+KY,Party ID,1099,Independents,18%,23%,67%,5%,3%,2%
+KY,Party by gender,1099,Democratic men,14%,75%,23%,2%
+KY,Party by gender,1099,Democratic women,24%,75%,21%,4%
+KY,Party by gender,1099,Republican men,25%,2%,96%,2%
+KY,Party by gender,1099,Republican women,20%,4%,90%,6%
+KY,Party by gender,1099,Independent men,9%,N/A,N/A,N/A
+KY,Party by gender,1099,Independent women,9%,N/A,N/A,N/A
+KY,Ideology,1099,Liberal,18%,79%,17%,4%
+KY,Ideology,1099,Moderate,38%,38%,55%,7%
+KY,Ideology,1099,Conservative,43%,11%,86%,3%
+KY,White born-again or evangelical Christian?,1099,Yes,53%,17%,79%,4%
+KY,White born-again or evangelical Christian?,1099,No,47%,49%,45%,6%
+KY,Marital status,1099,Married,65%,26%,70%,4%
+KY,Marital status,1099,Unmarried,35%,41%,52%,7%
+KY,Marital status by gender,1099,Married men,32%,23%,74%,3%
+KY,Marital status by gender,1099,Married women,34%,29%,66%,5%
+KY,Marital status by gender,1099,Unmarried men,15%,30%,68%,2%
+KY,Marital status by gender,1099,Unmarried women,20%,50%,40%,10%
+KY,Coal-industry household?,1099,Yes,8%,N/A,N/A,N/A
+KY,Coal-industry household?,1099,No,92%,33%,62%,5%
+KY,When did you decide presidential vote?,1099,Last few days,13%,24%,66%,10%
+KY,When did you decide presidential vote?,1099,Last week,5%,N/A,N/A,N/A
+KY,When did you decide presidential vote?,1099,In October,11%,N/A,N/A,N/A
+KY,When did you decide presidential vote?,1099,In September,6%,N/A,N/A,N/A
+KY,When did you decide presidential vote?,1099,Before September,65%,32%,66%,2%
+KY,When did you decide presidential vote?,1099,In the last week,17%,28%,61%,5%,2%,4%
+KY,When did you decide presidential vote?,1099,Before that,82%,30%,67%,2%,0%,1%
+KY,When did you decide presidential vote?,1099,In the last month,28%,27%,63%,10%
+KY,When did you decide presidential vote?,1099,Before that,71%,31%,67%,2%
+KY,Opinion of presidential candidate you voted for,1099,Strongly favor ,46%,35%,60%,2%,1%,2%
+KY,Opinion of presidential candidate you voted for,1099,Have reservations,29%,34%,66%,N/A,0%,N/A
+KY,Opinion of presidential candidate you voted for,1099,Dislike opponents,24%,22%,67%,7%,2%,2%
+KY,Most important issue facing the country,1099,Foreign policy,10%,N/A,N/A,N/A
+KY,Most important issue facing the country,1099,Immigration,14%,9%,90%,1%
+KY,Most important issue facing the country,1099,Economy,52%,40%,55%,5%
+KY,Most important issue facing the country,1099,Terrorism,21%,24%,72%,4%
+KY,Which candidate quality mattered most?,1099,Cares about me,15%,36%,56%,5%,1%,2%
+KY,Which candidate quality mattered most?,1099,Can bring change,54%,9%,87%,2%,1%,1%
+KY,Which candidate quality mattered most?,1099,Right experience,15%,90%,8%,1%,N/A,1%
+KY,Which candidate quality mattered most?,1099,Good judgment,12%,57%,35%,2%,1%,5%
+KY,Opinion of Hillary Clinton,1099,Favorable,28%,97%,1%,2%
+KY,Opinion of Hillary Clinton,1099,Unfavorable,71%,4%,90%,6%
+KY,Opinion of Donald Trump,1099,Favorable,53%,2%,98%,N/A,N/A,N/A
+KY,Opinion of Donald Trump,1099,Unfavorable,45%,65%,25%,5%,1%,4%
+KY,Opinion of Clinton and Trump,1099,Both favorable,1%,N/A,N/A,N/A,N/A,N/A
+KY,Opinion of Clinton and Trump,1099,Only Clinton favorable,27%,98%,0%,1%,0%,1%
+KY,Opinion of Clinton and Trump,1099,Only Trump favorable,53%,0%,100%,N/A,N/A,N/A
+KY,Opinion of Clinton and Trump,1099,Both unfavorable,18%,15%,61%,12%,3%,9%
+KY,Is Hillary Clinton honest and trustworthy?,1099,Yes,23%,99%,1%,N/A
+KY,Is Hillary Clinton honest and trustworthy?,1099,No,75%,11%,83%,6%
+KY,Is Donald Trump honest and trustworthy?,1099,Yes,47%,3%,97%,N/A,N/A,N/A
+KY,Is Donald Trump honest and trustworthy?,1099,No,51%,61%,30%,5%,2%,2%
+KY,Which candidate is honest?,1099,Both are,1%,N/A,N/A,N/A,N/A,N/A
+KY,Which candidate is honest?,1099,Only Clinton is,22%,99%,N/A,1%,N/A,N/A
+KY,Which candidate is honest?,1099,Only Trump is,46%,0%,99%,N/A,N/A,1%
+KY,Which candidate is honest?,1099,Neither is,28%,29%,54%,9%,3%,5%
+KY,Life for the next generation of Americans will be:,1099,Better than today,37%,42%,56%,2%
+KY,Life for the next generation of Americans will be:,1099,Worse than today,33%,16%,77%,7%
+KY,Life for the next generation of Americans will be:,1099,About the same,27%,38%,56%,6%
+KY,Area type,1099,Urban area,28%,51%,43%,6%
+KY,Area type,1099,Suburban area,11%,N/A,N/A,N/A
+KY,Area type,1099,Rural area,61%,27%,70%,3%
+KY,Region,1099,Eastern Kentucky,20%,19%,78%,3%
+KY,Region,1099,Bluegrass Country,18%,39%,56%,5%
+KY,Region,1099,North / Louisville Sub.,17%,28%,66%,6%
+KY,Region,1099,Jefferson County,19%,55%,40%,5%
+KY,Region,1099,Western Kentucky,27%,27%,69%,4%

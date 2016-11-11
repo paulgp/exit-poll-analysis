@@ -1,0 +1,226 @@
+state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+MI,Gender,2812,Male,48%,41%,53%,6%
+MI,Gender,2812,Female,52%,53%,42%,5%
+MI,Age,2812,18-29,21%,57%,34%,6%,2%,1%
+MI,Age,2812,30-44,21%,44%,48%,4%,2%,2%
+MI,Age,2812,45-64,39%,44%,52%,4%,1%,N/A
+MI,Age,2812,65 and older,19%,47%,51%,1%,0%,1%
+MI,Age,2812,18-24,11%,58%,35%,4%,2%,1%
+MI,Age,2812,25-29,10%,55%,33%,9%,2%,1%
+MI,Age,2812,30-39,14%,45%,46%,4%,3%,2%
+MI,Age,2812,40-49,16%,43%,51%,4%,1%,1%
+MI,Age,2812,50-64,30%,44%,52%,3%,1%,N/A
+MI,Age,2812,65 and older,19%,47%,51%,1%,0%,1%
+MI,Age,2812,18-44,42%,51%,41%,5%,2%,1%
+MI,Age,2812,45 and older,58%,45%,52%,3%,1%,N/A
+MI,Race,2812,White,75%,36%,57%,5%,1%,1%
+MI,Race,2812,Black,15%,92%,6%,0%,1%,1%
+MI,Race,2812,Latino,5%,59%,38%,2%,2%,N/A
+MI,Race,2812,Asian,2%,N/A,N/A,N/A,N/A,N/A
+MI,Race,2812,Other race,3%,N/A,N/A,N/A,N/A,N/A
+MI,Race,2812,White,75%,36%,57%,5%,1%,1%
+MI,Race,2812,Non-white,25%,80%,17%,1%,1%,1%
+MI,Race and gender,2812,White men,36%,29%,64%,5%,1%,1%
+MI,Race and gender,2812,White women,40%,43%,51%,4%,1%,1%
+MI,Race and gender,2812,Black men,7%,88%,9%,0%,1%,2%
+MI,Race and gender,2812,Black women,8%,96%,3%,1%,N/A,N/A
+MI,Race and gender,2812,Latino men,3%,N/A,N/A,N/A,N/A,N/A
+MI,Race and gender,2812,Latino women,2%,N/A,N/A,N/A,N/A,N/A
+MI,Race and gender,2812,Others,5%,63%,32%,2%,2%,1%
+MI,Education,2812,High school or less,20%,46%,49%,5%
+MI,Education,2812,Some college,38%,45%,49%,6%
+MI,Education,2812,College graduate,28%,45%,50%,5%
+MI,Education,2812,Postgraduate,15%,61%,33%,6%
+MI,Are you a college graduate?,2812,Yes,42%,50%,44%,6%
+MI,Are you a college graduate?,2812,No,58%,45%,49%,6%
+MI,Education and race,2812,White college graduates,33%,43%,51%,4%,1%,1%
+MI,Education and race,2812,Whites no degree,42%,31%,62%,5%,1%,1%
+MI,Education and race,2812,Non-whites college grads,9%,77%,21%,0%,1%,1%
+MI,Education and race,2812,Non-whites no degree,16%,84%,14%,1%,1%,N/A
+MI,Education among whites by sex,2812,White college-grad women,17%,50%,44%,4%,2%,N/A
+MI,Education among whites by sex,2812,White non-college women,22%,38%,57%,4%,1%,N/A
+MI,Education among whites by sex,2812,White college-grad men,16%,36%,58%,4%,1%,1%
+MI,Education among whites by sex,2812,White non-college men,20%,24%,68%,6%,1%,1%
+MI,Education among whites by sex,2812,Non-whites,24%,81%,16%,1%,1%,1%
+MI,Income,2812,"Under $30,000",22%,62%,32%,4%,2%,N/A
+MI,Income,2812,"$30K-$49,999",22%,44%,52%,2%,2%,N/A
+MI,Income,2812,"$50K-$99,999",35%,43%,51%,5%,1%,N/A
+MI,Income,2812,"$100K-$199,999",17%,43%,51%,4%,1%,1%
+MI,Income,2812,"$200K-$249,999",1%,N/A,N/A,N/A,N/A,N/A
+MI,Income,2812,"$250,000 or more",2%,N/A,N/A,N/A,N/A,N/A
+MI,Income,2812,Under $50K,45%,53%,42%,3%,2%,N/A
+MI,Income,2812,$50K-$100K,35%,43%,51%,5%,1%,N/A
+MI,Income,2812,$100K or more,21%,43%,51%,4%,1%,1%
+MI,Income,2812,Under $50K,45%,53%,42%,5%
+MI,Income,2812,$50K or more,55%,43%,51%,6%
+MI,Income,2812,Under $100K,79%,49%,46%,5%
+MI,Income,2812,$100K or more,21%,43%,51%,6%
+MI,Party ID,2812,Democrats,40%,88%,9%,2%,1%,N/A
+MI,Party ID,2812,Republicans,31%,7%,90%,2%,0%,1%
+MI,Party ID,2812,Independents,29%,36%,52%,7%,3%,2%
+MI,Party by gender,2812,Democratic men,15%,86%,9%,4%,1%,N/A
+MI,Party by gender,2812,Democratic women,24%,88%,10%,1%,1%,N/A
+MI,Party by gender,2812,Republican men,16%,7%,90%,2%,0%,1%
+MI,Party by gender,2812,Republican women,15%,8%,90%,2%,0%,N/A
+MI,Party by gender,2812,Independent men,16%,33%,56%,7%,3%,1%
+MI,Party by gender,2812,Independent women,13%,40%,47%,9%,4%,N/A
+MI,Ideology,2812,Liberal,27%,81%,14%,3%,2%,N/A
+MI,Ideology,2812,Moderate,37%,52%,42%,5%,1%,N/A
+MI,Ideology,2812,Conservative,36%,17%,79%,3%,0%,1%
+MI,Union household?,2812,Yes,28%,53%,40%,5%,1%,1%
+MI,Union household?,2812,No,72%,48%,47%,3%,1%,1%
+MI,Religion,2812,Protestant,49%,39%,55%,3%,1%,2%
+MI,Religion,2812,Catholic,24%,39%,57%,4%,0%,N/A
+MI,Religion,2812,Jewish,2%,N/A,N/A,N/A,N/A,N/A
+MI,Religion,2812,Another religion,10%,N/A,N/A,N/A,N/A,N/A
+MI,Religion,2812,No religion,16%,59%,30%,8%,3%,N/A
+MI,How often do you attend religious services?,2812,Weekly or more,34%,39%,57%,3%,0%,1%
+MI,How often do you attend religious services?,2812,Monthly,16%,44%,50%,5%,1%,N/A
+MI,How often do you attend religious services?,2812,Few times a year,28%,51%,46%,2%,1%,N/A
+MI,How often do you attend religious services?,2812,Never,21%,52%,37%,8%,3%,N/A
+MI,How often do you attend religious services?,2812,Monthly or more,51%,41%,55%,4%
+MI,How often do you attend religious services?,2812,Less often than that,49%,51%,42%,7%
+MI,White born-again or evangelical Christian?,2812,Yes,27%,14%,81%,5%
+MI,White born-again or evangelical Christian?,2812,No,73%,58%,36%,6%
+MI,Marital status,2812,Married,59%,39%,56%,5%
+MI,Marital status,2812,Unmarried,41%,58%,35%,7%
+MI,Marital status by gender,2812,Married men,32%,35%,62%,2%,0%,1%
+MI,Marital status by gender,2812,Married women,27%,44%,49%,5%,1%,1%
+MI,Marital status by gender,2812,Unmarried men,19%,54%,37%,6%,3%,N/A
+MI,Marital status by gender,2812,Unmarried women,22%,62%,34%,2%,1%,1%
+MI,When did you decide presidential vote?,2812,Last few days,9%,N/A,N/A,N/A,N/A,N/A
+MI,When did you decide presidential vote?,2812,Last week,4%,N/A,N/A,N/A,N/A,N/A
+MI,When did you decide presidential vote?,2812,In October,13%,35%,55%,7%,3%,N/A
+MI,When did you decide presidential vote?,2812,In September,11%,N/A,N/A,N/A,N/A,N/A
+MI,When did you decide presidential vote?,2812,Before September,61%,52%,46%,2%,1%,N/A
+MI,When did you decide presidential vote?,2812,In the last week,13%,39%,50%,6%,4%,1%
+MI,When did you decide presidential vote?,2812,Before that,84%,48%,48%,3%,1%,N/A
+MI,When did you decide presidential vote?,2812,In the last month,26%,37%,52%,7%,3%,1%
+MI,When did you decide presidential vote?,2812,Before that,71%,50%,47%,3%,1%,N/A
+MI,Opinion of presidential candidate you voted for,2812,Strongly favor ,47%,51%,46%,2%,1%,N/A
+MI,Opinion of presidential candidate you voted for,2812,Have reservations,28%,47%,49%,3%,1%,N/A
+MI,Opinion of presidential candidate you voted for,2812,Dislike opponents,23%,43%,48%,6%,1%,2%
+MI,Most important issue facing the country,2812,Foreign policy,13%,59%,34%,7%
+MI,Most important issue facing the country,2812,Immigration,12%,25%,71%,4%
+MI,Most important issue facing the country,2812,Economy,52%,51%,43%,6%
+MI,Most important issue facing the country,2812,Terrorism,19%,42%,55%,3%
+MI,Which candidate quality mattered most?,2812,Cares about me,16%,55%,36%,5%,3%,1%
+MI,Which candidate quality mattered most?,2812,Can bring change,39%,14%,83%,2%,1%,N/A
+MI,Which candidate quality mattered most?,2812,Right experience,22%,90%,8%,2%,0%,N/A
+MI,Which candidate quality mattered most?,2812,Good judgment,19%,60%,31%,6%,2%,1%
+MI,Illegal immigrants working in the U.S. should be:,2812,Offered legal status,67%,64%,28%,5%,2%,1%
+MI,Illegal immigrants working in the U.S. should be:,2812,Deported to home country,27%,15%,80%,4%,1%,N/A
+MI,Do you think immigrants to the U.S. today:,2812,Help the country,54%,74%,17%,6%,2%,1%
+MI,Do you think immigrants to the U.S. today:,2812,Hurt the country,34%,23%,73%,2%,1%,1%
+MI,Effect of international trade,2812,Creates U.S. jobs,31%,65%,31%,4%
+MI,Effect of international trade,2812,Takes away U.S. jobs,50%,36%,58%,6%
+MI,Effect of international trade,2812,Does not affect jobs,12%,N/A,N/A,N/A
+MI,Does the country's criminal justice system:,2812,Treat all fairly,48%,25%,68%,6%,1%,N/A
+MI,Does the country's criminal justice system:,2812,Treat blacks unfairly,44%,78%,17%,2%,2%,1%
+MI,How do things work in the U.S. today?,2812,Whites are favored,40%,86%,8%,3%,2%,1%
+MI,How do things work in the U.S. today?,2812,Minorities are favored,20%,13%,79%,8%,0%,N/A
+MI,How do things work in the U.S. today?,2812,No group is favored,34%,36%,57%,4%,1%,2%
+MI,View on Obamacare,2812,Did not go far enough,30%,73%,18%,5%,2%,2%
+MI,View on Obamacare,2812,Was about right,20%,89%,8%,3%,N/A,N/A
+MI,View on Obamacare,2812,Went too far,44%,14%,79%,5%,2%,N/A
+MI,Feelings about the federal government,2812,Enthusiastic,4%,N/A,N/A,N/A,N/A,N/A
+MI,Feelings about the federal government,2812,Satisfied,23%,72%,23%,4%,1%,N/A
+MI,Feelings about the federal government,2812,Dissatisfied,46%,45%,50%,3%,1%,1%
+MI,Feelings about the federal government,2812,Angry,24%,21%,71%,5%,2%,1%
+MI,Feelings about the federal government,2812,Enthusiastic/Satisfied,27%,75%,21%,4%
+MI,Feelings about the federal government,2812,Dissatisfied/Angry,71%,36%,58%,6%
+MI,Opinion of government,2812,Government should do more,45%,71%,24%,5%
+MI,Opinion of government,2812,Government doing too much,50%,23%,71%,6%
+MI,Opinion of Barack Obama as president,2812,Strongly approve,35%,96%,3%,0%,1%,N/A
+MI,Opinion of Barack Obama as president,2812,Somewhat approve,19%,58%,27%,11%,3%,1%
+MI,Opinion of Barack Obama as president,2812,Somewhat disapprove,13%,N/A,N/A,N/A,N/A,N/A
+MI,Opinion of Barack Obama as president,2812,Strongly disapprove,32%,3%,95%,1%,0%,1%
+MI,Opinion of Barack Obama as president,2812,Approve,54%,82%,11%,7%
+MI,Opinion of Barack Obama as president,2812,Disapprove,45%,6%,91%,3%
+MI,Should the next president:,2812,Continue Obama's policies,32%,96%,2%,1%,0%,1%
+MI,Should the next president:,2812,Be more conservative,41%,13%,78%,7%,1%,1%
+MI,Should the next president:,2812,Be more liberal,20%,49%,41%,6%,3%,1%
+MI,Opinion of Hillary Clinton,2812,Favorable,42%,96%,3%,0%,0%,1%
+MI,Opinion of Hillary Clinton,2812,Unfavorable,56%,11%,81%,6%,2%,N/A
+MI,Opinion of Donald Trump,2812,Favorable,39%,4%,94%,1%,N/A,1%
+MI,Opinion of Donald Trump,2812,Unfavorable,59%,75%,17%,5%,2%,1%
+MI,Opinion of Clinton and Trump,2812,Both favorable,2%,N/A,N/A,N/A,N/A,N/A
+MI,Opinion of Clinton and Trump,2812,Only Clinton favorable,40%,99%,1%,0%,0%,N/A
+MI,Opinion of Clinton and Trump,2812,Only Trump favorable,36%,1%,98%,1%,N/A,N/A
+MI,Opinion of Clinton and Trump,2812,Both unfavorable,20%,29%,50%,14%,6%,1%
+MI,Is Hillary Clinton honest and trustworthy?,2812,Yes,34%,97%,2%,1%,0%,N/A
+MI,Is Hillary Clinton honest and trustworthy?,2812,No,64%,21%,72%,5%,2%,N/A
+MI,Is Donald Trump honest and trustworthy?,2812,Yes,35%,4%,95%,1%,N/A,N/A
+MI,Is Donald Trump honest and trustworthy?,2812,No,63%,72%,20%,5%,2%,1%
+MI,Which candidate is honest?,2812,Both are,2%,N/A,N/A,N/A,N/A,N/A
+MI,Which candidate is honest?,2812,Only Clinton is,32%,99%,N/A,1%,0%,N/A
+MI,Which candidate is honest?,2812,Only Trump is,33%,1%,98%,1%,N/A,N/A
+MI,Which candidate is honest?,2812,Neither is,30%,43%,42%,9%,4%,2%
+MI,Does Clinton have the temperament to be president?,2812,Yes,52%,85%,11%,4%
+MI,Does Clinton have the temperament to be president?,2812,No,46%,4%,89%,7%
+MI,Does Trump have the temperament to be president?,2812,Yes,38%,4%,95%,0%,N/A,1%
+MI,Does Trump have the temperament to be president?,2812,No,61%,75%,17%,5%,2%,1%
+MI,Which candidate has the right temperament?,2812,Both do,5%,N/A,N/A,N/A,N/A,N/A
+MI,Which candidate has the right temperament?,2812,Only Clinton does,47%,92%,4%,2%,1%,1%
+MI,Which candidate has the right temperament?,2812,Only Trump does,32%,0%,99%,0%,N/A,1%
+MI,Which candidate has the right temperament?,2812,Neither does,14%,14%,63%,15%,6%,2%
+MI,Is Clinton qualified to serve as president?,2812,Yes,50%,86%,10%,2%,1%,1%
+MI,Is Clinton qualified to serve as president?,2812,No,48%,5%,88%,5%,2%,N/A
+MI,Is Trump qualified to serve as president?,2812,Yes,40%,5%,93%,2%,0%,N/A
+MI,Is Trump qualified to serve as president?,2812,No,59%,74%,17%,6%,2%,1%
+MI,Who is qualified to serve as president?,2812,Both are,6%,N/A,N/A,N/A,N/A,N/A
+MI,Who is qualified to serve as president?,2812,Only Clinton is,44%,94%,2%,2%,1%,1%
+MI,Who is qualified to serve as president?,2812,Only Trump is,33%,0%,98%,1%,0%,1%
+MI,Who is qualified to serve as president?,2812,Neither is,15%,15%,63%,14%,6%,2%
+MI,Does Clinton's use of private email bother you:,2812,A lot,45%,5%,88%,5%,1%,1%
+MI,Does Clinton's use of private email bother you:,2812,Some,15%,59%,34%,5%,2%,N/A
+MI,Does Clinton's use of private email bother you:,2812,Not much,17%,88%,8%,2%,2%,N/A
+MI,Does Clinton's use of private email bother you:,2812,Not at all,22%,95%,4%,1%,N/A,N/A
+MI,Does Clinton's use of private email bother you?,2812,Yes,60%,18%,74%,5%,1%,2%
+MI,Does Clinton's use of private email bother you?,2812,No,39%,91%,6%,1%,1%,1%
+MI,Does Donald Trump's treatment of women bother you:,2812,A lot,49%,82%,9%,5%,2%,2%
+MI,Does Donald Trump's treatment of women bother you:,2812,Some,20%,19%,76%,3%,1%,1%
+MI,Does Donald Trump's treatment of women bother you:,2812,Not much,14%,11%,87%,1%,N/A,1%
+MI,Does Donald Trump's treatment of women bother you:,2812,Not at all,15%,3%,96%,1%,N/A,N/A
+MI,Does Donald Trump's treatment of women bother you?,2812,Yes,69%,64%,29%,5%,2%,N/A
+MI,Does Donald Trump's treatment of women bother you?,2812,No,29%,7%,92%,1%,N/A,N/A
+MI,Who would better handle the economy?,2812,Clinton,49%,95%,2%,2%,1%,N/A
+MI,Who would better handle the economy?,2812,Trump,47%,3%,90%,5%,1%,1%
+MI,Who would better handle foreign policy?,2812,Clinton,55%,88%,8%,2%,1%,1%
+MI,Who would better handle foreign policy?,2812,Trump,41%,2%,93%,5%,0%,N/A
+MI,Did Clinton attack Trump unfairly?,2812,Yes,39%,11%,84%,5%
+MI,Did Clinton attack Trump unfairly?,2812,No,56%,74%,20%,6%
+MI,Did Trump attack Clinton unfairly?,2812,Yes,55%,69%,27%,2%,1%,1%
+MI,Did Trump attack Clinton unfairly?,2812,No,42%,19%,74%,6%,1%,N/A
+MI,Which candidate attacked unfairly?,2812,Both did,18%,21%,71%,5%,2%,1%
+MI,Which candidate attacked unfairly?,2812,Only Clinton did,21%,2%,94%,3%,N/A,1%
+MI,Which candidate attacked unfairly?,2812,Only Trump did,38%,91%,6%,1%,1%,1%
+MI,Which candidate attacked unfairly?,2812,Neither did,19%,38%,49%,10%,2%,1%
+MI,Condition of national economy,2812,Excellent,3%,N/A,N/A,N/A,N/A,N/A
+MI,Condition of national economy,2812,Good,38%,74%,20%,3%,1%,2%
+MI,Condition of national economy,2812,Not good,40%,35%,61%,3%,1%,N/A
+MI,Condition of national economy,2812,Poor,19%,17%,76%,5%,0%,2%
+MI,Condition of national economy,2812,Good,40%,75%,20%,5%
+MI,Condition of national economy,2812,Poor,59%,29%,66%,5%
+MI,Financial situation compared to four years ago:,2812,Better today,37%,77%,19%,3%,1%,N/A
+MI,Financial situation compared to four years ago:,2812,Worse today,25%,22%,75%,2%,1%,N/A
+MI,Financial situation compared to four years ago:,2812,About the same,38%,42%,50%,6%,1%,1%
+MI,Local job market compared to four years ago:,2812,Better today,39%,74%,21%,2%,2%,1%
+MI,Local job market compared to four years ago:,2812,Worse today,25%,22%,71%,5%,1%,1%
+MI,Local job market compared to four years ago:,2812,About the same,36%,48%,44%,7%,1%,N/A
+MI,U.S. economic system generally:,2812,Favors the wealthy,66%,55%,39%,6%
+MI,U.S. economic system generally:,2812,Is fair to most Americans,27%,37%,59%,4%
+MI,Life for the next generation of Americans will be:,2812,Better than today,34%,67%,31%,1%,0%,1%
+MI,Life for the next generation of Americans will be:,2812,Worse than today,31%,28%,61%,6%,3%,2%
+MI,Life for the next generation of Americans will be:,2812,About the same,31%,53%,39%,7%,1%,N/A
+MI,Vote for president in a two-way race,2812,Clinton,48%,96%,1%,3%
+MI,Vote for president in a two-way race,2812,Trump,44%,1%,97%,2%
+MI,Vote for president in a two-way race,2812,Would not vote,7%,N/A,N/A,N/A
+MI,Area type,2812,Urban area,23%,71%,24%,5%
+MI,Area type,2812,Suburban area,50%,42%,53%,5%
+MI,Area type,2812,Rural area,27%,38%,56%,6%
+MI,Region,2812,Wayne,17%,65%,31%,2%,2%,N/A
+MI,Region,2812,Oakland / Macomb,24%,48%,46%,5%,1%,N/A
+MI,Region,2812,Southeast,23%,47%,48%,4%,1%,N/A
+MI,Region,2812,Southwest,18%,41%,54%,4%,1%,N/A
+MI,Region,2812,N. Central / U.P.,19%,38%,57%,4%,2%,N/A

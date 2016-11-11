@@ -1,0 +1,264 @@
+state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+IL,Gender,916,Male,50%,50%,43%,5%,2%,N/A
+IL,Gender,916,Female,50%,60%,36%,3%,1%,N/A
+IL,Age,916,18-29,20%,67%,28%,4%,1%,N/A
+IL,Age,916,30-44,27%,59%,33%,6%,3%,N/A
+IL,Age,916,45-64,41%,53%,43%,3%,1%,N/A
+IL,Age,916,65 and older,12%,35%,61%,3%,2%,N/A
+IL,Age,916,18-24,10%,64%,28%,6%,2%,N/A
+IL,Age,916,25-29,9%,N/A,N/A,N/A,N/A,N/A
+IL,Age,916,30-39,18%,55%,33%,9%,3%,N/A
+IL,Age,916,40-49,20%,62%,36%,1%,1%,N/A
+IL,Age,916,50-64,30%,51%,45%,3%,1%,N/A
+IL,Age,916,65 and older,12%,35%,61%,3%,2%,N/A
+IL,Age,916,18-44,47%,62%,31%,5%,2%,N/A
+IL,Age,916,45 and older,53%,49%,47%,3%,1%,N/A
+IL,Race,916,White,68%,41%,52%,5%,2%,N/A
+IL,Race,916,Black,16%,87%,12%,1%,0%,N/A
+IL,Race,916,Latino,11%,N/A,N/A,N/A,N/A,N/A
+IL,Race,916,Asian,3%,N/A,N/A,N/A,N/A,N/A
+IL,Race,916,Other race,2%,N/A,N/A,N/A,N/A,N/A
+IL,Race,916,White,68%,41%,52%,5%,2%,N/A
+IL,Race,916,Non-white,32%,84%,13%,1%,1%,1%
+IL,Race and gender,916,White men,35%,37%,54%,6%,3%,N/A
+IL,Race and gender,916,White women,33%,46%,50%,4%,1%,N/A
+IL,Race and gender,916,Black men,8%,N/A,N/A,N/A,N/A,N/A
+IL,Race and gender,916,Black women,8%,N/A,N/A,N/A,N/A,N/A
+IL,Race and gender,916,Latino men,4%,N/A,N/A,N/A,N/A,N/A
+IL,Race and gender,916,Latino women,7%,N/A,N/A,N/A,N/A,N/A
+IL,Race and gender,916,Others,5%,N/A,N/A,N/A,N/A,N/A
+IL,Education,916,High school or less,18%,59%,39%,1%,0%,1%
+IL,Education,916,Some college,33%,50%,43%,6%,1%,N/A
+IL,Education,916,College graduate,31%,57%,38%,3%,2%,N/A
+IL,Education,916,Postgraduate,18%,61%,33%,3%,3%,N/A
+IL,Are you a college graduate?,916,Yes,49%,58%,36%,6%
+IL,Are you a college graduate?,916,No,51%,53%,42%,5%
+IL,Education and race,916,White college graduates,35%,50%,43%,3%,3%,1%
+IL,Education and race,916,Whites no degree,33%,33%,60%,6%,1%,N/A
+IL,Education and race,916,Non-whites college grads,13%,80%,17%,2%,1%,N/A
+IL,Education and race,916,Non-whites no degree,19%,87%,11%,1%,1%,N/A
+IL,Education among whites by sex,916,White college-grad women,18%,61%,36%,3%,1%,N/A
+IL,Education among whites by sex,916,White non-college women,16%,32%,63%,5%,0%,N/A
+IL,Education among whites by sex,916,White college-grad men,18%,40%,51%,4%,5%,N/A
+IL,Education among whites by sex,916,White non-college men,17%,34%,57%,7%,1%,1%
+IL,Education among whites by sex,916,Non-whites,32%,84%,13%,1%,1%,1%
+IL,Income,916,"Under $30,000",15%,N/A,N/A,N/A
+IL,Income,916,"$30K-$49,999",19%,N/A,N/A,N/A
+IL,Income,916,"$50K-$99,999",36%,61%,36%,3%
+IL,Income,916,"$100K-$199,999",22%,N/A,N/A,N/A
+IL,Income,916,"$200K-$249,999",3%,N/A,N/A,N/A
+IL,Income,916,"$250,000 or more",5%,N/A,N/A,N/A
+IL,Income,916,Under $50K,35%,60%,37%,3%
+IL,Income,916,$50K or more,65%,55%,40%,5%
+IL,Income,916,Under $100K,70%,60%,36%,4%
+IL,Income,916,$100K or more,30%,48%,45%,7%
+IL,Income,916,Under $50K,35%,60%,37%,3%
+IL,Income,916,$50K-$100K,36%,61%,36%,3%
+IL,Income,916,$100K or more,30%,48%,45%,7%
+IL,Party ID,916,Democrats,45%,93%,5%,1%,0%,1%
+IL,Party ID,916,Republicans,30%,8%,88%,3%,1%,N/A
+IL,Party ID,916,Independents,25%,44%,43%,9%,4%,N/A
+IL,Party by gender,916,Democratic men,19%,94%,3%,3%,0%,N/A
+IL,Party by gender,916,Democratic women,26%,93%,7%,N/A,0%,N/A
+IL,Party by gender,916,Republican men,15%,8%,87%,3%,2%,N/A
+IL,Party by gender,916,Republican women,15%,9%,88%,2%,0%,1%
+IL,Party by gender,916,Independent men,15%,37%,50%,8%,5%,N/A
+IL,Party by gender,916,Independent women,10%,N/A,N/A,N/A,N/A,N/A
+IL,Ideology,916,Liberal,27%,87%,8%,3%,2%,N/A
+IL,Ideology,916,Moderate,45%,63%,31%,5%,2%,N/A
+IL,Ideology,916,Conservative,28%,14%,83%,2%,1%,N/A
+IL,Marital status,916,Married,57%,55%,40%,5%
+IL,Marital status,916,Unmarried,43%,67%,29%,4%
+IL,Marital status by gender,916,Married men,26%,N/A,N/A,N/A
+IL,Marital status by gender,916,Married women,31%,62%,37%,1%
+IL,Marital status by gender,916,Unmarried men,22%,N/A,N/A,N/A
+IL,Marital status by gender,916,Unmarried women,21%,N/A,N/A,N/A
+IL,White born-again or evangelical Christian?,916,Yes,26%,N/A,N/A,N/A
+IL,White born-again or evangelical Christian?,916,No,74%,73%,22%,5%
+IL,Religion,916,Protestant,46%,45%,49%,5%,1%,N/A
+IL,Religion,916,Catholic,28%,N/A,N/A,N/A,N/A,N/A
+IL,Religion,916,Jewish,1%,N/A,N/A,N/A,N/A,N/A
+IL,Religion,916,Another religion,8%,N/A,N/A,N/A,N/A,N/A
+IL,Religion,916,No religion,17%,N/A,N/A,N/A,N/A,N/A
+IL,How often do you attend religious services?,916,Weekly or more,27%,N/A,N/A
+IL,How often do you attend religious services?,916,Monthly,18%,N/A,N/A
+IL,How often do you attend religious services?,916,Few times a year,36%,N/A,N/A
+IL,How often do you attend religious services?,916,Never,19%,N/A,N/A
+IL,How often do you attend religious services?,916,Monthly or more,45%,N/A,N/A
+IL,How often do you attend religious services?,916,Less often than that,55%,N/A,N/A
+IL,Union household?,916,Yes,38%,N/A,N/A,N/A
+IL,Union household?,916,No,62%,51%,46%,3%
+IL,Served in the U.S. military,916,Veterans,16%,N/A,N/A,N/A
+IL,Served in the U.S. military,916,Non-veterans,84%,57%,38%,5%
+IL,Were you born a U.S. citizen?,916,Yes,95%,51%,44%,5%
+IL,Were you born a U.S. citizen?,916,No,5%,N/A,N/A,N/A
+IL,First-time voter?,916,Yes,14%,N/A,N/A,N/A
+IL,First-time voter?,916,No,86%,50%,45%,5%
+IL,When did you decide presidential vote?,916,Last few days,16%,N/A,N/A,N/A
+IL,When did you decide presidential vote?,916,Last week,6%,N/A,N/A,N/A
+IL,When did you decide presidential vote?,916,In October,8%,N/A,N/A,N/A
+IL,When did you decide presidential vote?,916,In September,12%,N/A,N/A,N/A
+IL,When did you decide presidential vote?,916,Before September,57%,63%,34%,3%
+IL,When did you decide presidential vote?,916,In the last week,22%,N/A,N/A,N/A
+IL,When did you decide presidential vote?,916,Before that,77%,68%,30%,2%
+IL,When did you decide presidential vote?,916,In the last month,30%,N/A,N/A,N/A
+IL,When did you decide presidential vote?,916,Before that,69%,66%,32%,2%
+IL,Opinion of presidential candidate you voted for,916,Strongly favor ,33%,N/A,N/A
+IL,Opinion of presidential candidate you voted for,916,Have reservations,39%,N/A,N/A
+IL,Opinion of presidential candidate you voted for,916,Dislike opponents,28%,N/A,N/A
+IL,Most important issue facing the country,916,Foreign policy,12%,N/A,N/A,N/A
+IL,Most important issue facing the country,916,Immigration,17%,N/A,N/A,N/A
+IL,Most important issue facing the country,916,Economy,56%,59%,36%,5%
+IL,Most important issue facing the country,916,Terrorism,12%,N/A,N/A,N/A
+IL,Which candidate quality mattered most?,916,Cares about me,16%,N/A,N/A,N/A
+IL,Which candidate quality mattered most?,916,Can bring change,41%,23%,74%,3%
+IL,Which candidate quality mattered most?,916,Right experience,26%,N/A,N/A,N/A
+IL,Which candidate quality mattered most?,916,Good judgment,15%,N/A,N/A,N/A
+IL,Illegal immigrants working in the U.S. should be:,916,Offered legal status,74%,59%,31%,5%,4%,1%
+IL,Illegal immigrants working in the U.S. should be:,916,Deported to home country,25%,N/A,N/A,N/A,N/A,N/A
+IL,View of U.S. wall along the entire Mexican border,916,Support,34%,N/A,N/A,N/A,N/A,N/A
+IL,View of U.S. wall along the entire Mexican border,916,Oppose,63%,72%,20%,6%,2%,N/A
+IL,Effect of international trade,916,Creates U.S. jobs,42%,N/A,N/A
+IL,Effect of international trade,916,Takes away U.S. jobs,42%,N/A,N/A
+IL,Effect of international trade,916,Does not affect jobs,9%,N/A,N/A
+IL,How is the fight against ISIS going?,916,Very well,10%,N/A,N/A
+IL,How is the fight against ISIS going?,916,Somewhat well,39%,N/A,N/A
+IL,How is the fight against ISIS going?,916,Somewhat badly,25%,N/A,N/A
+IL,How is the fight against ISIS going?,916,Very badly,24%,N/A,N/A
+IL,How is the fight against ISIS going?,916,Well,50%,N/A,N/A
+IL,How is the fight against ISIS going?,916,Badly,49%,N/A,N/A
+IL,"In your vote, were Supreme Court appointments:",916,The most important factor,30%,N/A,N/A
+IL,"In your vote, were Supreme Court appointments:",916,An important factor,43%,N/A,N/A
+IL,"In your vote, were Supreme Court appointments:",916,A minor factor,14%,N/A,N/A
+IL,"In your vote, were Supreme Court appointments:",916,Not a factor at all,10%,N/A,N/A
+IL,"In your vote, were Supreme Court appointments:",916,Important,74%,57%,40%,3%
+IL,"In your vote, were Supreme Court appointments:",916,Not important,23%,N/A,N/A,N/A
+IL,Does the country's criminal justice system:,916,Treat all fairly,37%,N/A,N/A
+IL,Does the country's criminal justice system:,916,Treat blacks unfairly,56%,N/A,N/A
+IL,View on Obamacare,916,Did not go far enough,31%,N/A,N/A
+IL,View on Obamacare,916,Was about right,21%,N/A,N/A
+IL,View on Obamacare,916,Went too far,44%,N/A,N/A
+IL,Feelings about the federal government,916,Enthusiastic,6%,N/A,N/A
+IL,Feelings about the federal government,916,Satisfied,24%,N/A,N/A
+IL,Feelings about the federal government,916,Dissatisfied,45%,N/A,N/A
+IL,Feelings about the federal government,916,Angry,24%,N/A,N/A
+IL,Feelings about the federal government,916,Enthusiastic/Satisfied,30%,N/A,N/A,N/A
+IL,Feelings about the federal government,916,Dissatisfied/Angry,69%,42%,54%,4%
+IL,Opinion of government,916,Government should do more,55%,N/A,N/A
+IL,Opinion of government,916,Government doing too much,41%,N/A,N/A
+IL,Opinion of Barack Obama as president,916,Strongly approve,43%,N/A,N/A
+IL,Opinion of Barack Obama as president,916,Somewhat approve,18%,N/A,N/A
+IL,Opinion of Barack Obama as president,916,Somewhat disapprove,9%,N/A,N/A
+IL,Opinion of Barack Obama as president,916,Strongly disapprove,27%,N/A,N/A
+IL,Opinion of Barack Obama as president,916,Approve,61%,92%,4%,4%
+IL,Opinion of Barack Obama as president,916,Disapprove,36%,N/A,N/A,N/A
+IL,Should the next president:,916,Continue Obama's policies,32%,N/A,N/A
+IL,Should the next president:,916,Be more conservative,48%,N/A,N/A
+IL,Should the next president:,916,Be more liberal,18%,N/A,N/A
+IL,Opinion of Hillary Clinton,916,Favorable,54%,N/A,N/A
+IL,Opinion of Hillary Clinton,916,Unfavorable,45%,N/A,N/A
+IL,Opinion of Donald Trump,916,Favorable,25%,N/A,N/A,N/A,N/A,N/A
+IL,Opinion of Donald Trump,916,Unfavorable,74%,80%,14%,5%,1%,N/A
+IL,Opinion of Clinton and Trump,916,Both favorable,1%,N/A,N/A
+IL,Opinion of Clinton and Trump,916,Only Clinton favorable,53%,N/A,N/A
+IL,Opinion of Clinton and Trump,916,Only Trump favorable,24%,N/A,N/A
+IL,Opinion of Clinton and Trump,916,Both unfavorable,21%,N/A,N/A
+IL,Is Hillary Clinton honest and trustworthy?,916,Yes,36%,N/A,N/A,N/A
+IL,Is Hillary Clinton honest and trustworthy?,916,No,62%,25%,68%,7%
+IL,Is Donald Trump honest and trustworthy?,916,Yes,27%,N/A,N/A,N/A
+IL,Is Donald Trump honest and trustworthy?,916,No,73%,70%,25%,5%
+IL,Which candidate is honest?,916,Both are,1%,N/A,N/A
+IL,Which candidate is honest?,916,Only Clinton is,35%,N/A,N/A
+IL,Which candidate is honest?,916,Only Trump is,25%,N/A,N/A
+IL,Which candidate is honest?,916,Neither is,37%,N/A,N/A
+IL,Is Clinton qualified to serve as president?,916,Yes,52%,N/A,N/A
+IL,Is Clinton qualified to serve as president?,916,No,47%,N/A,N/A
+IL,Is Trump qualified to serve as president?,916,Yes,32%,N/A,N/A,N/A,N/A,N/A
+IL,Is Trump qualified to serve as president?,916,No,68%,73%,17%,6%,4%,N/A
+IL,Who is qualified to serve as president?,916,Both are,6%,N/A,N/A
+IL,Who is qualified to serve as president?,916,Only Clinton is,46%,N/A,N/A
+IL,Who is qualified to serve as president?,916,Only Trump is,26%,N/A,N/A
+IL,Who is qualified to serve as president?,916,Neither is,21%,N/A,N/A
+IL,Does Clinton have the temperament to be president?,916,Yes,64%,82%,15%,3%
+IL,Does Clinton have the temperament to be president?,916,No,36%,N/A,N/A,N/A
+IL,Does Trump have the temperament to be president?,916,Yes,24%,N/A,N/A,N/A
+IL,Does Trump have the temperament to be president?,916,No,74%,68%,26%,6%
+IL,Which candidate has the right temperament?,916,Both do,5%,N/A,N/A,N/A
+IL,Which candidate has the right temperament?,916,Only Clinton does,60%,87%,9%,4%
+IL,Which candidate has the right temperament?,916,Only Trump does,20%,N/A,N/A,N/A
+IL,Which candidate has the right temperament?,916,Neither does,16%,N/A,N/A,N/A
+IL,How would you feel if Clinton wins?,916,Excited,16%,N/A,N/A
+IL,How would you feel if Clinton wins?,916,Optimistic,38%,N/A,N/A
+IL,How would you feel if Clinton wins?,916,Concerned,19%,N/A,N/A
+IL,How would you feel if Clinton wins?,916,Scared,25%,N/A,N/A
+IL,How would you feel if Clinton wins?,916,Positive,55%,N/A,N/A
+IL,How would you feel if Clinton wins?,916,Negative,44%,N/A,N/A
+IL,How would you feel if Trump wins?,916,Excited,15%,N/A,N/A
+IL,How would you feel if Trump wins?,916,Optimistic,17%,N/A,N/A
+IL,How would you feel if Trump wins?,916,Concerned,20%,N/A,N/A
+IL,How would you feel if Trump wins?,916,Scared,47%,N/A,N/A
+IL,How would you feel if Trump wins?,916,Positive,32%,N/A,N/A,N/A,N/A,N/A
+IL,How would you feel if Trump wins?,916,Negative,66%,80%,13%,6%,1%,N/A
+IL,Does Clinton's use of private email bother you:,916,A lot,40%,N/A,N/A
+IL,Does Clinton's use of private email bother you:,916,Some,18%,N/A,N/A
+IL,Does Clinton's use of private email bother you:,916,Not much,18%,N/A,N/A
+IL,Does Clinton's use of private email bother you:,916,Not at all,22%,N/A,N/A
+IL,Does Clinton's use of private email bother you?,916,Yes,57%,N/A,N/A
+IL,Does Clinton's use of private email bother you?,916,No,40%,N/A,N/A
+IL,Does Donald Trump's treatment of women bother you:,916,A lot,62%,89%,10%,1%
+IL,Does Donald Trump's treatment of women bother you:,916,Some,16%,N/A,N/A,N/A
+IL,Does Donald Trump's treatment of women bother you:,916,Not much,11%,N/A,N/A,N/A
+IL,Does Donald Trump's treatment of women bother you:,916,Not at all,9%,N/A,N/A,N/A
+IL,Does Donald Trump's treatment of women bother you?,916,Yes,78%,72%,22%,5%,1%,N/A
+IL,Does Donald Trump's treatment of women bother you?,916,No,20%,N/A,N/A,N/A,N/A,N/A
+IL,Who would better handle the economy?,916,Clinton,52%,94%,N/A,5%,1%,N/A
+IL,Who would better handle the economy?,916,Trump,44%,N/A,N/A,N/A,N/A,N/A
+IL,Who would better handle foreign policy?,916,Clinton,60%,86%,8%,5%,1%,N/A
+IL,Who would better handle foreign policy?,916,Trump,35%,N/A,N/A,N/A,N/A,N/A
+IL,Who would be a better commander in chief?,916,Clinton,60%,91%,3%,5%,1%,N/A
+IL,Who would be a better commander in chief?,916,Trump,40%,N/A,N/A,N/A,N/A,N/A
+IL,Opinion of the Democratic Party,916,Favorable,54%,N/A,N/A
+IL,Opinion of the Democratic Party,916,Unfavorable,45%,N/A,N/A
+IL,Opinion of the Republican Party,916,Favorable,36%,N/A,N/A,N/A,N/A,N/A
+IL,Opinion of the Republican Party,916,Unfavorable,64%,75%,18%,5%,2%,N/A
+IL,Condition of national economy,916,Excellent,4%,N/A,N/A
+IL,Condition of national economy,916,Good,31%,N/A,N/A
+IL,Condition of national economy,916,Not good,44%,N/A,N/A
+IL,Condition of national economy,916,Poor,21%,N/A,N/A
+IL,Condition of national economy,916,Good,35%,N/A,N/A,N/A
+IL,Condition of national economy,916,Poor,65%,40%,56%,4%
+IL,Financial situation compared to four years ago:,916,Better today,38%,N/A,N/A
+IL,Financial situation compared to four years ago:,916,Worse today,28%,N/A,N/A
+IL,Financial situation compared to four years ago:,916,About the same,33%,N/A,N/A
+IL,Direction of the country,916,Right direction,40%,N/A,N/A,N/A,N/A
+IL,Direction of the country,916,Wrong track,57%,39%,56%,5%,N/A
+IL,Life for the next generation of Americans will be:,916,Better than today,38%,N/A,N/A
+IL,Life for the next generation of Americans will be:,916,Worse than today,29%,N/A,N/A
+IL,Life for the next generation of Americans will be:,916,About the same,29%,N/A,N/A
+IL,Vote for president in a two-way race,916,Clinton,56%,97%,1%,2%
+IL,Vote for president in a two-way race,916,Trump,37%,N/A,95%,5%
+IL,Vote for president in a two-way race,916,Would not vote,6%,N/A,N/A,N/A
+IL,How confident are you in the vote count?,916,Very confident,50%,N/A,N/A
+IL,How confident are you in the vote count?,916,Somewhat confident,33%,N/A,N/A
+IL,How confident are you in the vote count?,916,Not very confident,8%,N/A,N/A
+IL,How confident are you in the vote count?,916,Not at all confident,7%,N/A,N/A
+IL,Are you confident in the vote count?,916,Confident,83%,69%,26%,5%,N/A
+IL,Are you confident in the vote count?,916,Not confident,15%,N/A,N/A,N/A,N/A
+IL,"Are you gay, lesbian, bisexual or transgender?",916,Yes,8%,N/A,N/A,N/A
+IL,"Are you gay, lesbian, bisexual or transgender?",916,No,92%,60%,35%,5%
+IL,Importance of debates to your vote,916,Most important factor,31%,N/A,N/A
+IL,Importance of debates to your vote,916,An important factor,36%,N/A,N/A
+IL,Importance of debates to your vote,916,A minor factor,16%,N/A,N/A
+IL,Importance of debates to your vote,916,Not a factor,11%,N/A,N/A
+IL,Importance of debates to your vote,916,Important,67%,63%,32%,5%
+IL,Importance of debates to your vote,916,Not important,27%,N/A,N/A,N/A
+IL,Were debates a factor in your vote?,916,Yes,83%,63%,33%,4%
+IL,Were debates a factor in your vote?,916,No,11%,N/A,N/A,N/A
+IL,Area type,916,Urban area,26%,80%,15%,3%,2%,N/A
+IL,Area type,916,Suburban area,48%,53%,42%,3%,2%,N/A
+IL,Area type,916,Rural area,26%,34%,59%,6%,1%,N/A
+IL,Region,916,Chicago,20%,82%,12%,3%,3%,N/A
+IL,Region,916,Cook Suburbs,20%,59%,34%,5%,2%,N/A
+IL,Region,916,Collar Counties,27%,61%,36%,2%,1%,N/A
+IL,Region,916,North,14%,52%,43%,5%,0%,N/A
+IL,Region,916,Central / South,19%,18%,76%,6%,1%,N/A

@@ -1,0 +1,129 @@
+state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+NJ,Gender,1633,Male,48%,50%,46%,4%
+NJ,Gender,1633,Female,52%,58%,39%,3%
+NJ,Age,1633,18-29,15%,62%,30%,8%
+NJ,Age,1633,30-44,25%,57%,41%,2%
+NJ,Age,1633,45-64,45%,54%,44%,2%
+NJ,Age,1633,65 and older,16%,47%,50%,3%
+NJ,Age,1633,18-24,8%,64%,29%,6%,2%,N/A
+NJ,Age,1633,25-29,7%,60%,32%,3%,3%,2%
+NJ,Age,1633,30-39,15%,54%,42%,2%,1%,1%
+NJ,Age,1633,40-49,21%,57%,41%,1%,0%,1%
+NJ,Age,1633,50-64,33%,53%,45%,1%,1%,N/A
+NJ,Age,1633,65 and older,16%,47%,50%,2%,1%,N/A
+NJ,Age,1633,18-44,39%,59%,37%,4%
+NJ,Age,1633,45 and older,61%,52%,46%,2%
+NJ,Race,1633,White,67%,42%,55%,3%
+NJ,Race,1633,Black,14%,89%,9%,2%
+NJ,Race,1633,Latino,14%,76%,23%,1%
+NJ,Race,1633,Asian,4%,N/A,N/A,N/A
+NJ,Race,1633,Other race,1%,N/A,N/A,N/A
+NJ,Race,1633,White,67%,42%,55%,3%
+NJ,Race,1633,Non-white,33%,82%,17%,1%
+NJ,Race and gender,1633,White men,33%,37%,58%,5%
+NJ,Race and gender,1633,White women,34%,46%,51%,3%
+NJ,Race and gender,1633,Black men,7%,N/A,N/A,N/A
+NJ,Race and gender,1633,Black women,7%,92%,8%,N/A
+NJ,Race and gender,1633,Latino men,6%,N/A,N/A,N/A
+NJ,Race and gender,1633,Latino women,8%,77%,22%,1%
+NJ,Race and gender,1633,Others,5%,78%,20%,2%
+NJ,Education,1633,High school or less,12%,48%,49%,3%
+NJ,Education,1633,Some college,31%,48%,50%,2%
+NJ,Education,1633,College graduate,33%,55%,41%,4%
+NJ,Education,1633,Postgraduate,24%,67%,29%,4%
+NJ,Are you a college graduate?,1633,Yes,57%,60%,36%,4%
+NJ,Are you a college graduate?,1633,No,43%,48%,50%,2%
+NJ,Education and race,1633,White college graduates,41%,52%,44%,4%
+NJ,Education and race,1633,Whites no degree,27%,26%,70%,4%
+NJ,Education and race,1633,Non-whites college grads,17%,81%,16%,3%
+NJ,Education and race,1633,Non-whites no degree,16%,83%,17%,N/A
+NJ,Education among whites by sex,1633,White college-grad women,22%,56%,41%,3%
+NJ,Education among whites by sex,1633,White non-college women,13%,28%,69%,3%
+NJ,Education among whites by sex,1633,White college-grad men,18%,47%,48%,5%
+NJ,Education among whites by sex,1633,White non-college men,13%,24%,71%,5%
+NJ,Education among whites by sex,1633,Non-whites,33%,82%,16%,2%
+NJ,Income,1633,"Under $30,000",9%,N/A,N/A,N/A
+NJ,Income,1633,"$30K-$49,999",12%,67%,26%,7%
+NJ,Income,1633,"$50K-$99,999",32%,54%,43%,3%
+NJ,Income,1633,"$100K-$199,999",31%,47%,50%,3%
+NJ,Income,1633,"$200K-$249,999",6%,N/A,N/A,N/A
+NJ,Income,1633,"$250,000 or more",10%,58%,39%,3%
+NJ,Income,1633,Under $50K,21%,64%,32%,4%
+NJ,Income,1633,$50K-$100K,32%,54%,43%,3%
+NJ,Income,1633,$100K or more,47%,50%,46%,4%
+NJ,Income,1633,Under $50K,21%,64%,32%,4%
+NJ,Income,1633,$50K or more,79%,52%,45%,3%
+NJ,Income,1633,Under $100K,53%,58%,39%,3%
+NJ,Income,1633,$100K or more,47%,50%,46%,4%
+NJ,Party ID,1633,Democrats,43%,86%,12%,2%
+NJ,Party ID,1633,Republicans,27%,12%,86%,2%
+NJ,Party ID,1633,Independents,30%,48%,46%,6%
+NJ,Party by gender,1633,Democratic men,19%,83%,14%,2%,1%,N/A
+NJ,Party by gender,1633,Democratic women,24%,89%,10%,1%,0%,N/A
+NJ,Party by gender,1633,Republican men,13%,13%,85%,1%,0%,1%
+NJ,Party by gender,1633,Republican women,14%,11%,87%,1%,0%,1%
+NJ,Party by gender,1633,Independent men,15%,44%,48%,5%,2%,1%
+NJ,Party by gender,1633,Independent women,15%,52%,44%,2%,2%,N/A
+NJ,Ideology,1633,Liberal,28%,84%,13%,3%
+NJ,Ideology,1633,Moderate,49%,56%,40%,4%
+NJ,Ideology,1633,Conservative,23%,17%,81%,2%
+NJ,Marital status,1633,Married,61%,51%,47%,2%
+NJ,Marital status,1633,Unmarried,39%,60%,35%,5%
+NJ,Marital status by gender,1633,Married men,29%,51%,46%,3%
+NJ,Marital status by gender,1633,Married women,32%,50%,48%,2%
+NJ,Marital status by gender,1633,Unmarried men,18%,52%,42%,6%
+NJ,Marital status by gender,1633,Unmarried women,20%,66%,29%,5%
+NJ,Union household?,1633,Yes,28%,58%,38%,4%
+NJ,Union household?,1633,No,72%,51%,45%,4%
+NJ,When did you decide presidential vote?,1633,Last few days,12%,52%,38%,10%
+NJ,When did you decide presidential vote?,1633,Last week,5%,N/A,N/A,N/A
+NJ,When did you decide presidential vote?,1633,In October,9%,N/A,N/A,N/A
+NJ,When did you decide presidential vote?,1633,In September,7%,N/A,N/A,N/A
+NJ,When did you decide presidential vote?,1633,Before September,67%,55%,43%,2%
+NJ,When did you decide presidential vote?,1633,In the last week,16%,49%,42%,5%,2%,2%
+NJ,When did you decide presidential vote?,1633,Before that,83%,55%,43%,1%,1%,N/A
+NJ,When did you decide presidential vote?,1633,In the last month,25%,50%,42%,8%
+NJ,When did you decide presidential vote?,1633,Before that,74%,55%,43%,2%
+NJ,Opinion of presidential candidate you voted for,1633,Strongly favor ,50%,58%,40%,1%,1%,N/A
+NJ,Opinion of presidential candidate you voted for,1633,Have reservations,30%,55%,42%,2%,1%,N/A
+NJ,Opinion of presidential candidate you voted for,1633,Dislike opponents,18%,46%,45%,5%,2%,2%
+NJ,Most important issue facing the country,1633,Foreign policy,10%,73%,22%,5%
+NJ,Most important issue facing the country,1633,Immigration,13%,35%,63%,2%
+NJ,Most important issue facing the country,1633,Economy,54%,59%,37%,4%
+NJ,Most important issue facing the country,1633,Terrorism,19%,46%,53%,1%
+NJ,Which candidate quality mattered most?,1633,Cares about me,15%,62%,36%,2%
+NJ,Which candidate quality mattered most?,1633,Can bring change,41%,19%,78%,3%
+NJ,Which candidate quality mattered most?,1633,Right experience,25%,92%,6%,2%
+NJ,Which candidate quality mattered most?,1633,Good judgment,15%,78%,15%,7%
+NJ,Opinion of Hillary Clinton,1633,Favorable,48%,95%,5%,N/A
+NJ,Opinion of Hillary Clinton,1633,Unfavorable,50%,14%,80%,6%
+NJ,Opinion of Donald Trump,1633,Favorable,35%,3%,96%,1%
+NJ,Opinion of Donald Trump,1633,Unfavorable,64%,82%,13%,5%
+NJ,Opinion of Clinton and Trump,1633,Both favorable,1%,N/A,N/A,N/A,N/A,N/A
+NJ,Opinion of Clinton and Trump,1633,Only Clinton favorable,47%,96%,3%,0%,0%,1%
+NJ,Opinion of Clinton and Trump,1633,Only Trump favorable,34%,1%,97%,1%,0%,1%
+NJ,Opinion of Clinton and Trump,1633,Both unfavorable,16%,40%,43%,9%,5%,3%
+NJ,Is Hillary Clinton honest and trustworthy?,1633,Yes,38%,97%,3%,N/A
+NJ,Is Hillary Clinton honest and trustworthy?,1633,No,61%,28%,67%,5%
+NJ,Is Donald Trump honest and trustworthy?,1633,Yes,34%,5%,93%,2%
+NJ,Is Donald Trump honest and trustworthy?,1633,No,65%,80%,16%,4%
+NJ,Which candidate is honest?,1633,Both are,2%,N/A,N/A,N/A,N/A,N/A
+NJ,Which candidate is honest?,1633,Only Clinton is,36%,97%,3%,0%,N/A,N/A
+NJ,Which candidate is honest?,1633,Only Trump is,32%,1%,97%,2%,0%,N/A
+NJ,Which candidate is honest?,1633,Neither is,28%,58%,32%,5%,3%,2%
+NJ,Opinion of Chris Christie as governor,1633,Approve,25%,29%,69%,2%
+NJ,Opinion of Chris Christie as governor,1633,Disapprove,72%,63%,33%,4%
+NJ,Worried about terrorist attack in U.S.?,1633,Very worried,38%,41%,57%,2%
+NJ,Worried about terrorist attack in U.S.?,1633,Somewhat worried,44%,58%,37%,5%
+NJ,Worried about terrorist attack in U.S.?,1633,Not too worried,15%,69%,27%,4%
+NJ,Worried about terrorist attack in U.S.?,1633,Not at all worried,2%,N/A,N/A,N/A
+NJ,Worried about terrorist attack in U.S.?,1633,Yes,82%,50%,47%,3%
+NJ,Worried about terrorist attack in U.S.?,1633,No,17%,68%,27%,5%
+NJ,Life for the next generation of Americans will be:,1633,Better than today,36%,63%,35%,2%
+NJ,Life for the next generation of Americans will be:,1633,Worse than today,32%,37%,58%,5%
+NJ,Life for the next generation of Americans will be:,1633,About the same,29%,62%,35%,3%
+NJ,Region,1633,Urban North,20%,73%,24%,3%
+NJ,Region,1633,Suburban North,16%,54%,44%,2%
+NJ,Region,1633,Northwest,16%,45%,51%,4%
+NJ,Region,1633,Central,20%,54%,43%,3%
+NJ,Region,1633,South,29%,48%,48%,4%

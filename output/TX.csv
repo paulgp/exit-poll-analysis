@@ -1,0 +1,111 @@
+state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+TX,Gender,1203,Male,49%,25%,50%,19%,5%,0%,1%
+TX,Gender,1203,Female,51%,34%,39%,22%,3%,1%,1%
+TX,Age,1203,18-29,22%,31%,36%,25%,6%,1%,1%
+TX,Age,1203,30-44,33%,31%,39%,23%,5%,1%,1%
+TX,Age,1203,45-64,31%,31%,48%,18%,2%,1%,N/A
+TX,Age,1203,65 and older,14%,21%,62%,15%,1%,N/A,1%
+TX,Age,1203,18-24,13%,36%,36%,22%,6%,0%,N/A
+TX,Age,1203,25-29,9%,24%,37%,30%,7%,2%,N/A
+TX,Age,1203,30-39,23%,31%,36%,25%,5%,1%,2%
+TX,Age,1203,40-49,17%,31%,50%,15%,2%,0%,2%
+TX,Age,1203,50-64,23%,32%,45%,19%,2%,1%,1%
+TX,Age,1203,65 and older,14%,21%,62%,15%,1%,N/A,1%
+TX,Age,1203,18-44,55%,31%,38%,24%,5%,1%,1%
+TX,Age,1203,45 and older,45%,28%,53%,17%,1%,0%,1%
+TX,Race,1203,White,86%,25%,47%,22%,4%,1%,1%
+TX,Race,1203,Black,0%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Race,1203,Latino,9%,63%,24%,10%,1%,N/A,2%
+TX,Race,1203,Asian,1%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Race,1203,Other race,3%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Race,1203,White,86%,25%,47%,22%,4%,1%,1%
+TX,Race,1203,Non-white,14%,61%,25%,9%,3%,N/A,2%
+TX,Race and gender,1203,White men,42%,21%,53%,21%,4%,0%,1%
+TX,Race and gender,1203,White women,44%,29%,42%,24%,3%,1%,1%
+TX,Race and gender,1203,Black men,0%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Race and gender,1203,Black women,0%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Race and gender,1203,Latino men,5%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Race and gender,1203,Latino women,5%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Race and gender,1203,Others,4%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Education,1203,High school or less,12%,35%,51%,8%,3%,2%,1%
+TX,Education,1203,Some college,36%,27%,51%,17%,3%,1%,1%
+TX,Education,1203,College graduate,33%,27%,38%,29%,3%,0%,3%
+TX,Education,1203,Postgraduate,18%,39%,35%,21%,5%,0%,N/A
+TX,Are you a college graduate?,1203,Yes,51%,31%,37%,26%,4%,0%,2%
+TX,Are you a college graduate?,1203,No,49%,29%,51%,15%,3%,1%,1%
+TX,Education and race,1203,White college graduates,46%,29%,38%,28%,4%,0%,1%
+TX,Education and race,1203,Whites no degree,40%,21%,57%,17%,3%,1%,1%
+TX,Education and race,1203,Non-whites college grads,5%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Education and race,1203,Non-whites no degree,8%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Education among whites by sex,1203,White college-grad women,23%,35%,33%,29%,2%,1%,N/A
+TX,Education among whites by sex,1203,White non-college women,21%,23%,52%,19%,4%,2%,N/A
+TX,Education among whites by sex,1203,White college-grad men,23%,22%,43%,27%,6%,0%,2%
+TX,Education among whites by sex,1203,White non-college men,19%,19%,63%,15%,2%,1%,N/A
+TX,Education among whites by sex,1203,Non-whites,14%,61%,24%,9%,4%,N/A,2%
+TX,Party ID,1203,Democrats,23%,83%,8%,7%,1%,1%,N/A
+TX,Party ID,1203,Republicans,44%,6%,65%,27%,2%,0%,N/A
+TX,Party ID,1203,Independents,34%,26%,41%,22%,7%,1%,3%
+TX,Party by gender,1203,Democratic men,9%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Party by gender,1203,Democratic women,13%,87%,8%,5%,0%,0%,N/A
+TX,Party by gender,1203,Republican men,22%,7%,70%,22%,1%,N/A,N/A
+TX,Party by gender,1203,Republican women,21%,5%,60%,32%,3%,0%,N/A
+TX,Party by gender,1203,Independent men,17%,21%,45%,21%,11%,1%,1%
+TX,Party by gender,1203,Independent women,17%,32%,38%,23%,4%,2%,1%
+TX,Ideology,1203,Liberal,20%,78%,10%,5%,3%,2%,2%
+TX,Ideology,1203,Moderate,35%,38%,33%,22%,5%,0%,2%
+TX,Ideology,1203,Conservative,45%,4%,67%,26%,2%,0%,1%
+TX,Religion,1203,Mormon,62%,14%,51%,31%,3%,0%,1%
+TX,Religion,1203,Protestant/Christian,18%,49%,39%,8%,3%,1%,N/A
+TX,Religion,1203,Other religion,3%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Religion,1203,No religion,17%,57%,30%,4%,4%,3%,2%
+TX,Religion,1203,Mormon,62%,14%,51%,31%,3%,0%,1%
+TX,Religion,1203,Other religion,38%,54%,33%,7%,4%,2%,N/A
+TX,When did you decide presidential vote?,1203,Last few days,14%,15%,44%,33%,4%,1%,3%
+TX,When did you decide presidential vote?,1203,Last week,7%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,When did you decide presidential vote?,1203,In October,22%,11%,40%,41%,6%,1%,1%
+TX,When did you decide presidential vote?,1203,In September,12%,29%,49%,18%,3%,1%,N/A
+TX,When did you decide presidential vote?,1203,Before September,43%,43%,49%,4%,3%,1%,N/A
+TX,When did you decide presidential vote?,1203,In the last week,21%,19%,41%,34%,3%,1%,2%
+TX,When did you decide presidential vote?,1203,Before that,78%,32%,47%,17%,4%,1%,N/A
+TX,When did you decide presidential vote?,1203,In the last month,43%,15%,40%,37%,4%,1%,3%
+TX,When did you decide presidential vote?,1203,Before that,55%,40%,49%,7%,3%,1%,N/A
+TX,Opinion of presidential candidate you voted for,1203,Strongly favor ,38%,36%,40%,19%,2%,2%,1%
+TX,Opinion of presidential candidate you voted for,1203,Have reservations,31%,31%,53%,11%,4%,N/A,1%
+TX,Opinion of presidential candidate you voted for,1203,Dislike opponents,30%,18%,40%,34%,5%,0%,3%
+TX,Most important issue facing the country,1203,Foreign policy,15%,46%,27%,22%,3%,1%,1%
+TX,Most important issue facing the country,1203,Immigration,13%,27%,60%,11%,2%,N/A,N/A
+TX,Most important issue facing the country,1203,Economy,54%,26%,46%,22%,4%,1%,1%
+TX,Most important issue facing the country,1203,Terrorism,13%,21%,51%,22%,4%,N/A,2%
+TX,Which candidate quality mattered most?,1203,Cares about me,9%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Which candidate quality mattered most?,1203,Can bring change,40%,7%,79%,11%,2%,1%,N/A
+TX,Which candidate quality mattered most?,1203,Right experience,17%,78%,13%,8%,1%,1%,N/A
+TX,Which candidate quality mattered most?,1203,Good judgment,30%,29%,18%,43%,8%,0%,2%
+TX,Opinion of Hillary Clinton,1203,Favorable,26%,93%,2%,4%,1%,N/A,N/A
+TX,Opinion of Hillary Clinton,1203,Unfavorable,72%,5%,60%,27%,5%,1%,2%
+TX,Opinion of Donald Trump,1203,Favorable,33%,1%,95%,3%,0%,N/A,1%
+TX,Opinion of Donald Trump,1203,Unfavorable,64%,44%,18%,30%,6%,1%,1%
+TX,Opinion of Clinton and Trump,1203,Both favorable,0%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Opinion of Clinton and Trump,1203,Only Clinton favorable,26%,94%,1%,4%,1%,N/A,N/A
+TX,Opinion of Clinton and Trump,1203,Only Trump favorable,33%,1%,96%,3%,0%,N/A,N/A
+TX,Opinion of Clinton and Trump,1203,Both unfavorable,38%,9%,29%,49%,9%,2%,2%
+TX,Is Hillary Clinton honest and trustworthy?,1203,Yes,22%,90%,2%,8%,0%,N/A,N/A
+TX,Is Hillary Clinton honest and trustworthy?,1203,No,76%,10%,57%,25%,5%,1%,2%
+TX,Is Donald Trump honest and trustworthy?,1203,Yes,32%,1%,95%,3%,1%,0%,N/A
+TX,Is Donald Trump honest and trustworthy?,1203,No,65%,44%,18%,30%,5%,1%,2%
+TX,Which candidate is honest?,1203,Both are,0%,N/A,N/A,N/A,N/A,N/A,N/A
+TX,Which candidate is honest?,1203,Only Clinton is,22%,91%,1%,8%,0%,N/A,N/A
+TX,Which candidate is honest?,1203,Only Trump is,31%,1%,95%,3%,1%,0%,N/A
+TX,Which candidate is honest?,1203,Neither is,42%,18%,28%,42%,8%,2%,2%
+TX,Life for the next generation of Americans will be:,1203,Better than today,27%,38%,42%,16%,2%,1%,1%
+TX,Life for the next generation of Americans will be:,1203,Worse than today,37%,12%,55%,26%,5%,1%,1%
+TX,Life for the next generation of Americans will be:,1203,About the same,29%,42%,31%,22%,5%,0%,N/A
+TX,Vote for president in a two-way race,1203,Clinton,35%,82%,0%,14%,3%,0%,1%
+TX,Vote for president in a two-way race,1203,Trump,51%,0%,86%,11%,2%,0%,1%
+TX,Vote for president in a two-way race,1203,Would not vote,13%,2%,4%,72%,14%,4%,4%
+TX,Area type,1203,Urban area,34%,39%,39%,17%,2%,1%,2%
+TX,Area type,1203,Suburban area,49%,26%,45%,24%,3%,0%,2%
+TX,Area type,1203,Rural area,17%,24%,52%,17%,6%,N/A,1%
+TX,Region,1203,East,30%,21%,54%,20%,3%,2%,N/A
+TX,Region,1203,Salt Lake County,36%,52%,26%,17%,5%,0%,N/A
+TX,Region,1203,Utah County,16%,10%,53%,33%,2%,1%,1%
+TX,Region,1203,West,18%,21%,57%,17%,5%,N/A,N/A

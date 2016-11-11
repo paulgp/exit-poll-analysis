@@ -1,0 +1,264 @@
+state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+CA,Gender,2469,Male,49%,57%,36%,7%
+CA,Gender,2469,Female,51%,66%,30%,4%
+CA,Age,2469,18-29,20%,66%,23%,6%,5%,N/A
+CA,Age,2469,30-44,24%,67%,27%,3%,3%,N/A
+CA,Age,2469,45-64,38%,57%,39%,2%,2%,N/A
+CA,Age,2469,65 and older,18%,61%,36%,2%,0%,1%
+CA,Age,2469,18-24,11%,67%,18%,8%,6%,1%
+CA,Age,2469,25-29,9%,64%,29%,3%,4%,N/A
+CA,Age,2469,30-39,16%,70%,23%,3%,4%,N/A
+CA,Age,2469,40-49,18%,60%,36%,2%,2%,N/A
+CA,Age,2469,50-64,28%,57%,40%,2%,1%,N/A
+CA,Age,2469,65 and older,18%,61%,36%,2%,0%,1%
+CA,Age,2469,18-44,44%,67%,25%,8%
+CA,Age,2469,45 and older,56%,58%,38%,4%
+CA,Race,2469,White,48%,50%,45%,3%,1%,1%
+CA,Race,2469,Black,6%,88%,9%,1%,3%,N/A
+CA,Race,2469,Latino,31%,71%,24%,2%,2%,1%
+CA,Race,2469,Asian,12%,70%,17%,6%,6%,1%
+CA,Race,2469,Other race,3%,N/A,N/A,N/A,N/A,N/A
+CA,Race,2469,White,48%,50%,45%,5%
+CA,Race,2469,Non-white,52%,73%,21%,6%
+CA,Race and gender,2469,White men,23%,43%,50%,4%,2%,1%
+CA,Race and gender,2469,White women,25%,57%,40%,2%,1%,N/A
+CA,Race and gender,2469,Black men,3%,N/A,N/A,N/A,N/A,N/A
+CA,Race and gender,2469,Black women,3%,N/A,N/A,N/A,N/A,N/A
+CA,Race and gender,2469,Latino men,13%,68%,27%,2%,2%,1%
+CA,Race and gender,2469,Latino women,18%,73%,22%,2%,2%,1%
+CA,Race and gender,2469,Others,15%,70%,20%,5%,5%,N/A
+CA,Education,2469,High school or less,15%,61%,31%,5%,2%,1%
+CA,Education,2469,Some college,31%,56%,39%,3%,2%,N/A
+CA,Education,2469,College graduate,35%,63%,32%,2%,2%,1%
+CA,Education,2469,Postgraduate,19%,67%,27%,2%,3%,1%
+CA,Are you a college graduate?,2469,Yes,54%,65%,30%,5%
+CA,Are you a college graduate?,2469,No,46%,57%,36%,7%
+CA,Education and race,2469,White college graduates,29%,59%,35%,6%
+CA,Education and race,2469,Whites no degree,19%,36%,59%,5%
+CA,Education and race,2469,Non-whites college grads,25%,72%,23%,5%
+CA,Education and race,2469,Non-whites no degree,27%,73%,20%,7%
+CA,Education among whites by sex,2469,White college-grad women,15%,67%,30%,2%,1%,N/A
+CA,Education among whites by sex,2469,White non-college women,10%,42%,54%,3%,1%,N/A
+CA,Education among whites by sex,2469,White college-grad men,14%,51%,41%,5%,2%,1%
+CA,Education among whites by sex,2469,White non-college men,9%,29%,64%,3%,2%,2%
+CA,Education among whites by sex,2469,Non-whites,52%,72%,21%,3%,3%,1%
+CA,Income,2469,"Under $30,000",17%,66%,29%,2%,3%,N/A
+CA,Income,2469,"$30K-$49,999",20%,75%,20%,1%,3%,1%
+CA,Income,2469,"$50K-$99,999",26%,67%,26%,5%,2%,N/A
+CA,Income,2469,"$100K-$199,999",26%,56%,42%,1%,1%,N/A
+CA,Income,2469,"$200K-$249,999",7%,N/A,N/A,N/A,N/A,N/A
+CA,Income,2469,"$250,000 or more",4%,N/A,N/A,N/A,N/A,N/A
+CA,Income,2469,Under $50K,37%,71%,24%,5%
+CA,Income,2469,$50K or more,63%,61%,34%,5%
+CA,Income,2469,Under $100K,63%,69%,25%,6%
+CA,Income,2469,$100K or more,37%,57%,40%,3%
+CA,Income,2469,Under $50K,37%,71%,24%,1%,3%,1%
+CA,Income,2469,$50K-$100K,26%,67%,26%,5%,2%,N/A
+CA,Income,2469,$100K or more,37%,57%,40%,1%,2%,N/A
+CA,Party ID,2469,Democrats,47%,92%,5%,1%,1%,1%
+CA,Party ID,2469,Republicans,23%,13%,84%,2%,1%,N/A
+CA,Party ID,2469,Independents,30%,50%,37%,7%,5%,1%
+CA,Party by gender,2469,Democratic men,19%,90%,5%,1%,3%,1%
+CA,Party by gender,2469,Democratic women,28%,93%,5%,1%,0%,1%
+CA,Party by gender,2469,Republican men,11%,13%,83%,2%,1%,1%
+CA,Party by gender,2469,Republican women,11%,12%,85%,3%,0%,N/A
+CA,Party by gender,2469,Independent men,19%,48%,39%,8%,4%,1%
+CA,Party by gender,2469,Independent women,11%,54%,35%,4%,6%,1%
+CA,Ideology,2469,Liberal,37%,88%,8%,4%
+CA,Ideology,2469,Moderate,35%,60%,33%,7%
+CA,Ideology,2469,Conservative,28%,28%,68%,4%
+CA,Marital status,2469,Married,57%,58%,38%,4%
+CA,Marital status,2469,Unmarried,43%,65%,27%,8%
+CA,Marital status by gender,2469,Married men,28%,57%,39%,1%,2%,1%
+CA,Marital status by gender,2469,Married women,29%,60%,38%,1%,1%,N/A
+CA,Marital status by gender,2469,Unmarried men,17%,56%,31%,7%,5%,1%
+CA,Marital status by gender,2469,Unmarried women,26%,70%,25%,2%,3%,N/A
+CA,White born-again or evangelical Christian?,2469,Yes,13%,N/A,N/A,N/A
+CA,White born-again or evangelical Christian?,2469,No,87%,69%,26%,5%
+CA,Religion,2469,Protestant,41%,45%,51%,2%,1%,1%
+CA,Religion,2469,Catholic,28%,63%,32%,1%,3%,1%
+CA,Religion,2469,Jewish,3%,N/A,N/A,N/A,N/A,N/A
+CA,Religion,2469,Another religion,7%,N/A,N/A,N/A,N/A,N/A
+CA,Religion,2469,No religion,21%,78%,12%,7%,3%,N/A
+CA,How often do you attend religious services?,2469,Weekly or more,27%,46%,52%,N/A,1%,1%
+CA,How often do you attend religious services?,2469,Monthly,13%,N/A,N/A,N/A,N/A,N/A
+CA,How often do you attend religious services?,2469,Few times a year,29%,63%,31%,3%,3%,N/A
+CA,How often do you attend religious services?,2469,Never,31%,73%,19%,5%,3%,N/A
+CA,How often do you attend religious services?,2469,Monthly or more,40%,52%,46%,2%
+CA,How often do you attend religious services?,2469,Less often than that,60%,68%,24%,8%
+CA,Union household?,2469,Yes,16%,66%,31%,3%
+CA,Union household?,2469,No,84%,61%,32%,7%
+CA,Served in the U.S. military,2469,Veterans,13%,N/A,N/A,N/A
+CA,Served in the U.S. military,2469,Non-veterans,87%,65%,30%,5%
+CA,Were you born a U.S. citizen?,2469,Yes,78%,59%,35%,6%
+CA,Were you born a U.S. citizen?,2469,No,22%,N/A,N/A,N/A
+CA,First-time voter?,2469,Yes,16%,N/A,N/A,N/A
+CA,First-time voter?,2469,No,84%,58%,37%,5%
+CA,When did you decide presidential vote?,2469,Last few days,5%,N/A,N/A,N/A
+CA,When did you decide presidential vote?,2469,Last week,6%,N/A,N/A,N/A
+CA,When did you decide presidential vote?,2469,In October,19%,N/A,N/A,N/A
+CA,When did you decide presidential vote?,2469,In September,13%,N/A,N/A,N/A
+CA,When did you decide presidential vote?,2469,Before September,55%,67%,29%,4%
+CA,When did you decide presidential vote?,2469,In the last week,11%,N/A,N/A,N/A
+CA,When did you decide presidential vote?,2469,Before that,87%,64%,31%,5%
+CA,When did you decide presidential vote?,2469,In the last month,29%,51%,42%,7%
+CA,When did you decide presidential vote?,2469,Before that,68%,67%,29%,4%
+CA,Opinion of presidential candidate you voted for,2469,Strongly favor ,40%,69%,26%,1%,3%,1%
+CA,Opinion of presidential candidate you voted for,2469,Have reservations,33%,60%,36%,4%,N/A,N/A
+CA,Opinion of presidential candidate you voted for,2469,Dislike opponents,25%,51%,42%,5%,1%,1%
+CA,Most important issue facing the country,2469,Foreign policy,16%,69%,27%,4%
+CA,Most important issue facing the country,2469,Immigration,15%,58%,36%,6%
+CA,Most important issue facing the country,2469,Economy,44%,68%,26%,6%
+CA,Most important issue facing the country,2469,Terrorism,22%,50%,48%,2%
+CA,Which candidate quality mattered most?,2469,Cares about me,16%,64%,29%,0%,5%,2%
+CA,Which candidate quality mattered most?,2469,Can bring change,29%,22%,76%,2%,1%,N/A
+CA,Which candidate quality mattered most?,2469,Right experience,29%,95%,3%,2%,1%,N/A
+CA,Which candidate quality mattered most?,2469,Good judgment,24%,70%,20%,6%,2%,2%
+CA,Illegal immigrants working in the U.S. should be:,2469,Offered legal status,71%,72%,20%,8%
+CA,Illegal immigrants working in the U.S. should be:,2469,Deported to home country,25%,31%,67%,2%
+CA,View of U.S. wall along the entire Mexican border,2469,Support,30%,26%,68%,1%,4%,1%
+CA,View of U.S. wall along the entire Mexican border,2469,Oppose,67%,79%,14%,5%,1%,1%
+CA,Effect of international trade,2469,Creates U.S. jobs,43%,70%,23%,7%
+CA,Effect of international trade,2469,Takes away U.S. jobs,37%,48%,46%,6%
+CA,Effect of international trade,2469,Does not affect jobs,13%,N/A,N/A,N/A
+CA,How is the fight against ISIS going?,2469,Very well,6%,N/A,N/A,N/A,N/A,N/A
+CA,How is the fight against ISIS going?,2469,Somewhat well,34%,75%,18%,6%,1%,N/A
+CA,How is the fight against ISIS going?,2469,Somewhat badly,30%,58%,37%,1%,3%,1%
+CA,How is the fight against ISIS going?,2469,Very badly,18%,N/A,N/A,N/A,N/A,N/A
+CA,How is the fight against ISIS going?,2469,Well,40%,78%,15%,5%,0%,2%
+CA,How is the fight against ISIS going?,2469,Badly,48%,44%,52%,1%,3%,N/A
+CA,"In your vote, were Supreme Court appointments:",2469,The most important factor,26%,59%,40%,1%
+CA,"In your vote, were Supreme Court appointments:",2469,An important factor,41%,61%,35%,4%
+CA,"In your vote, were Supreme Court appointments:",2469,A minor factor,14%,N/A,N/A,N/A
+CA,"In your vote, were Supreme Court appointments:",2469,Not a factor at all,14%,N/A,N/A,N/A
+CA,"In your vote, were Supreme Court appointments:",2469,Important,67%,60%,37%,3%,0%,N/A
+CA,"In your vote, were Supreme Court appointments:",2469,Not important,28%,63%,27%,5%,5%,N/A
+CA,Does the country's criminal justice system:,2469,Treat all fairly,29%,34%,62%,4%
+CA,Does the country's criminal justice system:,2469,Treat blacks unfairly,60%,78%,15%,7%
+CA,View on Obamacare,2469,Did not go far enough,42%,83%,14%,0%,2%,1%
+CA,View on Obamacare,2469,Was about right,23%,79%,9%,6%,5%,1%
+CA,View on Obamacare,2469,Went too far,30%,16%,78%,5%,1%,N/A
+CA,Feelings about the federal government,2469,Enthusiastic,8%,N/A,N/A,N/A
+CA,Feelings about the federal government,2469,Satisfied,28%,79%,14%,7%
+CA,Feelings about the federal government,2469,Dissatisfied,47%,61%,34%,5%
+CA,Feelings about the federal government,2469,Angry,16%,N/A,N/A,N/A
+CA,Feelings about the federal government,2469,Enthusiastic/Satisfied,36%,80%,13%,7%
+CA,Feelings about the federal government,2469,Dissatisfied/Angry,62%,51%,45%,4%
+CA,Opinion of government,2469,Government should do more,56%,82%,12%,6%
+CA,Opinion of government,2469,Government doing too much,39%,31%,63%,6%
+CA,Opinion of Barack Obama as president,2469,Strongly approve,36%,93%,3%,4%
+CA,Opinion of Barack Obama as president,2469,Somewhat approve,26%,83%,13%,4%
+CA,Opinion of Barack Obama as president,2469,Somewhat disapprove,10%,N/A,N/A,N/A
+CA,Opinion of Barack Obama as president,2469,Strongly disapprove,27%,16%,81%,3%
+CA,Opinion of Barack Obama as president,2469,Approve,62%,89%,7%,4%
+CA,Opinion of Barack Obama as president,2469,Disapprove,38%,18%,77%,5%
+CA,Should the next president:,2469,Continue Obama's policies,31%,90%,3%,6%,1%,N/A
+CA,Should the next president:,2469,Be more conservative,34%,25%,71%,2%,1%,1%
+CA,Should the next president:,2469,Be more liberal,23%,N/A,N/A,N/A,N/A,N/A
+CA,Opinion of Hillary Clinton,2469,Favorable,54%,97%,3%,N/A
+CA,Opinion of Hillary Clinton,2469,Unfavorable,43%,18%,72%,10%
+CA,Opinion of Donald Trump,2469,Favorable,25%,2%,95%,3%
+CA,Opinion of Donald Trump,2469,Unfavorable,70%,84%,10%,6%
+CA,Opinion of Clinton and Trump,2469,Both favorable,1%,N/A,N/A,N/A
+CA,Opinion of Clinton and Trump,2469,Only Clinton favorable,54%,97%,3%,N/A
+CA,Opinion of Clinton and Trump,2469,Only Trump favorable,25%,N/A,97%,3%
+CA,Opinion of Clinton and Trump,2469,Both unfavorable,17%,N/A,N/A,N/A
+CA,Is Hillary Clinton honest and trustworthy?,2469,Yes,50%,96%,1%,3%
+CA,Is Hillary Clinton honest and trustworthy?,2469,No,50%,27%,65%,8%
+CA,Is Donald Trump honest and trustworthy?,2469,Yes,20%,11%,89%,N/A
+CA,Is Donald Trump honest and trustworthy?,2469,No,76%,75%,19%,6%
+CA,Which candidate is honest?,2469,Both are,2%,N/A,N/A,N/A,N/A,N/A
+CA,Which candidate is honest?,2469,Only Clinton is,48%,96%,1%,3%,N/A,N/A
+CA,Which candidate is honest?,2469,Only Trump is,18%,4%,96%,1%,N/A,N/A
+CA,Which candidate is honest?,2469,Neither is,30%,42%,46%,5%,5%,2%
+CA,Is Clinton qualified to serve as president?,2469,Yes,64%,86%,9%,5%
+CA,Is Clinton qualified to serve as president?,2469,No,33%,12%,78%,10%
+CA,Is Trump qualified to serve as president?,2469,Yes,26%,8%,90%,2%
+CA,Is Trump qualified to serve as president?,2469,No,72%,80%,12%,8%
+CA,Who is qualified to serve as president?,2469,Both are,5%,N/A,N/A,N/A
+CA,Who is qualified to serve as president?,2469,Only Clinton is,59%,92%,3%,5%
+CA,Who is qualified to serve as president?,2469,Only Trump is,21%,6%,94%,N/A
+CA,Who is qualified to serve as president?,2469,Neither is,12%,N/A,N/A,N/A
+CA,Does Clinton have the temperament to be president?,2469,Yes,67%,84%,11%,5%
+CA,Does Clinton have the temperament to be president?,2469,No,32%,13%,79%,8%
+CA,Does Trump have the temperament to be president?,2469,Yes,25%,16%,83%,1%
+CA,Does Trump have the temperament to be president?,2469,No,72%,76%,16%,8%
+CA,Which candidate has the right temperament?,2469,Both do,7%,N/A,N/A,N/A
+CA,Which candidate has the right temperament?,2469,Only Clinton does,60%,89%,6%,5%
+CA,Which candidate has the right temperament?,2469,Only Trump does,18%,N/A,N/A,N/A
+CA,Which candidate has the right temperament?,2469,Neither does,14%,N/A,N/A,N/A
+CA,How would you feel if Clinton wins?,2469,Excited,19%,95%,N/A,N/A,4%,1%
+CA,How would you feel if Clinton wins?,2469,Optimistic,37%,91%,2%,5%,2%,N/A
+CA,How would you feel if Clinton wins?,2469,Concerned,25%,N/A,N/A,N/A,N/A,N/A
+CA,How would you feel if Clinton wins?,2469,Scared,16%,N/A,N/A,N/A,N/A,N/A
+CA,How would you feel if Clinton wins?,2469,Positive,56%,92%,1%,7%
+CA,How would you feel if Clinton wins?,2469,Negative,41%,21%,72%,7%
+CA,How would you feel if Trump wins?,2469,Excited,12%,N/A,N/A,N/A
+CA,How would you feel if Trump wins?,2469,Optimistic,16%,N/A,N/A,N/A
+CA,How would you feel if Trump wins?,2469,Concerned,23%,N/A,N/A,N/A
+CA,How would you feel if Trump wins?,2469,Scared,44%,96%,2%,2%
+CA,How would you feel if Trump wins?,2469,Positive,27%,1%,98%,1%
+CA,How would you feel if Trump wins?,2469,Negative,67%,86%,6%,8%
+CA,Does Clinton's use of private email bother you:,2469,A lot,35%,13%,79%,8%
+CA,Does Clinton's use of private email bother you:,2469,Some,19%,N/A,N/A,N/A
+CA,Does Clinton's use of private email bother you:,2469,Not much,21%,N/A,N/A,N/A
+CA,Does Clinton's use of private email bother you:,2469,Not at all,22%,98%,0%,2%
+CA,Does Clinton's use of private email bother you?,2469,Yes,53%,34%,58%,5%,2%,1%
+CA,Does Clinton's use of private email bother you?,2469,No,44%,93%,3%,1%,3%,N/A
+CA,Does Donald Trump's treatment of women bother you:,2469,A lot,63%,88%,5%,7%
+CA,Does Donald Trump's treatment of women bother you:,2469,Some,18%,N/A,N/A,N/A
+CA,Does Donald Trump's treatment of women bother you:,2469,Not much,8%,N/A,N/A,N/A
+CA,Does Donald Trump's treatment of women bother you:,2469,Not at all,10%,N/A,N/A,N/A
+CA,Does Donald Trump's treatment of women bother you?,2469,Yes,81%,73%,21%,6%
+CA,Does Donald Trump's treatment of women bother you?,2469,No,18%,N/A,N/A,N/A
+CA,Who would better handle the economy?,2469,Clinton,63%,93%,1%,6%
+CA,Who would better handle the economy?,2469,Trump,32%,3%,95%,2%
+CA,Who would better handle foreign policy?,2469,Clinton,67%,91%,2%,7%
+CA,Who would better handle foreign policy?,2469,Trump,29%,N/A,98%,2%
+CA,Who would be a better commander in chief?,2469,Clinton,66%,91%,1%,5%,2%,1%
+CA,Who would be a better commander in chief?,2469,Trump,31%,1%,96%,0%,2%,1%
+CA,Opinion of the Democratic Party,2469,Favorable,56%,96%,2%,2%
+CA,Opinion of the Democratic Party,2469,Unfavorable,34%,10%,84%,6%
+CA,Opinion of the Republican Party,2469,Favorable,27%,18%,72%,7%,1%,2%
+CA,Opinion of the Republican Party,2469,Unfavorable,64%,80%,16%,1%,3%,N/A
+CA,Condition of national economy,2469,Excellent,5%,N/A,N/A,N/A
+CA,Condition of national economy,2469,Good,36%,79%,13%,8%
+CA,Condition of national economy,2469,Not good,39%,57%,40%,3%
+CA,Condition of national economy,2469,Poor,18%,N/A,N/A,N/A
+CA,Condition of national economy,2469,Good,40%,81%,12%,7%
+CA,Condition of national economy,2469,Poor,57%,48%,48%,4%
+CA,Financial situation compared to four years ago:,2469,Better today,37%,79%,20%,N/A,1%,N/A
+CA,Financial situation compared to four years ago:,2469,Worse today,20%,N/A,N/A,N/A,N/A,N/A
+CA,Financial situation compared to four years ago:,2469,About the same,40%,60%,27%,9%,4%,N/A
+CA,Direction of the country,2469,Right direction,40%,91%,4%,5%
+CA,Direction of the country,2469,Wrong track,50%,32%,62%,6%
+CA,Life for the next generation of Americans will be:,2469,Better than today,46%,80%,18%,0%,2%,N/A
+CA,Life for the next generation of Americans will be:,2469,Worse than today,26%,38%,53%,3%,5%,1%
+CA,Life for the next generation of Americans will be:,2469,About the same,24%,54%,34%,9%,2%,1%
+CA,Vote for president in a two-way race,2469,Clinton,61%,96%,1%,3%
+CA,Vote for president in a two-way race,2469,Trump,31%,0%,98%,2%
+CA,Vote for president in a two-way race,2469,Would not vote,6%,N/A,N/A,N/A
+CA,How confident are you in the vote count?,2469,Very confident,50%,77%,17%,6%
+CA,How confident are you in the vote count?,2469,Somewhat confident,28%,55%,37%,8%
+CA,How confident are you in the vote count?,2469,Not very confident,14%,N/A,N/A,N/A
+CA,How confident are you in the vote count?,2469,Not at all confident,5%,N/A,N/A,N/A
+CA,Are you confident in the vote count?,2469,Confident,79%,69%,24%,7%
+CA,Are you confident in the vote count?,2469,Not confident,19%,N/A,N/A,N/A
+CA,"Are you gay, lesbian, bisexual or transgender?",2469,Yes,5%,N/A,N/A,N/A
+CA,"Are you gay, lesbian, bisexual or transgender?",2469,No,95%,60%,34%,6%
+CA,Importance of debates to your vote,2469,Most important factor,28%,75%,22%,1%,1%,1%
+CA,Importance of debates to your vote,2469,An important factor,37%,62%,32%,5%,1%,N/A
+CA,Importance of debates to your vote,2469,A minor factor,18%,N/A,N/A,N/A,N/A,N/A
+CA,Importance of debates to your vote,2469,Not a factor,10%,N/A,N/A,N/A,N/A,N/A
+CA,Importance of debates to your vote,2469,Important,65%,68%,28%,4%
+CA,Importance of debates to your vote,2469,Not important,28%,N/A,N/A,N/A
+CA,Were debates a factor in your vote?,2469,Yes,83%,66%,30%,4%
+CA,Were debates a factor in your vote?,2469,No,10%,N/A,N/A,N/A
+CA,Area type,2469,Urban area,30%,63%,32%,5%
+CA,Area type,2469,Suburban area,67%,61%,33%,6%
+CA,Area type,2469,Rural area,3%,N/A,N/A,N/A
+CA,Region,2469,Coastal,10%,67%,28%,5%
+CA,Region,2469,Inland / Central Valley,20%,50%,45%,5%
+CA,Region,2469,Bay Area,17%,79%,15%,6%
+CA,Region,2469,L.A. County,25%,71%,24%,5%
+CA,Region,2469,Southern California,28%,48%,45%,7%
