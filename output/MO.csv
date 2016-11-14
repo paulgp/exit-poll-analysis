@@ -1,1 +1,168 @@
 state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+MO,Gender,1941,Male,47%,32%,62%,6%
+MO,Gender,1941,Female,53%,43%,53%,4%
+MO,Age,1941,18-29,18%,40%,51%,6%,2%,1%
+MO,Age,1941,30-44,24%,44%,48%,5%,2%,1%
+MO,Age,1941,45-64,40%,34%,63%,2%,1%,N/A
+MO,Age,1941,65 and older,17%,36%,62%,1%,N/A,1%
+MO,Age,1941,18-24,10%,35%,57%,6%,1%,1%
+MO,Age,1941,25-29,8%,48%,43%,7%,2%,N/A
+MO,Age,1941,30-39,16%,47%,44%,6%,2%,1%
+MO,Age,1941,40-49,18%,35%,60%,3%,1%,1%
+MO,Age,1941,50-64,31%,35%,63%,1%,0%,1%
+MO,Age,1941,65 and older,17%,36%,62%,1%,N/A,1%
+MO,Age,1941,18-44,43%,42%,49%,6%,2%,1%
+MO,Age,1941,45 and older,57%,35%,63%,1%,0%,1%
+MO,Race,1941,White,79%,28%,66%,6%
+MO,Race,1941,Black,14%,90%,8%,2%
+MO,Race,1941,Latino,4%,N/A,N/A,N/A
+MO,Race,1941,Asian,1%,N/A,N/A,N/A
+MO,Race,1941,Other race,3%,N/A,N/A,N/A
+MO,Race,1941,White,79%,28%,66%,6%
+MO,Race,1941,Non-white,21%,75%,22%,3%
+MO,Race and gender,1941,White men,36%,22%,72%,5%,1%,N/A
+MO,Race and gender,1941,White women,43%,34%,61%,3%,1%,1%
+MO,Race and gender,1941,Black men,6%,87%,10%,1%,1%,1%
+MO,Race and gender,1941,Black women,7%,92%,6%,N/A,0%,2%
+MO,Race and gender,1941,Latino men,2%,N/A,N/A,N/A,N/A,N/A
+MO,Race and gender,1941,Latino women,2%,N/A,N/A,N/A,N/A,N/A
+MO,Race and gender,1941,Others,4%,N/A,N/A,N/A,N/A,N/A
+MO,Education,1941,High school or less,20%,35%,62%,3%
+MO,Education,1941,Some college,34%,38%,57%,5%
+MO,Education,1941,College graduate,29%,38%,56%,6%
+MO,Education,1941,Postgraduate,17%,42%,53%,5%
+MO,Are you a college graduate?,1941,Yes,46%,39%,55%,6%
+MO,Are you a college graduate?,1941,No,54%,37%,59%,4%
+MO,Education and race,1941,White college graduates,38%,32%,61%,5%,1%,1%
+MO,Education and race,1941,Whites no degree,42%,25%,71%,3%,1%,N/A
+MO,Education and race,1941,Non-whites college grads,8%,69%,27%,1%,2%,1%
+MO,Education and race,1941,Non-whites no degree,13%,78%,19%,2%,0%,1%
+MO,Education among whites by sex,1941,White college-grad women,22%,39%,57%,2%,1%,1%
+MO,Education among whites by sex,1941,White non-college women,21%,29%,66%,4%,1%,N/A
+MO,Education among whites by sex,1941,White college-grad men,16%,23%,68%,8%,1%,N/A
+MO,Education among whites by sex,1941,White non-college men,20%,20%,76%,2%,1%,1%
+MO,Education among whites by sex,1941,Non-whites,21%,75%,22%,2%,1%,N/A
+MO,Income,1941,"Under $30,000",17%,47%,48%,3%,2%,N/A
+MO,Income,1941,"$30K-$49,999",22%,45%,49%,2%,2%,2%
+MO,Income,1941,"$50K-$99,999",31%,34%,59%,6%,1%,N/A
+MO,Income,1941,"$100K-$199,999",24%,32%,64%,3%,1%,N/A
+MO,Income,1941,"$200K-$249,999",3%,N/A,N/A,N/A,N/A,N/A
+MO,Income,1941,"$250,000 or more",3%,N/A,N/A,N/A,N/A,N/A
+MO,Income,1941,Under $50K,39%,46%,48%,2%,2%,2%
+MO,Income,1941,$50K-$100K,31%,34%,59%,6%,1%,N/A
+MO,Income,1941,$100K or more,30%,30%,66%,3%,1%,N/A
+MO,Income,1941,Under $50K,39%,46%,48%,6%
+MO,Income,1941,$50K or more,61%,32%,62%,6%
+MO,Income,1941,Under $100K,70%,41%,53%,6%
+MO,Income,1941,$100K or more,30%,30%,66%,4%
+MO,Party ID,1941,Democrats,34%,84%,13%,1%,1%,1%
+MO,Party ID,1941,Republicans,39%,5%,92%,2%,0%,1%
+MO,Party ID,1941,Independents,27%,28%,61%,8%,2%,1%
+MO,Party by gender,1941,Democratic men,13%,83%,14%,1%,1%,1%
+MO,Party by gender,1941,Democratic women,21%,84%,13%,1%,1%,1%
+MO,Party by gender,1941,Republican men,19%,4%,94%,1%,N/A,1%
+MO,Party by gender,1941,Republican women,20%,6%,90%,3%,0%,1%
+MO,Party by gender,1941,Independent men,15%,24%,62%,10%,2%,2%
+MO,Party by gender,1941,Independent women,12%,33%,59%,5%,2%,1%
+MO,Ideology,1941,Liberal,20%,80%,14%,3%,3%,N/A
+MO,Ideology,1941,Moderate,38%,48%,45%,5%,1%,1%
+MO,Ideology,1941,Conservative,41%,8%,89%,2%,0%,1%
+MO,White born-again or evangelical Christian?,1941,Yes,35%,14%,83%,3%
+MO,White born-again or evangelical Christian?,1941,No,65%,50%,44%,6%
+MO,Marital status,1941,Married,60%,31%,64%,5%
+MO,Marital status,1941,Unmarried,40%,47%,49%,4%
+MO,Marital status by gender,1941,Married men,32%,27%,69%,4%
+MO,Marital status by gender,1941,Married women,28%,36%,59%,5%
+MO,Marital status by gender,1941,Unmarried men,16%,42%,53%,5%
+MO,Marital status by gender,1941,Unmarried women,24%,51%,46%,3%
+MO,When did you decide presidential vote?,1941,Last few days,10%,N/A,N/A,N/A,N/A,N/A
+MO,When did you decide presidential vote?,1941,Last week,6%,N/A,N/A,N/A,N/A,N/A
+MO,When did you decide presidential vote?,1941,In October,14%,41%,51%,6%,1%,1%
+MO,When did you decide presidential vote?,1941,In September,9%,N/A,N/A,N/A,N/A,N/A
+MO,When did you decide presidential vote?,1941,Before September,61%,40%,58%,1%,1%,N/A
+MO,When did you decide presidential vote?,1941,In the last week,15%,32%,53%,11%,3%,1%
+MO,When did you decide presidential vote?,1941,Before that,84%,39%,58%,2%,1%,N/A
+MO,When did you decide presidential vote?,1941,In the last month,29%,36%,52%,9%,2%,1%
+MO,When did you decide presidential vote?,1941,Before that,70%,38%,59%,1%,1%,1%
+MO,Opinion of presidential candidate you voted for,1941,Strongly favor ,49%,42%,55%,1%,1%,1%
+MO,Opinion of presidential candidate you voted for,1941,Have reservations,31%,40%,58%,2%,0%,N/A
+MO,Opinion of presidential candidate you voted for,1941,Dislike opponents,19%,25%,61%,11%,1%,2%
+MO,Most important issue facing the country,1941,Foreign policy,9%,N/A,N/A,N/A,N/A,N/A
+MO,Most important issue facing the country,1941,Immigration,14%,14%,78%,6%,0%,2%
+MO,Most important issue facing the country,1941,Economy,56%,43%,50%,4%,2%,1%
+MO,Most important issue facing the country,1941,Terrorism,19%,35%,63%,1%,1%,N/A
+MO,Which candidate quality mattered most?,1941,Cares about me,16%,60%,37%,1%,2%,N/A
+MO,Which candidate quality mattered most?,1941,Can bring change,54%,14%,82%,2%,1%,1%
+MO,Which candidate quality mattered most?,1941,Right experience,12%,92%,6%,2%,N/A,N/A
+MO,Which candidate quality mattered most?,1941,Good judgment,16%,55%,29%,12%,2%,2%
+MO,Illegal immigrants working in the U.S. should be:,1941,Offered legal status,62%,56%,39%,5%
+MO,Illegal immigrants working in the U.S. should be:,1941,Deported to home country,35%,10%,88%,2%
+MO,How do things work in the U.S. today?,1941,Whites are favored,34%,76%,20%,3%,0%,1%
+MO,How do things work in the U.S. today?,1941,Minorities are favored,32%,9%,89%,2%,N/A,N/A
+MO,How do things work in the U.S. today?,1941,No group is favored,32%,27%,67%,5%,1%,N/A
+MO,Does the country's criminal justice system:,1941,Treat all fairly,51%,17%,80%,3%
+MO,Does the country's criminal justice system:,1941,Treat blacks unfairly,41%,68%,27%,5%
+MO,Feelings about the federal government,1941,Enthusiastic,3%,N/A,N/A,N/A
+MO,Feelings about the federal government,1941,Satisfied,24%,71%,24%,5%
+MO,Feelings about the federal government,1941,Dissatisfied,46%,33%,62%,5%
+MO,Feelings about the federal government,1941,Angry,25%,9%,86%,5%
+MO,Feelings about the federal government,1941,Enthusiastic/Satisfied,27%,72%,24%,4%
+MO,Feelings about the federal government,1941,Dissatisfied/Angry,71%,24%,70%,6%
+MO,Opinion of Barack Obama as president,1941,Strongly approve,25%,93%,4%,0%,2%,1%
+MO,Opinion of Barack Obama as president,1941,Somewhat approve,16%,64%,25%,8%,2%,1%
+MO,Opinion of Barack Obama as president,1941,Somewhat disapprove,15%,19%,72%,7%,1%,1%
+MO,Opinion of Barack Obama as president,1941,Strongly disapprove,43%,2%,95%,3%,0%,N/A
+MO,Opinion of Barack Obama as president,1941,Approve,41%,82%,12%,6%
+MO,Opinion of Barack Obama as president,1941,Disapprove,58%,7%,89%,4%
+MO,Opinion of Hillary Clinton,1941,Favorable,34%,95%,3%,1%,1%,N/A
+MO,Opinion of Hillary Clinton,1941,Unfavorable,65%,7%,86%,5%,1%,1%
+MO,Opinion of Donald Trump,1941,Favorable,46%,2%,98%,0%,N/A,N/A
+MO,Opinion of Donald Trump,1941,Unfavorable,53%,68%,22%,6%,2%,2%
+MO,Opinion of Clinton and Trump,1941,Both favorable,1%,N/A,N/A,N/A,N/A,N/A
+MO,Opinion of Clinton and Trump,1941,Only Clinton favorable,33%,97%,1%,1%,1%,N/A
+MO,Opinion of Clinton and Trump,1941,Only Trump favorable,44%,1%,99%,0%,N/A,N/A
+MO,Opinion of Clinton and Trump,1941,Both unfavorable,20%,22%,57%,16%,4%,1%
+MO,Is Hillary Clinton honest and trustworthy?,1941,Yes,28%,96%,3%,1%,0%,N/A
+MO,Is Hillary Clinton honest and trustworthy?,1941,No,71%,14%,80%,5%,1%,N/A
+MO,Is Donald Trump honest and trustworthy?,1941,Yes,42%,4%,96%,1%,N/A,N/A
+MO,Is Donald Trump honest and trustworthy?,1941,No,56%,63%,30%,5%,1%,1%
+MO,Which candidate is honest?,1941,Both are,2%,N/A,N/A,N/A,N/A,N/A
+MO,Which candidate is honest?,1941,Only Clinton is,26%,98%,2%,N/A,0%,N/A
+MO,Which candidate is honest?,1941,Only Trump is,40%,1%,99%,0%,N/A,N/A
+MO,Which candidate is honest?,1941,Neither is,30%,32%,54%,10%,2%,2%
+MO,Does Clinton have the temperament to be president?,1941,Yes,43%,83%,12%,5%
+MO,Does Clinton have the temperament to be president?,1941,No,56%,3%,92%,5%
+MO,Does Trump have the temperament to be president?,1941,Yes,42%,3%,96%,1%,0%,N/A
+MO,Does Trump have the temperament to be president?,1941,No,56%,64%,28%,5%,1%,2%
+MO,Which candidate has the right temperament?,1941,Both do,4%,N/A,N/A,N/A,N/A,N/A
+MO,Which candidate has the right temperament?,1941,Only Clinton does,38%,91%,5%,3%,0%,1%
+MO,Which candidate has the right temperament?,1941,Only Trump does,38%,2%,98%,0%,0%,N/A
+MO,Which candidate has the right temperament?,1941,Neither does,18%,6%,78%,10%,3%,3%
+MO,Is Clinton qualified to serve as president?,1941,Yes,42%,85%,11%,4%
+MO,Is Clinton qualified to serve as president?,1941,No,56%,3%,91%,6%
+MO,Is Trump qualified to serve as president?,1941,Yes,46%,1%,98%,1%,0%,N/A
+MO,Is Trump qualified to serve as president?,1941,No,53%,71%,20%,6%,1%,2%
+MO,Who is qualified to serve as president?,1941,Both are,4%,N/A,N/A,N/A,N/A,N/A
+MO,Who is qualified to serve as president?,1941,Only Clinton is,38%,94%,3%,2%,1%,N/A
+MO,Who is qualified to serve as president?,1941,Only Trump is,42%,1%,99%,0%,0%,N/A
+MO,Who is qualified to serve as president?,1941,Neither is,14%,11%,67%,16%,2%,4%
+MO,Condition of national economy,1941,Excellent,4%,N/A,N/A,N/A
+MO,Condition of national economy,1941,Good,32%,73%,22%,5%
+MO,Condition of national economy,1941,Not good,44%,22%,72%,6%
+MO,Condition of national economy,1941,Poor,19%,4%,92%,4%
+MO,Condition of national economy,1941,Good,36%,75%,21%,4%
+MO,Condition of national economy,1941,Poor,63%,16%,78%,6%
+MO,Life for the next generation of Americans will be:,1941,Better than today,38%,52%,45%,2%,1%,N/A
+MO,Life for the next generation of Americans will be:,1941,Worse than today,32%,15%,77%,6%,1%,1%
+MO,Life for the next generation of Americans will be:,1941,About the same,26%,48%,47%,3%,1%,1%
+MO,Vote for president in a two-way race,1941,Clinton,39%,96%,2%,2%
+MO,Vote for president in a two-way race,1941,Trump,57%,1%,98%,1%
+MO,Vote for president in a two-way race,1941,Would not vote,3%,N/A,N/A,N/A
+MO,Area type,1941,Urban area,34%,54%,41%,5%
+MO,Area type,1941,Suburban area,44%,32%,63%,5%
+MO,Area type,1941,Rural area,22%,26%,69%,5%
+MO,Region,1941,St. Louis Area,23%,62%,34%,4%
+MO,Region,1941,E. Central,16%,30%,65%,5%
+MO,Region,1941,Kansas City Area,19%,48%,46%,6%
+MO,Region,1941,North,15%,30%,65%,5%
+MO,Region,1941,South,28%,21%,74%,5%

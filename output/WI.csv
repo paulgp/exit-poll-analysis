@@ -1,1 +1,211 @@
 state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+WI,Gender,3047,Male,49%,40%,54%,6%
+WI,Gender,3047,Female,51%,53%,43%,4%
+WI,Age,3047,18-29,17%,47%,44%,6%,2%,1%
+WI,Age,3047,30-44,23%,55%,37%,5%,2%,1%
+WI,Age,3047,45-64,41%,41%,56%,2%,1%,N/A
+WI,Age,3047,65 and older,20%,48%,49%,2%,0%,1%
+WI,Age,3047,18-24,9%,43%,45%,8%,2%,2%
+WI,Age,3047,25-29,7%,51%,42%,3%,2%,2%
+WI,Age,3047,30-39,15%,57%,36%,5%,2%,N/A
+WI,Age,3047,40-49,17%,46%,49%,3%,1%,1%
+WI,Age,3047,50-64,32%,41%,56%,2%,1%,N/A
+WI,Age,3047,65 and older,20%,48%,49%,2%,0%,1%
+WI,Age,3047,18-44,39%,52%,40%,6%,2%,N/A
+WI,Age,3047,45 and older,61%,43%,54%,2%,1%,N/A
+WI,Race,3047,White,86%,42%,53%,5%
+WI,Race,3047,Black,7%,92%,6%,2%
+WI,Race,3047,Latino,4%,63%,34%,3%
+WI,Race,3047,Asian,1%,N/A,N/A,N/A
+WI,Race,3047,Other race,2%,N/A,N/A,N/A
+WI,Race,3047,White,86%,42%,53%,5%
+WI,Race,3047,Non-white,14%,76%,21%,3%
+WI,Race and gender,3047,White men,42%,35%,59%,5%,1%,N/A
+WI,Race and gender,3047,White women,45%,49%,47%,2%,1%,1%
+WI,Race and gender,3047,Black men,3%,90%,8%,1%,N/A,1%
+WI,Race and gender,3047,Black women,4%,94%,3%,1%,1%,1%
+WI,Race and gender,3047,Latino men,2%,N/A,N/A,N/A,N/A,N/A
+WI,Race and gender,3047,Latino women,2%,N/A,N/A,N/A,N/A,N/A
+WI,Race and gender,3047,Others,3%,N/A,N/A,N/A,N/A,N/A
+WI,Education,3047,High school or less,20%,41%,54%,5%
+WI,Education,3047,Some college,35%,39%,57%,4%
+WI,Education,3047,College graduate,30%,49%,45%,6%
+WI,Education,3047,Postgraduate,15%,69%,26%,5%
+WI,Are you a college graduate?,3047,Yes,45%,55%,39%,6%
+WI,Are you a college graduate?,3047,No,55%,40%,56%,4%
+WI,Education and race,3047,White college graduates,39%,53%,41%,6%
+WI,Education and race,3047,Whites no degree,47%,34%,62%,4%
+WI,Education and race,3047,Non-whites college grads,6%,71%,25%,4%
+WI,Education and race,3047,Non-whites no degree,8%,80%,18%,2%
+WI,Education among whites by sex,3047,White college-grad women,21%,60%,37%,3%,1%,N/A
+WI,Education among whites by sex,3047,White non-college women,24%,40%,56%,2%,1%,1%
+WI,Education among whites by sex,3047,White college-grad men,19%,46%,46%,6%,1%,1%
+WI,Education among whites by sex,3047,White non-college men,23%,26%,69%,4%,1%,N/A
+WI,Education among whites by sex,3047,Non-whites,13%,76%,21%,1%,2%,N/A
+WI,Income,3047,"Under $30,000",19%,52%,43%,4%,1%,N/A
+WI,Income,3047,"$30K-$49,999",20%,46%,46%,5%,3%,N/A
+WI,Income,3047,"$50K-$99,999",34%,46%,52%,1%,1%,N/A
+WI,Income,3047,"$100K-$199,999",19%,44%,50%,4%,1%,1%
+WI,Income,3047,"$200K-$249,999",4%,N/A,N/A,N/A,N/A,N/A
+WI,Income,3047,"$250,000 or more",4%,N/A,N/A,N/A,N/A,N/A
+WI,Income,3047,Under $50K,39%,49%,45%,6%
+WI,Income,3047,$50K-$100K,34%,46%,52%,2%
+WI,Income,3047,$100K or more,27%,48%,46%,6%
+WI,Income,3047,Under $50K,39%,49%,45%,6%
+WI,Income,3047,$50K or more,61%,47%,50%,3%
+WI,Income,3047,Under $100K,73%,48%,48%,4%
+WI,Income,3047,$100K or more,27%,48%,46%,6%
+WI,Party ID,3047,Democrats,35%,91%,7%,1%,1%,N/A
+WI,Party ID,3047,Republicans,34%,6%,90%,3%,0%,1%
+WI,Party ID,3047,Independents,30%,40%,50%,6%,2%,2%
+WI,Party by gender,3047,Democratic men,13%,92%,6%,1%,1%,N/A
+WI,Party by gender,3047,Democratic women,22%,91%,8%,1%,1%,N/A
+WI,Party by gender,3047,Republican men,18%,6%,89%,4%,0%,1%
+WI,Party by gender,3047,Republican women,16%,6%,91%,2%,0%,1%
+WI,Party by gender,3047,Independent men,18%,37%,52%,7%,2%,2%
+WI,Party by gender,3047,Independent women,13%,44%,47%,5%,3%,1%
+WI,Ideology,3047,Liberal,25%,86%,10%,4%
+WI,Ideology,3047,Moderate,40%,52%,42%,6%
+WI,Ideology,3047,Conservative,34%,11%,85%,4%
+WI,How often do you attend religious services?,3047,Weekly or more,27%,38%,59%,2%,0%,1%
+WI,How often do you attend religious services?,3047,Monthly,16%,41%,52%,5%,1%,1%
+WI,How often do you attend religious services?,3047,Few times a year,33%,46%,50%,3%,1%,N/A
+WI,How often do you attend religious services?,3047,Never,23%,65%,29%,3%,2%,1%
+WI,How often do you attend religious services?,3047,Monthly or more,44%,39%,56%,5%
+WI,How often do you attend religious services?,3047,Less often than that,56%,54%,41%,5%
+WI,White born-again or evangelical Christian?,3047,Yes,28%,23%,73%,4%
+WI,White born-again or evangelical Christian?,3047,No,72%,57%,38%,5%
+WI,Marital status,3047,Married,59%,40%,55%,5%
+WI,Marital status,3047,Unmarried,41%,51%,43%,6%
+WI,Marital status by gender,3047,Married men,32%,34%,60%,5%,1%,N/A
+WI,Marital status by gender,3047,Married women,28%,46%,49%,3%,1%,1%
+WI,Marital status by gender,3047,Unmarried men,17%,46%,47%,5%,2%,N/A
+WI,Marital status by gender,3047,Unmarried women,23%,55%,40%,4%,0%,1%
+WI,Union household?,3047,Yes,21%,53%,43%,4%
+WI,Union household?,3047,No,79%,44%,52%,4%
+WI,When did you decide presidential vote?,3047,Last few days,10%,30%,57%,7%,3%,3%
+WI,When did you decide presidential vote?,3047,Last week,5%,N/A,N/A,N/A,N/A,N/A
+WI,When did you decide presidential vote?,3047,In October,11%,39%,54%,6%,N/A,1%
+WI,When did you decide presidential vote?,3047,In September,12%,40%,50%,9%,1%,N/A
+WI,When did you decide presidential vote?,3047,Before September,63%,52%,46%,1%,1%,N/A
+WI,When did you decide presidential vote?,3047,In the last week,14%,30%,59%,6%,3%,2%
+WI,When did you decide presidential vote?,3047,Before that,85%,49%,47%,3%,1%,N/A
+WI,When did you decide presidential vote?,3047,In the last month,25%,34%,57%,6%,2%,1%
+WI,When did you decide presidential vote?,3047,Before that,75%,51%,46%,2%,1%,N/A
+WI,Opinion of presidential candidate you voted for,3047,Strongly favor ,42%,50%,47%,3%
+WI,Opinion of presidential candidate you voted for,3047,Have reservations,32%,41%,56%,3%
+WI,Opinion of presidential candidate you voted for,3047,Dislike opponents,23%,45%,47%,8%
+WI,Most important issue facing the country,3047,Foreign policy,11%,55%,38%,7%
+WI,Most important issue facing the country,3047,Immigration,12%,23%,75%,2%
+WI,Most important issue facing the country,3047,Economy,55%,53%,42%,5%
+WI,Most important issue facing the country,3047,Terrorism,19%,38%,60%,2%
+WI,Which candidate quality mattered most?,3047,Cares about me,15%,64%,31%,3%,3%,N/A
+WI,Which candidate quality mattered most?,3047,Can bring change,44%,12%,84%,3%,1%,N/A
+WI,Which candidate quality mattered most?,3047,Right experience,20%,92%,7%,1%,0%,N/A
+WI,Which candidate quality mattered most?,3047,Good judgment,18%,68%,24%,5%,2%,1%
+WI,Illegal immigrants working in the U.S. should be:,3047,Offered legal status,69%,56%,37%,6%,1%,N/A
+WI,Illegal immigrants working in the U.S. should be:,3047,Deported to home country,26%,20%,77%,2%,0%,1%
+WI,Do you think immigrants to the U.S. today:,3047,Help the country,55%,63%,29%,6%,1%,1%
+WI,Do you think immigrants to the U.S. today:,3047,Hurt the country,37%,18%,78%,3%,1%,N/A
+WI,Effect of international trade,3047,Creates U.S. jobs,35%,59%,33%,7%,0%,1%
+WI,Effect of international trade,3047,Takes away U.S. jobs,50%,33%,62%,3%,1%,1%
+WI,Effect of international trade,3047,Does not affect jobs,9%,N/A,N/A,N/A,N/A,N/A
+WI,Does the country's criminal justice system:,3047,Treat all fairly,48%,27%,68%,5%
+WI,Does the country's criminal justice system:,3047,Treat blacks unfairly,40%,78%,19%,3%
+WI,How do things work in the U.S. today?,3047,Whites are favored,35%,78%,13%,6%,2%,1%
+WI,How do things work in the U.S. today?,3047,Minorities are favored,27%,18%,78%,3%,1%,N/A
+WI,How do things work in the U.S. today?,3047,No group is favored,34%,29%,66%,5%,0%,N/A
+WI,View on Obamacare,3047,Did not go far enough,28%,81%,15%,2%,2%,N/A
+WI,View on Obamacare,3047,Was about right,18%,89%,9%,2%,N/A,N/A
+WI,View on Obamacare,3047,Went too far,49%,10%,81%,7%,1%,1%
+WI,Feelings about the federal government,3047,Enthusiastic,3%,N/A,N/A,N/A
+WI,Feelings about the federal government,3047,Satisfied,22%,80%,17%,3%
+WI,Feelings about the federal government,3047,Dissatisfied,52%,41%,55%,4%
+WI,Feelings about the federal government,3047,Angry,22%,21%,74%,5%
+WI,Feelings about the federal government,3047,Enthusiastic/Satisfied,25%,81%,17%,2%
+WI,Feelings about the federal government,3047,Dissatisfied/Angry,74%,35%,60%,5%
+WI,Opinion of Barack Obama as president,3047,Strongly approve,33%,93%,5%,1%,1%,N/A
+WI,Opinion of Barack Obama as president,3047,Somewhat approve,19%,71%,21%,5%,2%,1%
+WI,Opinion of Barack Obama as president,3047,Somewhat disapprove,13%,15%,73%,10%,2%,N/A
+WI,Opinion of Barack Obama as president,3047,Strongly disapprove,34%,2%,95%,1%,0%,2%
+WI,Opinion of Barack Obama as president,3047,Approve,52%,85%,11%,4%
+WI,Opinion of Barack Obama as president,3047,Disapprove,47%,6%,89%,5%
+WI,Should the next president:,3047,Continue Obama's policies,29%,95%,2%,3%
+WI,Should the next president:,3047,Be more conservative,51%,13%,83%,4%
+WI,Should the next president:,3047,Be more liberal,15%,69%,24%,7%
+WI,Opinion of Hillary Clinton,3047,Favorable,42%,97%,2%,0%,0%,1%
+WI,Opinion of Hillary Clinton,3047,Unfavorable,56%,9%,84%,5%,1%,1%
+WI,Opinion of Donald Trump,3047,Favorable,35%,1%,98%,1%
+WI,Opinion of Donald Trump,3047,Unfavorable,64%,73%,21%,6%
+WI,Opinion of Clinton and Trump,3047,Both favorable,1%,N/A,N/A,N/A,N/A,N/A
+WI,Opinion of Clinton and Trump,3047,Only Clinton favorable,41%,99%,1%,0%,0%,N/A
+WI,Opinion of Clinton and Trump,3047,Only Trump favorable,34%,0%,99%,0%,0%,1%
+WI,Opinion of Clinton and Trump,3047,Both unfavorable,22%,23%,60%,12%,4%,1%
+WI,Opinion of Paul Ryan,3047,Favorable,51%,32%,63%,5%
+WI,Opinion of Paul Ryan,3047,Unfavorable,43%,66%,30%,4%
+WI,Is Hillary Clinton honest and trustworthy?,3047,Yes,33%,99%,1%,N/A
+WI,Is Hillary Clinton honest and trustworthy?,3047,No,64%,18%,76%,6%
+WI,Is Donald Trump honest and trustworthy?,3047,Yes,36%,2%,96%,2%
+WI,Is Donald Trump honest and trustworthy?,3047,No,61%,73%,21%,6%
+WI,Which candidate is honest?,3047,Both are,1%,N/A,N/A,N/A,N/A,N/A
+WI,Which candidate is honest?,3047,Only Clinton is,32%,99%,0%,0%,N/A,1%
+WI,Which candidate is honest?,3047,Only Trump is,35%,1%,98%,1%,N/A,N/A
+WI,Which candidate is honest?,3047,Neither is,27%,40%,47%,7%,4%,2%
+WI,Is Clinton qualified to serve as president?,3047,Yes,52%,90%,7%,1%,1%,1%
+WI,Is Clinton qualified to serve as president?,3047,No,47%,6%,88%,5%,1%,N/A
+WI,Is Trump qualified to serve as president?,3047,Yes,35%,4%,95%,1%
+WI,Is Trump qualified to serve as president?,3047,No,64%,75%,18%,7%
+WI,Who is qualified to serve as president?,3047,Both are,4%,N/A,N/A,N/A,N/A,N/A
+WI,Who is qualified to serve as president?,3047,Only Clinton is,47%,95%,3%,1%,1%,N/A
+WI,Who is qualified to serve as president?,3047,Only Trump is,31%,0%,99%,N/A,N/A,1%
+WI,Who is qualified to serve as president?,3047,Neither is,16%,16%,65%,14%,4%,1%
+WI,Does Clinton have the temperament to be president?,3047,Yes,52%,85%,12%,3%
+WI,Does Clinton have the temperament to be president?,3047,No,46%,3%,92%,5%
+WI,Does Trump have the temperament to be president?,3047,Yes,39%,1%,98%,1%
+WI,Does Trump have the temperament to be president?,3047,No,59%,77%,17%,6%
+WI,Which candidate has the right temperament?,3047,Both do,5%,N/A,N/A,N/A,N/A,N/A
+WI,Which candidate has the right temperament?,3047,Only Clinton does,48%,93%,4%,2%,1%,N/A
+WI,Which candidate has the right temperament?,3047,Only Trump does,34%,1%,98%,1%,N/A,N/A
+WI,Which candidate has the right temperament?,3047,Neither does,11%,11%,73%,10%,4%,2%
+WI,Does Clinton's use of private email bother you:,3047,A lot,48%,8%,87%,4%,1%,N/A
+WI,Does Clinton's use of private email bother you:,3047,Some,17%,61%,28%,9%,2%,N/A
+WI,Does Clinton's use of private email bother you:,3047,Not much,14%,89%,5%,4%,2%,N/A
+WI,Does Clinton's use of private email bother you:,3047,Not at all,20%,86%,12%,2%,0%,N/A
+WI,Does Clinton's use of private email bother you?,3047,Yes,65%,22%,71%,5%,1%,1%
+WI,Does Clinton's use of private email bother you?,3047,No,34%,87%,9%,3%,1%,N/A
+WI,Does Donald Trump's treatment of women bother you:,3047,A lot,48%,76%,17%,4%,2%,1%
+WI,Does Donald Trump's treatment of women bother you:,3047,Some,23%,25%,68%,7%,0%,N/A
+WI,Does Donald Trump's treatment of women bother you:,3047,Not much,13%,7%,92%,1%,N/A,N/A
+WI,Does Donald Trump's treatment of women bother you:,3047,Not at all,15%,9%,87%,3%,1%,N/A
+WI,Does Donald Trump's treatment of women bother you?,3047,Yes,71%,59%,34%,5%,1%,1%
+WI,Does Donald Trump's treatment of women bother you?,3047,No,29%,8%,89%,2%,0%,1%
+WI,Who would better handle the economy?,3047,Clinton,43%,91%,3%,5%,1%,N/A
+WI,Who would better handle the economy?,3047,Trump,54%,6%,89%,4%,0%,1%
+WI,Who would better handle foreign policy?,3047,Clinton,52%,81%,12%,6%,1%,N/A
+WI,Who would better handle foreign policy?,3047,Trump,45%,4%,94%,2%,0%,N/A
+WI,Condition of national economy,3047,Excellent,3%,N/A,N/A,N/A
+WI,Condition of national economy,3047,Good,36%,77%,21%,2%
+WI,Condition of national economy,3047,Not good,41%,32%,63%,5%
+WI,Condition of national economy,3047,Poor,20%,16%,78%,6%
+WI,Condition of national economy,3047,Good,38%,78%,20%,2%
+WI,Condition of national economy,3047,Poor,61%,27%,68%,5%
+WI,Financial situation compared to four years ago:,3047,Better today,27%,63%,31%,5%,1%,N/A
+WI,Financial situation compared to four years ago:,3047,Worse today,28%,23%,72%,3%,2%,N/A
+WI,Financial situation compared to four years ago:,3047,About the same,44%,44%,49%,6%,1%,N/A
+WI,Local job market compared to four years ago:,3047,Better today,32%,71%,22%,6%,0%,1%
+WI,Local job market compared to four years ago:,3047,Worse today,28%,15%,81%,2%,2%,N/A
+WI,Local job market compared to four years ago:,3047,About the same,39%,41%,52%,5%,1%,1%
+WI,Life for the next generation of Americans will be:,3047,Better than today,27%,69%,29%,1%,0%,1%
+WI,Life for the next generation of Americans will be:,3047,Worse than today,42%,26%,67%,5%,2%,N/A
+WI,Life for the next generation of Americans will be:,3047,About the same,27%,55%,37%,7%,1%,N/A
+WI,Vote for president in a two-way race,3047,Clinton,48%,97%,1%,2%
+WI,Vote for president in a two-way race,3047,Trump,48%,1%,97%,2%
+WI,Vote for president in a two-way race,3047,Would not vote,4%,N/A,N/A,N/A
+WI,Area type,3047,Urban area,39%,61%,34%,5%
+WI,Area type,3047,Suburban area,34%,39%,55%,6%
+WI,Area type,3047,Rural area,27%,35%,62%,3%
+WI,Region,3047,Milwaukee County,15%,67%,27%,6%
+WI,Region,3047,Southeast,27%,35%,60%,5%
+WI,Region,3047,Southwest,18%,64%,30%,6%
+WI,Region,3047,Northeast,18%,39%,56%,5%
+WI,Region,3047,Northwest,23%,39%,56%,5%

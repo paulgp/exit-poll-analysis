@@ -1,1 +1,202 @@
 state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+NV,Gender,2800,Male,48%,40%,53%,6%,1%,N/A
+NV,Gender,2800,Female,52%,54%,41%,3%,1%,1%
+NV,Age,2800,18-29,21%,49%,41%,8%,1%,1%
+NV,Age,2800,30-44,21%,47%,43%,7%,2%,1%
+NV,Age,2800,45-64,42%,46%,51%,3%,1%,N/A
+NV,Age,2800,65 and older,16%,49%,49%,1%,0%,1%
+NV,Age,2800,18-24,12%,46%,44%,8%,1%,1%
+NV,Age,2800,25-29,9%,52%,37%,8%,2%,1%
+NV,Age,2800,30-39,13%,50%,40%,9%,1%,N/A
+NV,Age,2800,40-49,17%,42%,51%,5%,2%,N/A
+NV,Age,2800,50-64,32%,47%,50%,2%,1%,N/A
+NV,Age,2800,65 and older,16%,49%,49%,1%,0%,1%
+NV,Age,2800,18-44,42%,48%,42%,8%,2%,N/A
+NV,Age,2800,45 and older,58%,47%,50%,2%,1%,N/A
+NV,Race,2800,White,92%,46%,48%,6%
+NV,Race,2800,Black,1%,N/A,N/A,N/A
+NV,Race,2800,Latino,4%,N/A,N/A,N/A
+NV,Race,2800,Asian,1%,N/A,N/A,N/A
+NV,Race,2800,Other race,2%,N/A,N/A,N/A
+NV,Race,2800,White,92%,46%,48%,4%,1%,1%
+NV,Race,2800,Non-white,8%,58%,33%,5%,3%,1%
+NV,Race and gender,2800,White men,45%,39%,54%,5%,1%,1%
+NV,Race and gender,2800,White women,47%,53%,42%,3%,1%,1%
+NV,Race and gender,2800,Black men,1%,N/A,N/A,N/A,N/A,N/A
+NV,Race and gender,2800,Black women,1%,N/A,N/A,N/A,N/A,N/A
+NV,Race and gender,2800,Latino men,2%,N/A,N/A,N/A,N/A,N/A
+NV,Race and gender,2800,Latino women,2%,N/A,N/A,N/A,N/A,N/A
+NV,Race and gender,2800,Others,3%,N/A,N/A,N/A,N/A,N/A
+NV,Education,2800,High school or less,13%,37%,58%,4%,1%,N/A
+NV,Education,2800,Some college,31%,41%,53%,5%,1%,N/A
+NV,Education,2800,College graduate,32%,47%,48%,4%,1%,N/A
+NV,Education,2800,Postgraduate,23%,65%,29%,4%,1%,1%
+NV,Are you a college graduate?,2800,Yes,56%,54%,40%,4%,1%,1%
+NV,Are you a college graduate?,2800,No,44%,39%,55%,5%,1%,N/A
+NV,Education and race,2800,White college graduates,51%,54%,41%,4%,1%,N/A
+NV,Education and race,2800,Whites no degree,41%,38%,56%,4%,1%,1%
+NV,Education and race,2800,Non-whites college grads,5%,58%,32%,6%,4%,N/A
+NV,Education and race,2800,Non-whites no degree,3%,N/A,N/A,N/A,N/A,N/A
+NV,Education among whites by sex,2800,White college-grad women,28%,61%,35%,2%,1%,1%
+NV,Education among whites by sex,2800,White non-college women,21%,42%,53%,4%,1%,N/A
+NV,Education among whites by sex,2800,White college-grad men,24%,46%,47%,6%,1%,N/A
+NV,Education among whites by sex,2800,White non-college men,20%,34%,60%,4%,1%,1%
+NV,Education among whites by sex,2800,Non-whites,8%,58%,33%,6%,3%,N/A
+NV,Income,2800,"Under $30,000",12%,N/A,N/A,N/A,N/A,N/A
+NV,Income,2800,"$30K-$49,999",15%,47%,45%,4%,4%,N/A
+NV,Income,2800,"$50K-$99,999",34%,50%,46%,4%,0%,N/A
+NV,Income,2800,"$100K-$199,999",31%,47%,48%,5%,0%,N/A
+NV,Income,2800,"$200K-$249,999",6%,N/A,N/A,N/A,N/A,N/A
+NV,Income,2800,"$250,000 or more",3%,N/A,N/A,N/A,N/A,N/A
+NV,Income,2800,Under $50K,27%,51%,43%,6%
+NV,Income,2800,$50K-$100K,34%,50%,46%,4%
+NV,Income,2800,$100K or more,39%,48%,47%,5%
+NV,Income,2800,Under $50K,27%,51%,43%,6%
+NV,Income,2800,$50K or more,73%,49%,47%,4%
+NV,Income,2800,Under $100K,61%,50%,44%,6%
+NV,Income,2800,$100K or more,39%,48%,47%,5%
+NV,Party ID,2800,Democrats,28%,93%,5%,1%,1%,N/A
+NV,Party ID,2800,Republicans,28%,7%,89%,3%,0%,1%
+NV,Party ID,2800,Independents,44%,45%,45%,7%,2%,1%
+NV,Party by gender,2800,Democratic men,11%,94%,4%,1%,0%,1%
+NV,Party by gender,2800,Democratic women,17%,93%,5%,1%,1%,N/A
+NV,Party by gender,2800,Republican men,15%,7%,88%,4%,0%,1%
+NV,Party by gender,2800,Republican women,13%,8%,89%,3%,0%,N/A
+NV,Party by gender,2800,Independent men,22%,39%,49%,10%,2%,N/A
+NV,Party by gender,2800,Independent women,22%,51%,41%,5%,2%,1%
+NV,Ideology,2800,Liberal,27%,87%,9%,2%,1%,1%
+NV,Ideology,2800,Moderate,42%,52%,41%,5%,1%,1%
+NV,Ideology,2800,Conservative,31%,9%,86%,5%,0%,N/A
+NV,White born-again or evangelical Christian?,2800,Yes,15%,22%,75%,2%,N/A,1%
+NV,White born-again or evangelical Christian?,2800,No,85%,50%,43%,6%,1%,N/A
+NV,Marital status,2800,Married,63%,47%,47%,4%,1%,1%
+NV,Marital status,2800,Unmarried,37%,51%,42%,5%,1%,1%
+NV,Marital status by gender,2800,Married men,30%,46%,48%,6%,1%,N/A
+NV,Marital status by gender,2800,Married women,32%,49%,46%,3%,2%,N/A
+NV,Marital status by gender,2800,Unmarried men,17%,37%,54%,7%,1%,1%
+NV,Marital status by gender,2800,Unmarried women,20%,64%,32%,4%,0%,N/A
+NV,When did you decide presidential vote?,2800,Last few days,15%,39%,48%,7%,4%,2%
+NV,When did you decide presidential vote?,2800,Last week,6%,N/A,N/A,N/A,N/A,N/A
+NV,When did you decide presidential vote?,2800,In October,9%,N/A,N/A,N/A,N/A,N/A
+NV,When did you decide presidential vote?,2800,In September,7%,N/A,N/A,N/A,N/A,N/A
+NV,When did you decide presidential vote?,2800,Before September,63%,52%,45%,3%,0%,N/A
+NV,When did you decide presidential vote?,2800,In the last week,20%,37%,52%,6%,4%,1%
+NV,When did you decide presidential vote?,2800,Before that,79%,51%,45%,3%,0%,1%
+NV,When did you decide presidential vote?,2800,In the last month,29%,42%,50%,5%,3%,N/A
+NV,When did you decide presidential vote?,2800,Before that,71%,51%,45%,3%,0%,1%
+NV,Opinion of presidential candidate you voted for,2800,Strongly favor ,47%,45%,50%,3%,1%,1%
+NV,Opinion of presidential candidate you voted for,2800,Have reservations,33%,46%,51%,3%,1%,N/A
+NV,Opinion of presidential candidate you voted for,2800,Dislike opponents,18%,42%,43%,11%,2%,2%
+NV,Most important issue facing the country,2800,Foreign policy,17%,65%,29%,3%,2%,1%
+NV,Most important issue facing the country,2800,Immigration,11%,16%,80%,3%,1%,N/A
+NV,Most important issue facing the country,2800,Economy,51%,51%,42%,6%,1%,N/A
+NV,Most important issue facing the country,2800,Terrorism,18%,37%,59%,3%,1%,N/A
+NV,Which candidate quality mattered most?,2800,Cares about me,9%,55%,36%,5%,3%,1%
+NV,Which candidate quality mattered most?,2800,Can bring change,43%,10%,85%,4%,0%,1%
+NV,Which candidate quality mattered most?,2800,Right experience,26%,93%,6%,2%,0%,N/A
+NV,Which candidate quality mattered most?,2800,Good judgment,18%,65%,21%,10%,3%,1%
+NV,Illegal immigrants working in the U.S. should be:,2800,Offered legal status,71%,63%,30%,6%,1%,N/A
+NV,Illegal immigrants working in the U.S. should be:,2800,Deported to home country,27%,13%,83%,3%,N/A,1%
+NV,Do you think immigrants to the U.S. today:,2800,Help the country,57%,72%,21%,6%,1%,N/A
+NV,Do you think immigrants to the U.S. today:,2800,Hurt the country,37%,17%,79%,4%,N/A,N/A
+NV,Effect of international trade,2800,Creates U.S. jobs,41%,59%,34%,6%,1%,N/A
+NV,Effect of international trade,2800,Takes away U.S. jobs,44%,33%,61%,5%,1%,N/A
+NV,Effect of international trade,2800,Does not affect jobs,10%,N/A,N/A,N/A,N/A,N/A
+NV,How do things work in the U.S. today?,2800,Whites are favored,38%,81%,14%,3%,2%,N/A
+NV,How do things work in the U.S. today?,2800,Minorities are favored,24%,9%,87%,3%,N/A,1%
+NV,How do things work in the U.S. today?,2800,No group is favored,34%,34%,56%,9%,1%,N/A
+NV,Feelings about the federal government,2800,Enthusiastic,4%,N/A,N/A,N/A,N/A,N/A
+NV,Feelings about the federal government,2800,Satisfied,20%,85%,13%,2%,0%,N/A
+NV,Feelings about the federal government,2800,Dissatisfied,49%,44%,48%,6%,1%,1%
+NV,Feelings about the federal government,2800,Angry,26%,12%,80%,5%,2%,1%
+NV,Feelings about the federal government,2800,Enthusiastic/Satisfied,24%,85%,13%,2%,0%,N/A
+NV,Feelings about the federal government,2800,Dissatisfied/Angry,74%,33%,59%,6%,1%,1%
+NV,Opinion of Barack Obama as president,2800,Strongly approve,33%,95%,3%,1%,0%,1%
+NV,Opinion of Barack Obama as president,2800,Somewhat approve,21%,69%,22%,6%,3%,N/A
+NV,Opinion of Barack Obama as president,2800,Somewhat disapprove,14%,15%,73%,10%,1%,1%
+NV,Opinion of Barack Obama as president,2800,Strongly disapprove,31%,4%,94%,2%,1%,N/A
+NV,Opinion of Barack Obama as president,2800,Approve,54%,85%,10%,5%
+NV,Opinion of Barack Obama as president,2800,Disapprove,45%,7%,87%,6%
+NV,Opinion of Hillary Clinton,2800,Favorable,40%,97%,2%,0%,0%,1%
+NV,Opinion of Hillary Clinton,2800,Unfavorable,59%,17%,75%,6%,2%,N/A
+NV,Opinion of Donald Trump,2800,Favorable,34%,5%,94%,N/A,0%,1%
+NV,Opinion of Donald Trump,2800,Unfavorable,64%,74%,18%,6%,2%,N/A
+NV,Opinion of Clinton and Trump,2800,Both favorable,1%,N/A,N/A,N/A,N/A,N/A
+NV,Opinion of Clinton and Trump,2800,Only Clinton favorable,38%,98%,1%,0%,N/A,1%
+NV,Opinion of Clinton and Trump,2800,Only Trump favorable,33%,3%,97%,N/A,N/A,N/A
+NV,Opinion of Clinton and Trump,2800,Both unfavorable,25%,36%,45%,13%,5%,1%
+NV,Opinion of Maggie Hassan,2800,Favorable,50%,84%,12%,4%,0%,N/A
+NV,Opinion of Maggie Hassan,2800,Unfavorable,47%,13%,78%,6%,2%,1%
+NV,Opinion of Kelly Ayotte,2800,Favorable,46%,21%,74%,5%,N/A,N/A
+NV,Opinion of Kelly Ayotte,2800,Unfavorable,50%,75%,18%,5%,2%,N/A
+NV,Is Hillary Clinton honest and trustworthy?,2800,Yes,35%,97%,2%,0%,1%,N/A
+NV,Is Hillary Clinton honest and trustworthy?,2800,No,63%,17%,74%,8%,1%,N/A
+NV,Is Donald Trump honest and trustworthy?,2800,Yes,36%,3%,97%,0%,N/A,N/A
+NV,Is Donald Trump honest and trustworthy?,2800,No,62%,71%,19%,8%,2%,N/A
+NV,Which candidate is honest?,2800,Both are,1%,N/A,N/A,N/A,N/A,N/A
+NV,Which candidate is honest?,2800,Only Clinton is,33%,98%,1%,0%,1%,N/A
+NV,Which candidate is honest?,2800,Only Trump is,35%,1%,99%,0%,N/A,N/A
+NV,Which candidate is honest?,2800,Neither is,28%,37%,42%,17%,3%,1%
+NV,Is Clinton qualified to serve as president?,2800,Yes,52%,87%,9%,2%,1%,1%
+NV,Is Clinton qualified to serve as president?,2800,No,47%,6%,86%,6%,2%,N/A
+NV,Is Trump qualified to serve as president?,2800,Yes,37%,4%,94%,1%,0%,1%
+NV,Is Trump qualified to serve as president?,2800,No,62%,76%,16%,6%,2%,N/A
+NV,Who is qualified to serve as president?,2800,Both are,5%,N/A,N/A,N/A,N/A,N/A
+NV,Who is qualified to serve as president?,2800,Only Clinton is,47%,94%,3%,2%,1%,N/A
+NV,Who is qualified to serve as president?,2800,Only Trump is,32%,2%,97%,1%,N/A,N/A
+NV,Who is qualified to serve as president?,2800,Neither is,14%,14%,60%,18%,6%,2%
+NV,Does Clinton have the temperament to be president?,2800,Yes,51%,87%,9%,4%,1%,N/A
+NV,Does Clinton have the temperament to be president?,2800,No,47%,2%,91%,6%,1%,N/A
+NV,Does Trump have the temperament to be president?,2800,Yes,38%,2%,97%,1%,N/A,N/A
+NV,Does Trump have the temperament to be president?,2800,No,61%,73%,18%,7%,2%,N/A
+NV,Which candidate has the right temperament?,2800,Both do,4%,N/A,N/A,N/A,N/A,N/A
+NV,Which candidate has the right temperament?,2800,Only Clinton does,48%,92%,3%,3%,1%,1%
+NV,Which candidate has the right temperament?,2800,Only Trump does,34%,0%,99%,1%,N/A,N/A
+NV,Which candidate has the right temperament?,2800,Neither does,13%,4%,71%,19%,5%,1%
+NV,Does Clinton's use of private email bother you:,2800,A lot,48%,7%,84%,7%,2%,N/A
+NV,Does Clinton's use of private email bother you:,2800,Some,19%,75%,18%,5%,1%,1%
+NV,Does Clinton's use of private email bother you:,2800,Not much,19%,93%,5%,2%,1%,N/A
+NV,Does Clinton's use of private email bother you:,2800,Not at all,13%,97%,2%,1%,N/A,N/A
+NV,Does Clinton's use of private email bother you?,2800,Yes,67%,26%,65%,7%,1%,1%
+NV,Does Clinton's use of private email bother you?,2800,No,32%,95%,4%,1%,0%,N/A
+NV,Does Donald Trump's treatment of women bother you:,2800,A lot,52%,85%,8%,5%,2%,N/A
+NV,Does Donald Trump's treatment of women bother you:,2800,Some,20%,19%,75%,6%,1%,N/A
+NV,Does Donald Trump's treatment of women bother you:,2800,Not much,15%,2%,93%,4%,N/A,1%
+NV,Does Donald Trump's treatment of women bother you:,2800,Not at all,12%,N/A,N/A,N/A,N/A,N/A
+NV,Does Donald Trump's treatment of women bother you?,2800,Yes,72%,67%,26%,5%,1%,1%
+NV,Does Donald Trump's treatment of women bother you?,2800,No,28%,2%,94%,4%,N/A,N/A
+NV,Who would better handle the economy?,2800,Clinton,50%,93%,2%,4%,1%,N/A
+NV,Who would better handle the economy?,2800,Trump,48%,4%,90%,5%,0%,1%
+NV,Who would better handle foreign policy?,2800,Clinton,55%,87%,7%,5%,1%,N/A
+NV,Who would better handle foreign policy?,2800,Trump,42%,1%,95%,3%,0%,1%
+NV,Condition of national economy,2800,Excellent,3%,N/A,N/A,N/A,N/A,N/A
+NV,Condition of national economy,2800,Good,39%,73%,20%,5%,1%,1%
+NV,Condition of national economy,2800,Not good,40%,28%,66%,5%,1%,N/A
+NV,Condition of national economy,2800,Poor,16%,8%,87%,4%,1%,N/A
+NV,Condition of national economy,2800,Good,42%,75%,19%,5%,1%,N/A
+NV,Condition of national economy,2800,Poor,57%,22%,72%,5%,1%,N/A
+NV,Financial situation compared to four years ago:,2800,Better today,35%,74%,19%,6%,1%,N/A
+NV,Financial situation compared to four years ago:,2800,Worse today,28%,14%,79%,4%,1%,2%
+NV,Financial situation compared to four years ago:,2800,About the same,36%,53%,43%,3%,1%,N/A
+NV,Life for the next generation of Americans will be:,2800,Better than today,32%,66%,31%,3%,0%,N/A
+NV,Life for the next generation of Americans will be:,2800,Worse than today,41%,29%,62%,7%,2%,N/A
+NV,Life for the next generation of Americans will be:,2800,About the same,24%,64%,31%,4%,0%,1%
+NV,Did any campaign contact you?,2800,Only Clinton,23%,88%,10%,2%,0%,N/A
+NV,Did any campaign contact you?,2800,Only Trump,8%,N/A,N/A,N/A,N/A,N/A
+NV,Did any campaign contact you?,2800,Both,18%,55%,39%,5%,1%,N/A
+NV,Did any campaign contact you?,2800,Neither,47%,34%,58%,5%,2%,1%
+NV,Were you contacted by the Clinton campaign?,2800,Yes,41%,73%,23%,4%
+NV,Were you contacted by the Clinton campaign?,2800,No,54%,30%,63%,7%
+NV,Were you contacted by the Trump campaign?,2800,Yes,26%,41%,54%,5%
+NV,Were you contacted by the Trump campaign?,2800,No,70%,52%,42%,6%
+NV,Vote for president in a two-way race,2800,Clinton,50%,97%,1%,2%
+NV,Vote for president in a two-way race,2800,Trump,46%,N/A,97%,3%
+NV,Vote for president in a two-way race,2800,Would not vote,4%,N/A,N/A,N/A
+NV,Area type,2800,Urban area,9%,52%,42%,6%
+NV,Area type,2800,Suburban area,53%,47%,47%,6%
+NV,Area type,2800,Rural area,37%,47%,47%,6%
+NV,Region,2800,Seacoast,17%,53%,41%,5%,1%,N/A
+NV,Region,2800,Manchester / Nashua Area,18%,49%,45%,4%,1%,1%
+NV,Region,2800,Concord / Ct. Valley,21%,54%,41%,4%,1%,N/A
+NV,Region,2800,South,27%,40%,54%,5%,1%,N/A
+NV,Region,2800,North,17%,44%,51%,4%,1%,N/A

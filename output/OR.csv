@@ -1,1 +1,137 @@
 state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+OR,Gender,1128,Male,49%,46%,44%,5%,3%,2%
+OR,Gender,1128,Female,51%,55%,35%,4%,2%,4%
+OR,Age,1128,18-29,15%,N/A,N/A,N/A,N/A,N/A
+OR,Age,1128,30-44,25%,51%,40%,3%,4%,2%
+OR,Age,1128,45-64,37%,50%,42%,5%,1%,2%
+OR,Age,1128,65 and older,24%,46%,45%,3%,1%,5%
+OR,Age,1128,18-24,7%,N/A,N/A,N/A,N/A,N/A
+OR,Age,1128,25-29,8%,N/A,N/A,N/A,N/A,N/A
+OR,Age,1128,30-39,17%,49%,40%,3%,6%,2%
+OR,Age,1128,40-49,16%,51%,37%,10%,1%,1%
+OR,Age,1128,50-64,28%,51%,45%,1%,1%,2%
+OR,Age,1128,65 and older,24%,46%,45%,3%,1%,5%
+OR,Age,1128,18-44,40%,54%,33%,5%,4%,4%
+OR,Age,1128,45 and older,60%,49%,43%,4%,1%,3%
+OR,Race,1128,White,82%,49%,42%,5%,1%,3%
+OR,Race,1128,Black,1%,N/A,N/A,N/A,N/A,N/A
+OR,Race,1128,Latino,9%,N/A,N/A,N/A,N/A,N/A
+OR,Race,1128,Asian,4%,N/A,N/A,N/A,N/A,N/A
+OR,Race,1128,Other race,4%,N/A,N/A,N/A,N/A,N/A
+OR,Race,1128,White,82%,49%,42%,5%,1%,3%
+OR,Race,1128,Non-white,18%,62%,24%,2%,5%,7%
+OR,Race and gender,1128,White men,41%,44%,47%,5%,2%,2%
+OR,Race and gender,1128,White women,42%,55%,38%,5%,1%,1%
+OR,Race and gender,1128,Black men,0%,N/A,N/A,N/A,N/A,N/A
+OR,Race and gender,1128,Black women,1%,N/A,N/A,N/A,N/A,N/A
+OR,Race and gender,1128,Latino men,4%,N/A,N/A,N/A,N/A,N/A
+OR,Race and gender,1128,Latino women,5%,N/A,N/A,N/A,N/A,N/A
+OR,Race and gender,1128,Others,8%,N/A,N/A,N/A,N/A,N/A
+OR,Education,1128,High school or less,17%,37%,57%,4%,0%,2%
+OR,Education,1128,Some college,34%,46%,46%,4%,3%,1%
+OR,Education,1128,College graduate,29%,54%,32%,7%,4%,3%
+OR,Education,1128,Postgraduate,20%,65%,24%,3%,3%,5%
+OR,Are you a college graduate?,1128,Yes,50%,59%,29%,5%,3%,4%
+OR,Are you a college graduate?,1128,No,50%,43%,50%,4%,2%,1%
+OR,Education and race,1128,White college graduates,42%,59%,30%,6%,2%,3%
+OR,Education and race,1128,Whites no degree,40%,38%,55%,4%,1%,2%
+OR,Education and race,1128,Non-whites college grads,7%,N/A,N/A,N/A,N/A,N/A
+OR,Education and race,1128,Non-whites no degree,10%,N/A,N/A,N/A,N/A,N/A
+OR,Education among whites by sex,1128,White college-grad women,22%,62%,30%,6%,0%,2%
+OR,Education among whites by sex,1128,White non-college women,19%,45%,47%,4%,1%,3%
+OR,Education among whites by sex,1128,White college-grad men,20%,56%,31%,6%,4%,3%
+OR,Education among whites by sex,1128,White non-college men,21%,32%,62%,4%,0%,2%
+OR,Education among whites by sex,1128,Non-whites,18%,62%,24%,2%,5%,7%
+OR,Income,1128,"Under $30,000",20%,45%,40%,4%,6%,5%
+OR,Income,1128,"$30K-$49,999",20%,47%,40%,4%,3%,6%
+OR,Income,1128,"$50K-$99,999",33%,48%,44%,6%,1%,1%
+OR,Income,1128,"$100K-$199,999",22%,56%,35%,7%,0%,2%
+OR,Income,1128,"$200K-$249,999",3%,N/A,N/A,N/A,N/A,N/A
+OR,Income,1128,"$250,000 or more",3%,N/A,N/A,N/A,N/A,N/A
+OR,Income,1128,Under $50K,40%,46%,40%,4%,4%,6%
+OR,Income,1128,$50K-$100K,33%,48%,44%,6%,1%,1%
+OR,Income,1128,$100K or more,28%,55%,36%,6%,1%,2%
+OR,Income,1128,Under $50K,40%,46%,40%,4%,4%,6%
+OR,Income,1128,$50K or more,60%,51%,41%,6%,1%,1%
+OR,Income,1128,Under $100K,72%,47%,42%,5%,3%,3%
+OR,Income,1128,$100K or more,28%,55%,36%,6%,1%,2%
+OR,Party ID,1128,Democrats,33%,92%,4%,1%,1%,2%
+OR,Party ID,1128,Republicans,23%,7%,87%,5%,0%,1%
+OR,Party ID,1128,Independents,44%,43%,41%,7%,4%,5%
+OR,Party by gender,1128,Democratic men,14%,91%,5%,2%,3%,N/A
+OR,Party by gender,1128,Democratic women,19%,93%,4%,1%,1%,1%
+OR,Party by gender,1128,Republican men,11%,9%,86%,4%,0%,1%
+OR,Party by gender,1128,Republican women,11%,6%,88%,5%,N/A,1%
+OR,Party by gender,1128,Independent men,24%,38%,45%,7%,5%,5%
+OR,Party by gender,1128,Independent women,20%,48%,35%,7%,3%,7%
+OR,Ideology,1128,Liberal,34%,89%,5%,1%,3%,2%
+OR,Ideology,1128,Moderate,36%,52%,34%,7%,2%,5%
+OR,Ideology,1128,Conservative,30%,7%,85%,7%,0%,1%
+OR,When did you decide presidential vote?,1128,Last few days,N/A,N/A,N/A,N/A,N/A,N/A
+OR,When did you decide presidential vote?,1128,Last week,4%,N/A,N/A,N/A,N/A,N/A
+OR,When did you decide presidential vote?,1128,In October,16%,36%,52%,9%,1%,2%
+OR,When did you decide presidential vote?,1128,In September,10%,41%,51%,2%,4%,2%
+OR,When did you decide presidential vote?,1128,Before September,67%,56%,36%,3%,2%,3%
+OR,When did you decide presidential vote?,1128,In the last week,4%,N/A,N/A,N/A
+OR,When did you decide presidential vote?,1128,Before that,94%,51%,41%,8%
+OR,When did you decide presidential vote?,1128,In the last month,20%,32%,48%,9%,4%,7%
+OR,When did you decide presidential vote?,1128,Before that,77%,54%,38%,3%,2%,3%
+OR,Opinion of presidential candidate you voted for,1128,Strongly favor ,31%,53%,39%,1%,4%,3%
+OR,Opinion of presidential candidate you voted for,1128,Have reservations,30%,61%,36%,2%,0%,1%
+OR,Opinion of presidential candidate you voted for,1128,Dislike opponents,36%,39%,44%,10%,4%,3%
+OR,Most important issue facing the country,1128,Foreign policy,15%,61%,27%,5%,5%,2%
+OR,Most important issue facing the country,1128,Immigration,11%,31%,63%,6%,1%,N/A
+OR,Most important issue facing the country,1128,Economy,57%,54%,34%,5%,3%,4%
+OR,Most important issue facing the country,1128,Terrorism,13%,31%,64%,2%,1%,2%
+OR,Which candidate quality mattered most?,1128,Cares about me,13%,49%,42%,0%,3%,6%
+OR,Which candidate quality mattered most?,1128,Can bring change,30%,11%,82%,4%,2%,1%
+OR,Which candidate quality mattered most?,1128,Right experience,25%,92%,5%,2%,1%,N/A
+OR,Which candidate quality mattered most?,1128,Good judgment,28%,57%,27%,7%,4%,5%
+OR,Illegal immigrants working in the U.S. should be:,1128,Offered legal status,77%,61%,29%,4%,3%,3%
+OR,Illegal immigrants working in the U.S. should be:,1128,Deported to home country,18%,8%,79%,6%,1%,6%
+OR,Opinion of Barack Obama as president,1128,Strongly approve,35%,95%,2%,1%,1%,1%
+OR,Opinion of Barack Obama as president,1128,Somewhat approve,23%,64%,14%,12%,6%,4%
+OR,Opinion of Barack Obama as president,1128,Somewhat disapprove,9%,N/A,N/A,N/A,N/A,N/A
+OR,Opinion of Barack Obama as president,1128,Strongly disapprove,32%,0%,91%,2%,2%,5%
+OR,Opinion of Barack Obama as president,1128,Approve,58%,83%,7%,5%,3%,2%
+OR,Opinion of Barack Obama as president,1128,Disapprove,41%,3%,87%,4%,2%,4%
+OR,Opinion of Hillary Clinton,1128,Favorable,43%,96%,3%,0%,0%,1%
+OR,Opinion of Hillary Clinton,1128,Unfavorable,56%,13%,70%,8%,4%,5%
+OR,Opinion of Donald Trump,1128,Favorable,33%,2%,96%,1%,0%,1%
+OR,Opinion of Donald Trump,1128,Unfavorable,66%,74%,12%,7%,4%,3%
+OR,Opinion of Clinton and Trump,1128,Both favorable,2%,N/A,N/A,N/A,N/A,N/A
+OR,Opinion of Clinton and Trump,1128,Only Clinton favorable,41%,98%,1%,0%,0%,1%
+OR,Opinion of Clinton and Trump,1128,Only Trump favorable,31%,N/A,98%,1%,0%,1%
+OR,Opinion of Clinton and Trump,1128,Both unfavorable,23%,31%,31%,18%,9%,11%
+OR,Is Hillary Clinton honest and trustworthy?,1128,Yes,36%,99%,0%,N/A,0%,1%
+OR,Is Hillary Clinton honest and trustworthy?,1128,No,62%,21%,63%,7%,4%,5%
+OR,Is Donald Trump honest and trustworthy?,1128,Yes,31%,2%,97%,0%,0%,1%
+OR,Is Donald Trump honest and trustworthy?,1128,No,68%,72%,13%,7%,4%,4%
+OR,Which candidate is honest?,1128,Both are,1%,N/A,N/A,N/A,N/A,N/A
+OR,Which candidate is honest?,1128,Only Clinton is,35%,99%,0%,N/A,0%,1%
+OR,Which candidate is honest?,1128,Only Trump is,30%,0%,99%,0%,0%,1%
+OR,Which candidate is honest?,1128,Neither is,31%,41%,29%,14%,8%,8%
+OR,Does Clinton have the temperament to be president?,1128,Yes,60%,81%,11%,2%,4%,2%
+OR,Does Clinton have the temperament to be president?,1128,No,39%,3%,84%,8%,1%,4%
+OR,Does Trump have the temperament to be president?,1128,Yes,33%,2%,97%,0%,1%,N/A
+OR,Does Trump have the temperament to be president?,1128,No,66%,74%,11%,7%,4%,4%
+OR,Which candidate has the right temperament?,1128,Both do,5%,N/A,N/A,N/A,N/A,N/A
+OR,Which candidate has the right temperament?,1128,Only Clinton does,55%,88%,3%,2%,4%,3%
+OR,Which candidate has the right temperament?,1128,Only Trump does,28%,0%,99%,N/A,1%,N/A
+OR,Which candidate has the right temperament?,1128,Neither does,11%,9%,47%,27%,2%,15%
+OR,Condition of national economy,1128,Excellent,2%,N/A,N/A,N/A,N/A,N/A
+OR,Condition of national economy,1128,Good,36%,85%,10%,2%,2%,1%
+OR,Condition of national economy,1128,Not good,38%,40%,47%,8%,2%,3%
+OR,Condition of national economy,1128,Poor,23%,8%,77%,4%,5%,6%
+OR,Condition of national economy,1128,Good,38%,84%,10%,2%,2%,2%
+OR,Condition of national economy,1128,Poor,61%,28%,58%,6%,3%,5%
+OR,Life for the next generation of Americans will be:,1128,Better than today,21%,50%,41%,3%,4%,2%
+OR,Life for the next generation of Americans will be:,1128,Worse than today,32%,32%,54%,5%,3%,6%
+OR,Life for the next generation of Americans will be:,1128,About the same,42%,65%,26%,6%,0%,3%
+OR,Area type,1128,Urban area,36%,65%,26%,5%,2%,2%
+OR,Area type,1128,Suburban area,45%,49%,42%,3%,1%,5%
+OR,Area type,1128,Rural area,19%,28%,57%,7%,6%,2%
+OR,Region,1128,Multnomah County,21%,74%,17%,3%,4%,2%
+OR,Region,1128,Portland Suburbs,24%,52%,40%,3%,1%,4%
+OR,Region,1128,Willamette Val. / N.W.,29%,50%,39%,5%,2%,4%
+OR,Region,1128,East / South,26%,31%,58%,7%,3%,1%

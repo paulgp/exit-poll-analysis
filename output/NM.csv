@@ -1,1 +1,185 @@
 state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+NM,Gender,2014,Male,47%,42%,44%,12%,1%,1%
+NM,Gender,2014,Female,53%,54%,36%,7%,1%,2%
+NM,Age,2014,18-29,19%,52%,27%,17%,2%,2%
+NM,Age,2014,30-44,26%,48%,38%,11%,2%,1%
+NM,Age,2014,45-64,36%,45%,46%,7%,1%,1%
+NM,Age,2014,65 and older,19%,53%,42%,4%,1%,N/A
+NM,Age,2014,18-24,12%,53%,26%,16%,2%,3%
+NM,Age,2014,25-29,8%,49%,29%,19%,2%,1%
+NM,Age,2014,30-39,17%,45%,37%,15%,2%,1%
+NM,Age,2014,40-49,17%,48%,44%,6%,1%,1%
+NM,Age,2014,50-64,27%,46%,46%,6%,1%,1%
+NM,Age,2014,65 and older,19%,53%,42%,4%,1%,N/A
+NM,Age,2014,18-44,45%,49%,34%,14%,2%,1%
+NM,Age,2014,45 and older,55%,48%,45%,6%,1%,N/A
+NM,Race,2014,White,49%,42%,47%,8%,2%,1%
+NM,Race,2014,Black,1%,N/A,N/A,N/A,N/A,N/A
+NM,Race,2014,Latino,40%,54%,33%,11%,1%,1%
+NM,Race,2014,Asian,1%,N/A,N/A,N/A,N/A,N/A
+NM,Race,2014,Other race,9%,53%,33%,12%,0%,2%
+NM,Race,2014,White,49%,42%,47%,8%,2%,1%
+NM,Race,2014,Non-white,51%,55%,32%,11%,1%,1%
+NM,Race and gender,2014,White men,24%,38%,48%,10%,2%,2%
+NM,Race and gender,2014,White women,25%,45%,46%,6%,1%,2%
+NM,Race and gender,2014,Black men,1%,N/A,N/A,N/A,N/A,N/A
+NM,Race and gender,2014,Black women,0%,N/A,N/A,N/A,N/A,N/A
+NM,Race and gender,2014,Latino men,17%,45%,39%,14%,1%,1%
+NM,Race and gender,2014,Latino women,23%,61%,28%,8%,2%,1%
+NM,Race and gender,2014,Others,10%,54%,32%,12%,1%,1%
+NM,Education,2014,High school or less,17%,49%,42%,8%,0%,1%
+NM,Education,2014,Some college,34%,43%,43%,11%,2%,1%
+NM,Education,2014,College graduate,28%,47%,41%,9%,2%,1%
+NM,Education,2014,Postgraduate,21%,57%,32%,8%,0%,3%
+NM,Are you a college graduate?,2014,Yes,49%,51%,37%,9%,2%,1%
+NM,Are you a college graduate?,2014,No,51%,45%,43%,10%,1%,1%
+NM,Education and race,2014,White college graduates,29%,51%,38%,8%,2%,1%
+NM,Education and race,2014,Whites no degree,21%,30%,60%,8%,1%,1%
+NM,Education and race,2014,Non-whites college grads,20%,52%,36%,10%,1%,1%
+NM,Education and race,2014,Non-whites no degree,31%,56%,30%,11%,1%,2%
+NM,Education among whites by sex,2014,White college-grad women,14%,55%,37%,5%,1%,2%
+NM,Education among whites by sex,2014,White non-college women,11%,34%,57%,7%,1%,1%
+NM,Education among whites by sex,2014,White college-grad men,15%,47%,38%,10%,2%,3%
+NM,Education among whites by sex,2014,White non-college men,10%,25%,64%,9%,2%,N/A
+NM,Education among whites by sex,2014,Non-whites,50%,54%,33%,11%,1%,1%
+NM,Income,2014,"Under $30,000",25%,54%,30%,14%,1%,1%
+NM,Income,2014,"$30K-$49,999",20%,50%,38%,10%,2%,N/A
+NM,Income,2014,"$50K-$99,999",30%,44%,46%,9%,1%,N/A
+NM,Income,2014,"$100K-$199,999",21%,47%,43%,6%,1%,3%
+NM,Income,2014,"$200K-$249,999",2%,N/A,N/A,N/A,N/A,N/A
+NM,Income,2014,"$250,000 or more",2%,N/A,N/A,N/A,N/A,N/A
+NM,Income,2014,Under $50K,45%,52%,33%,12%,1%,2%
+NM,Income,2014,$50K-$100K,30%,44%,46%,9%,1%,N/A
+NM,Income,2014,$100K or more,25%,47%,43%,6%,1%,3%
+NM,Income,2014,Under $50K,45%,52%,33%,12%,1%,2%
+NM,Income,2014,$50K or more,55%,45%,45%,7%,1%,2%
+NM,Income,2014,Under $100K,75%,49%,38%,11%,1%,1%
+NM,Income,2014,$100K or more,25%,47%,43%,6%,1%,3%
+NM,Party ID,2014,Democrats,41%,85%,8%,6%,1%,N/A
+NM,Party ID,2014,Republicans,27%,6%,86%,6%,1%,1%
+NM,Party ID,2014,Independents,32%,37%,42%,16%,2%,3%
+NM,Party by gender,2014,Democratic men,16%,82%,10%,7%,1%,N/A
+NM,Party by gender,2014,Democratic women,25%,88%,6%,5%,1%,N/A
+NM,Party by gender,2014,Republican men,12%,6%,84%,8%,1%,1%
+NM,Party by gender,2014,Republican women,15%,6%,88%,5%,0%,1%
+NM,Party by gender,2014,Independent men,19%,30%,47%,18%,2%,3%
+NM,Party by gender,2014,Independent women,13%,46%,34%,14%,3%,3%
+NM,Ideology,2014,Liberal,29%,82%,9%,6%,2%,1%
+NM,Ideology,2014,Moderate,38%,51%,33%,14%,1%,1%
+NM,Ideology,2014,Conservative,34%,15%,75%,7%,1%,2%
+NM,Marital status,2014,Married,54%,41%,47%,9%,1%,2%
+NM,Marital status,2014,Unmarried,46%,57%,30%,10%,2%,1%
+NM,Marital status by gender,2014,Married men,26%,36%,52%,10%,1%,1%
+NM,Marital status by gender,2014,Married women,27%,45%,43%,9%,1%,2%
+NM,Marital status by gender,2014,Unmarried men,22%,45%,39%,13%,2%,1%
+NM,Marital status by gender,2014,Unmarried women,24%,69%,21%,7%,1%,2%
+NM,When did you decide presidential vote?,2014,Last few days,10%,40%,50%,8%,2%,N/A
+NM,When did you decide presidential vote?,2014,Last week,4%,N/A,N/A,N/A,N/A,N/A
+NM,When did you decide presidential vote?,2014,In October,14%,34%,37%,22%,4%,3%
+NM,When did you decide presidential vote?,2014,In September,12%,N/A,N/A,N/A,N/A,N/A
+NM,When did you decide presidential vote?,2014,Before September,58%,53%,39%,7%,1%,N/A
+NM,When did you decide presidential vote?,2014,In the last week,14%,41%,46%,10%,2%,1%
+NM,When did you decide presidential vote?,2014,Before that,84%,49%,39%,9%,1%,2%
+NM,When did you decide presidential vote?,2014,In the last month,28%,37%,41%,16%,3%,3%
+NM,When did you decide presidential vote?,2014,Before that,70%,52%,40%,7%,1%,N/A
+NM,Opinion of presidential candidate you voted for,2014,Strongly favor ,43%,52%,39%,8%,1%,N/A
+NM,Opinion of presidential candidate you voted for,2014,Have reservations,27%,56%,36%,7%,N/A,1%
+NM,Opinion of presidential candidate you voted for,2014,Dislike opponents,28%,35%,44%,15%,3%,3%
+NM,Most important issue facing the country,2014,Foreign policy,14%,55%,37%,5%,2%,1%
+NM,Most important issue facing the country,2014,Immigration,11%,38%,55%,7%,1%,N/A
+NM,Most important issue facing the country,2014,Economy,55%,50%,37%,10%,1%,2%
+NM,Most important issue facing the country,2014,Terrorism,16%,38%,48%,13%,1%,N/A
+NM,Which candidate quality mattered most?,2014,Cares about me,14%,50%,34%,12%,3%,1%
+NM,Which candidate quality mattered most?,2014,Can bring change,33%,17%,77%,4%,1%,1%
+NM,Which candidate quality mattered most?,2014,Right experience,23%,88%,8%,3%,0%,1%
+NM,Which candidate quality mattered most?,2014,Good judgment,25%,49%,28%,18%,2%,3%
+NM,Illegal immigrants working in the U.S. should be:,2014,Offered legal status,82%,56%,31%,10%,2%,1%
+NM,Illegal immigrants working in the U.S. should be:,2014,Deported to home country,15%,10%,83%,7%,0%,N/A
+NM,View of U.S. wall along the entire Mexican border,2014,Support,38%,11%,84%,4%,1%,N/A
+NM,View of U.S. wall along the entire Mexican border,2014,Oppose,59%,72%,12%,13%,2%,1%
+NM,Do you think immigrants to the U.S. today:,2014,Help the country,65%,66%,19%,12%,2%,1%
+NM,Do you think immigrants to the U.S. today:,2014,Hurt the country,24%,13%,80%,7%,N/A,N/A
+NM,How do things work in the U.S. today?,2014,Whites are favored,41%,75%,12%,11%,2%,N/A
+NM,How do things work in the U.S. today?,2014,Minorities are favored,20%,11%,80%,7%,0%,2%
+NM,How do things work in the U.S. today?,2014,No group is favored,36%,41%,46%,10%,1%,2%
+NM,Feelings about the federal government,2014,Enthusiastic,4%,N/A,N/A,N/A,N/A,N/A
+NM,Feelings about the federal government,2014,Satisfied,27%,80%,13%,5%,1%,1%
+NM,Feelings about the federal government,2014,Dissatisfied,41%,44%,40%,13%,2%,1%
+NM,Feelings about the federal government,2014,Angry,28%,16%,70%,11%,1%,2%
+NM,Feelings about the federal government,2014,Enthusiastic/Satisfied,31%,83%,11%,4%,1%,1%
+NM,Feelings about the federal government,2014,Dissatisfied/Angry,68%,33%,52%,12%,2%,1%
+NM,Opinion of Barack Obama as president,2014,Strongly approve,35%,87%,2%,9%,1%,1%
+NM,Opinion of Barack Obama as president,2014,Somewhat approve,22%,62%,21%,14%,2%,1%
+NM,Opinion of Barack Obama as president,2014,Somewhat disapprove,10%,15%,62%,14%,4%,5%
+NM,Opinion of Barack Obama as president,2014,Strongly disapprove,32%,4%,90%,5%,1%,N/A
+NM,Opinion of Barack Obama as president,2014,Approve,57%,78%,9%,11%,2%,N/A
+NM,Opinion of Barack Obama as president,2014,Disapprove,42%,7%,83%,7%,1%,2%
+NM,Opinion of Hillary Clinton,2014,Favorable,46%,92%,2%,5%,0%,1%
+NM,Opinion of Hillary Clinton,2014,Unfavorable,53%,10%,74%,12%,2%,2%
+NM,Opinion of Donald Trump,2014,Favorable,36%,6%,91%,2%,0%,1%
+NM,Opinion of Donald Trump,2014,Unfavorable,63%,72%,11%,13%,2%,2%
+NM,Opinion of Clinton and Trump,2014,Both favorable,3%,N/A,N/A,N/A,N/A,N/A
+NM,Opinion of Clinton and Trump,2014,Only Clinton favorable,43%,94%,0%,5%,0%,1%
+NM,Opinion of Clinton and Trump,2014,Only Trump favorable,33%,1%,97%,2%,0%,N/A
+NM,Opinion of Clinton and Trump,2014,Both unfavorable,20%,25%,35%,30%,6%,4%
+NM,Opinion of Gary Johnson,2014,Favorable,46%,47%,32%,19%,1%,1%
+NM,Opinion of Gary Johnson,2014,Unfavorable,47%,49%,47%,1%,2%,1%
+NM,Is Hillary Clinton honest and trustworthy?,2014,Yes,39%,94%,3%,2%,0%,1%
+NM,Is Hillary Clinton honest and trustworthy?,2014,No,60%,18%,64%,15%,2%,1%
+NM,Is Donald Trump honest and trustworthy?,2014,Yes,33%,3%,92%,5%,N/A,N/A
+NM,Is Donald Trump honest and trustworthy?,2014,No,65%,72%,12%,12%,2%,2%
+NM,Which candidate is honest?,2014,Both are,2%,N/A,N/A,N/A,N/A,N/A
+NM,Which candidate is honest?,2014,Only Clinton is,37%,98%,0%,1%,0%,1%
+NM,Which candidate is honest?,2014,Only Trump is,31%,1%,95%,4%,N/A,N/A
+NM,Which candidate is honest?,2014,Neither is,28%,38%,28%,26%,4%,4%
+NM,Does Clinton have the temperament to be president?,2014,Yes,53%,87%,7%,5%,2%,N/A
+NM,Does Clinton have the temperament to be president?,2014,No,45%,5%,77%,15%,1%,2%
+NM,Does Trump have the temperament to be president?,2014,Yes,34%,3%,94%,3%,0%,N/A
+NM,Does Trump have the temperament to be president?,2014,No,65%,72%,11%,13%,2%,2%
+NM,Which candidate has the right temperament?,2014,Both do,4%,N/A,N/A,N/A,N/A,N/A
+NM,Which candidate has the right temperament?,2014,Only Clinton does,50%,92%,2%,4%,2%,N/A
+NM,Which candidate has the right temperament?,2014,Only Trump does,30%,1%,98%,1%,N/A,N/A
+NM,Which candidate has the right temperament?,2014,Neither does,16%,11%,37%,43%,3%,6%
+NM,Is Clinton qualified to serve as president?,2014,Yes,52%,86%,4%,8%,1%,1%
+NM,Is Clinton qualified to serve as president?,2014,No,47%,6%,80%,10%,2%,2%
+NM,Is Trump qualified to serve as president?,2014,Yes,38%,4%,92%,4%,0%,N/A
+NM,Is Trump qualified to serve as president?,2014,No,60%,76%,8%,13%,2%,1%
+NM,Who is qualified to serve as president?,2014,Both are,3%,N/A,N/A,N/A,N/A,N/A
+NM,Who is qualified to serve as president?,2014,Only Clinton is,49%,90%,1%,7%,1%,1%
+NM,Who is qualified to serve as president?,2014,Only Trump is,35%,3%,95%,2%,0%,N/A
+NM,Who is qualified to serve as president?,2014,Neither is,12%,15%,37%,36%,6%,6%
+NM,Who would better handle the economy?,2014,Clinton,50%,90%,1%,8%,1%,N/A
+NM,Who would better handle the economy?,2014,Trump,44%,3%,89%,7%,0%,1%
+NM,Who would better handle foreign policy?,2014,Clinton,55%,83%,6%,10%,1%,N/A
+NM,Who would better handle foreign policy?,2014,Trump,40%,4%,91%,5%,0%,N/A
+NM,Does Clinton's use of private email bother you:,2014,A lot,44%,12%,74%,12%,1%,1%
+NM,Does Clinton's use of private email bother you:,2014,Some,21%,63%,19%,13%,2%,3%
+NM,Does Clinton's use of private email bother you:,2014,Not much,15%,86%,4%,7%,2%,1%
+NM,Does Clinton's use of private email bother you:,2014,Not at all,18%,88%,6%,3%,3%,N/A
+NM,Does Clinton's use of private email bother you?,2014,Yes,65%,28%,56%,13%,1%,2%
+NM,Does Clinton's use of private email bother you?,2014,No,34%,87%,5%,5%,2%,1%
+NM,Does Donald Trump's treatment of women bother you:,2014,A lot,53%,79%,8%,9%,2%,2%
+NM,Does Donald Trump's treatment of women bother you:,2014,Some,17%,24%,58%,17%,0%,1%
+NM,Does Donald Trump's treatment of women bother you:,2014,Not much,12%,N/A,N/A,N/A,N/A,N/A
+NM,Does Donald Trump's treatment of women bother you:,2014,Not at all,16%,10%,85%,4%,N/A,1%
+NM,Does Donald Trump's treatment of women bother you?,2014,Yes,70%,65%,20%,11%,2%,2%
+NM,Does Donald Trump's treatment of women bother you?,2014,No,28%,7%,85%,8%,N/A,N/A
+NM,Condition of national economy,2014,Excellent,3%,N/A,N/A,N/A,N/A,N/A
+NM,Condition of national economy,2014,Good,33%,85%,10%,3%,1%,1%
+NM,Condition of national economy,2014,Not good,37%,41%,42%,15%,1%,1%
+NM,Condition of national economy,2014,Poor,27%,10%,75%,11%,1%,3%
+NM,Condition of national economy,2014,Good,36%,85%,10%,3%,1%,1%
+NM,Condition of national economy,2014,Poor,64%,28%,56%,13%,1%,2%
+NM,Life for the next generation of Americans will be:,2014,Better than today,41%,57%,37%,5%,1%,N/A
+NM,Life for the next generation of Americans will be:,2014,Worse than today,25%,33%,53%,12%,1%,1%
+NM,Life for the next generation of Americans will be:,2014,About the same,30%,52%,31%,13%,2%,2%
+NM,Vote for president in a two-way race,2014,Clinton,50%,95%,0%,4%,1%,N/A
+NM,Vote for president in a two-way race,2014,Trump,39%,0%,93%,6%,1%,N/A
+NM,Vote for president in a two-way race,2014,Would not vote,10%,10%,22%,54%,5%,9%
+NM,Area type,2014,Urban area,51%,57%,31%,9%,1%,2%
+NM,Area type,2014,Suburban area,17%,42%,45%,12%,1%,N/A
+NM,Area type,2014,Rural area,32%,38%,51%,8%,2%,1%
+NM,Region,2014,Little TX / East,14%,23%,65%,9%,2%,1%
+NM,Region,2014,N. Central,15%,69%,19%,10%,2%,N/A
+NM,Region,2014,Albuquerque Area,50%,51%,38%,10%,1%,N/A
+NM,Region,2014,West,21%,44%,43%,9%,1%,3%

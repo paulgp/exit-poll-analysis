@@ -1,1 +1,185 @@
 state,poll_type,sample_size,demographic,percentage,clinton,trump,other1,other2,other3
+TX,Gender,2827,Male,46%,37%,58%,5%
+TX,Gender,2827,Female,54%,49%,48%,3%
+TX,Age,2827,18-29,18%,55%,36%,7%,1%,1%
+TX,Age,2827,30-44,29%,46%,48%,4%,1%,1%
+TX,Age,2827,45-64,39%,39%,59%,2%,0%,N/A
+TX,Age,2827,65 and older,15%,36%,64%,0%,0%,N/A
+TX,Age,2827,18-24,10%,58%,32%,9%,1%,N/A
+TX,Age,2827,25-29,8%,51%,41%,6%,1%,1%
+TX,Age,2827,30-39,19%,46%,47%,4%,2%,1%
+TX,Age,2827,40-49,20%,41%,55%,4%,0%,N/A
+TX,Age,2827,50-64,28%,39%,59%,2%,1%,N/A
+TX,Age,2827,65 and older,15%,36%,64%,0%,0%,N/A
+TX,Age,2827,18-44,46%,49%,44%,5%,1%,1%
+TX,Age,2827,45 and older,54%,38%,60%,2%,0%,N/A
+TX,Race,2827,White,57%,26%,69%,5%
+TX,Race,2827,Black,11%,85%,11%,4%
+TX,Race,2827,Latino,24%,61%,34%,5%
+TX,Race,2827,Asian,5%,73%,27%,N/A
+TX,Race,2827,Other race,3%,N/A,N/A,N/A
+TX,Race,2827,White,57%,26%,69%,5%
+TX,Race,2827,Non-white,43%,67%,29%,4%
+TX,Race and gender,2827,White men,27%,23%,72%,4%,1%,N/A
+TX,Race and gender,2827,White women,30%,29%,66%,3%,1%,1%
+TX,Race and gender,2827,Black men,4%,79%,14%,4%,2%,1%
+TX,Race and gender,2827,Black women,6%,88%,9%,2%,1%,N/A
+TX,Race and gender,2827,Latino men,11%,53%,41%,5%,1%,N/A
+TX,Race and gender,2827,Latino women,13%,69%,28%,3%,1%,N/A
+TX,Race and gender,2827,Others,8%,58%,40%,1%,1%,N/A
+TX,Education,2827,High school or less,17%,49%,49%,2%
+TX,Education,2827,Some college,32%,41%,55%,4%
+TX,Education,2827,College graduate,34%,41%,53%,6%
+TX,Education,2827,Postgraduate,17%,48%,48%,4%
+TX,Are you a college graduate?,2827,Yes,51%,43%,52%,5%
+TX,Are you a college graduate?,2827,No,49%,44%,53%,3%
+TX,Education and race,2827,White college graduates,31%,31%,63%,5%,1%,N/A
+TX,Education and race,2827,Whites no degree,26%,21%,76%,2%,1%,N/A
+TX,Education and race,2827,Non-whites college grads,20%,62%,34%,3%,1%,N/A
+TX,Education and race,2827,Non-whites no degree,23%,71%,25%,3%,1%,N/A
+TX,Education among whites by sex,2827,White college-grad women,16%,35%,59%,4%,0%,2%
+TX,Education among whites by sex,2827,White non-college women,14%,23%,74%,2%,1%,N/A
+TX,Education among whites by sex,2827,White college-grad men,14%,27%,67%,5%,1%,N/A
+TX,Education among whites by sex,2827,White non-college men,12%,19%,78%,2%,0%,1%
+TX,Education among whites by sex,2827,Non-whites,43%,67%,29%,3%,1%,N/A
+TX,Income,2827,"Under $30,000",13%,58%,35%,5%,2%,N/A
+TX,Income,2827,"$30K-$49,999",17%,45%,52%,2%,2%,N/A
+TX,Income,2827,"$50K-$99,999",31%,46%,50%,4%,1%,N/A
+TX,Income,2827,"$100K-$199,999",26%,45%,49%,3%,1%,2%
+TX,Income,2827,"$200K-$249,999",4%,N/A,N/A,N/A,N/A,N/A
+TX,Income,2827,"$250,000 or more",9%,N/A,N/A,N/A,N/A,N/A
+TX,Income,2827,Under $50K,30%,50%,45%,5%
+TX,Income,2827,$50K-$100K,31%,46%,50%,4%
+TX,Income,2827,$100K or more,39%,41%,53%,6%
+TX,Income,2827,Under $50K,30%,50%,45%,5%
+TX,Income,2827,$50K or more,70%,43%,52%,5%
+TX,Income,2827,Under $100K,61%,48%,47%,5%
+TX,Income,2827,$100K or more,39%,41%,53%,6%
+TX,Party ID,2827,Democrats,29%,93%,5%,1%,1%,N/A
+TX,Party ID,2827,Republicans,38%,9%,88%,2%,0%,1%
+TX,Party ID,2827,Independents,33%,39%,53%,7%,2%,N/A
+TX,Party by gender,2827,Democratic men,11%,91%,7%,1%,1%,N/A
+TX,Party by gender,2827,Democratic women,18%,94%,4%,1%,1%,N/A
+TX,Party by gender,2827,Republican men,17%,9%,87%,4%,0%,N/A
+TX,Party by gender,2827,Republican women,21%,9%,89%,1%,0%,1%
+TX,Party by gender,2827,Independent men,18%,31%,60%,7%,1%,1%
+TX,Party by gender,2827,Independent women,15%,48%,44%,6%,2%,N/A
+TX,Ideology,2827,Liberal,20%,81%,12%,5%,2%,N/A
+TX,Ideology,2827,Moderate,36%,55%,39%,5%,1%,N/A
+TX,Ideology,2827,Conservative,44%,15%,82%,1%,1%,1%
+TX,White born-again or evangelical Christian?,2827,Yes,28%,12%,85%,3%
+TX,White born-again or evangelical Christian?,2827,No,72%,56%,40%,4%
+TX,When did you decide presidential vote?,2827,Last few days,4%,49%,44%,6%,1%,N/A
+TX,When did you decide presidential vote?,2827,Last week,5%,N/A,N/A,N/A,N/A,N/A
+TX,When did you decide presidential vote?,2827,In October,14%,50%,48%,1%,1%,N/A
+TX,When did you decide presidential vote?,2827,In September,13%,44%,51%,5%,0%,N/A
+TX,When did you decide presidential vote?,2827,Before September,61%,45%,52%,3%,0%,N/A
+TX,When did you decide presidential vote?,2827,In the last week,10%,41%,48%,9%,2%,N/A
+TX,When did you decide presidential vote?,2827,Before that,88%,45%,51%,3%,1%,N/A
+TX,When did you decide presidential vote?,2827,In the last month,24%,46%,48%,6%
+TX,When did you decide presidential vote?,2827,Before that,74%,45%,52%,3%
+TX,Opinion of presidential candidate you voted for,2827,Strongly favor ,38%,49%,49%,2%,1%,N/A
+TX,Opinion of presidential candidate you voted for,2827,Have reservations,26%,41%,56%,3%,0%,N/A
+TX,Opinion of presidential candidate you voted for,2827,Dislike opponents,34%,40%,51%,6%,2%,1%
+TX,Most important issue facing the country,2827,Foreign policy,13%,55%,38%,4%,2%,1%
+TX,Most important issue facing the country,2827,Immigration,13%,41%,58%,0%,1%,N/A
+TX,Most important issue facing the country,2827,Economy,49%,47%,46%,5%,1%,1%
+TX,Most important issue facing the country,2827,Terrorism,21%,35%,63%,1%,1%,N/A
+TX,Which candidate quality mattered most?,2827,Cares about me,14%,44%,50%,3%,4%,N/A
+TX,Which candidate quality mattered most?,2827,Can bring change,34%,12%,84%,3%,1%,N/A
+TX,Which candidate quality mattered most?,2827,Right experience,24%,85%,14%,1%,0%,N/A
+TX,Which candidate quality mattered most?,2827,Good judgment,23%,57%,36%,6%,1%,N/A
+TX,Illegal immigrants working in the U.S. should be:,2827,Offered legal status,71%,53%,42%,5%
+TX,Illegal immigrants working in the U.S. should be:,2827,Deported to home country,22%,9%,90%,1%
+TX,View of U.S. wall along the entire Mexican border,2827,Support,44%,10%,89%,1%,0%,N/A
+TX,View of U.S. wall along the entire Mexican border,2827,Oppose,49%,75%,17%,7%,1%,N/A
+TX,Do you think immigrants to the U.S. today:,2827,Help the country,55%,64%,29%,6%,1%,N/A
+TX,Do you think immigrants to the U.S. today:,2827,Hurt the country,31%,13%,85%,2%,0%,N/A
+TX,How do things work in the U.S. today?,2827,Whites are favored,35%,74%,17%,7%,2%,N/A
+TX,How do things work in the U.S. today?,2827,Minorities are favored,16%,5%,93%,1%,0%,1%
+TX,How do things work in the U.S. today?,2827,No group is favored,41%,34%,63%,2%,0%,1%
+TX,Does the country's criminal justice system:,2827,Treat all fairly,43%,22%,75%,3%
+TX,Does the country's criminal justice system:,2827,Treat blacks unfairly,45%,63%,32%,5%
+TX,Feelings about the federal government,2827,Enthusiastic,3%,N/A,N/A,N/A,N/A,N/A
+TX,Feelings about the federal government,2827,Satisfied,21%,78%,15%,6%,0%,1%
+TX,Feelings about the federal government,2827,Dissatisfied,46%,41%,53%,4%,2%,N/A
+TX,Feelings about the federal government,2827,Angry,27%,12%,86%,1%,1%,N/A
+TX,Feelings about the federal government,2827,Enthusiastic/Satisfied,25%,80%,14%,5%,0%,1%
+TX,Feelings about the federal government,2827,Dissatisfied/Angry,73%,30%,65%,3%,2%,N/A
+TX,Opinion of Barack Obama as president,2827,Strongly approve,30%,96%,2%,2%,0%,N/A
+TX,Opinion of Barack Obama as president,2827,Somewhat approve,19%,68%,24%,7%,1%,N/A
+TX,Opinion of Barack Obama as president,2827,Somewhat disapprove,13%,21%,70%,8%,1%,N/A
+TX,Opinion of Barack Obama as president,2827,Strongly disapprove,38%,2%,96%,2%,1%,N/A
+TX,Opinion of Barack Obama as president,2827,Approve,49%,85%,11%,4%
+TX,Opinion of Barack Obama as president,2827,Disapprove,51%,6%,89%,5%
+TX,Opinion of Hillary Clinton,2827,Favorable,41%,97%,3%,1%,0%,N/A
+TX,Opinion of Hillary Clinton,2827,Unfavorable,57%,8%,85%,6%,1%,N/A
+TX,Opinion of Donald Trump,2827,Favorable,39%,3%,96%,1%,0%,N/A
+TX,Opinion of Donald Trump,2827,Unfavorable,59%,74%,19%,6%,1%,N/A
+TX,Opinion of Clinton and Trump,2827,Both favorable,2%,N/A,N/A,N/A,N/A,N/A
+TX,Opinion of Clinton and Trump,2827,Only Clinton favorable,39%,99%,0%,1%,0%,N/A
+TX,Opinion of Clinton and Trump,2827,Only Trump favorable,37%,1%,98%,1%,0%,N/A
+TX,Opinion of Clinton and Trump,2827,Both unfavorable,19%,22%,59%,16%,3%,N/A
+TX,Opinion of Ted Cruz,2827,Favorable,41%,22%,75%,3%,0%,N/A
+TX,Opinion of Ted Cruz,2827,Unfavorable,51%,60%,35%,5%,1%,N/A
+TX,Is Hillary Clinton honest and trustworthy?,2827,Yes,30%,96%,3%,1%
+TX,Is Hillary Clinton honest and trustworthy?,2827,No,68%,19%,75%,6%
+TX,Is Donald Trump honest and trustworthy?,2827,Yes,40%,5%,94%,0%,0%,1%
+TX,Is Donald Trump honest and trustworthy?,2827,No,58%,71%,22%,5%,2%,N/A
+TX,Which candidate is honest?,2827,Both are,2%,N/A,N/A,N/A,N/A,N/A
+TX,Which candidate is honest?,2827,Only Clinton is,28%,98%,0%,1%,1%,N/A
+TX,Which candidate is honest?,2827,Only Trump is,38%,1%,98%,0%,0%,1%
+TX,Which candidate is honest?,2827,Neither is,29%,43%,43%,9%,3%,2%
+TX,Is Clinton qualified to serve as president?,2827,Yes,48%,84%,11%,5%
+TX,Is Clinton qualified to serve as president?,2827,No,51%,1%,95%,4%
+TX,Is Trump qualified to serve as president?,2827,Yes,45%,4%,95%,1%,0%,N/A
+TX,Is Trump qualified to serve as president?,2827,No,54%,74%,20%,5%,1%,N/A
+TX,Who is qualified to serve as president?,2827,Both are,6%,N/A,N/A,N/A,N/A,N/A
+TX,Who is qualified to serve as president?,2827,Only Clinton is,42%,93%,3%,4%,1%,N/A
+TX,Who is qualified to serve as president?,2827,Only Trump is,39%,N/A,99%,1%,0%,N/A
+TX,Who is qualified to serve as president?,2827,Neither is,12%,6%,83%,10%,2%,N/A
+TX,Does Clinton have the temperament to be president?,2827,Yes,50%,81%,14%,5%,1%,N/A
+TX,Does Clinton have the temperament to be president?,2827,No,48%,5%,90%,2%,1%,2%
+TX,Does Trump have the temperament to be president?,2827,Yes,41%,4%,95%,1%,0%,N/A
+TX,Does Trump have the temperament to be president?,2827,No,57%,72%,20%,5%,2%,1%
+TX,Which candidate has the right temperament?,2827,Both do,7%,N/A,N/A,N/A,N/A,N/A
+TX,Which candidate has the right temperament?,2827,Only Clinton does,43%,90%,4%,4%,1%,1%
+TX,Which candidate has the right temperament?,2827,Only Trump does,34%,1%,99%,N/A,N/A,N/A
+TX,Which candidate has the right temperament?,2827,Neither does,14%,17%,69%,7%,4%,3%
+TX,Does Clinton's use of private email bother you:,2827,A lot,49%,5%,91%,3%,1%,N/A
+TX,Does Clinton's use of private email bother you:,2827,Some,19%,70%,29%,1%,0%,N/A
+TX,Does Clinton's use of private email bother you:,2827,Not much,13%,86%,8%,6%,0%,N/A
+TX,Does Clinton's use of private email bother you:,2827,Not at all,17%,88%,6%,5%,1%,N/A
+TX,Does Clinton's use of private email bother you?,2827,Yes,68%,23%,74%,3%,1%,N/A
+TX,Does Clinton's use of private email bother you?,2827,No,31%,87%,7%,5%,1%,N/A
+TX,Does Donald Trump's treatment of women bother you:,2827,A lot,41%,83%,13%,4%,1%,N/A
+TX,Does Donald Trump's treatment of women bother you:,2827,Some,22%,22%,71%,6%,2%,N/A
+TX,Does Donald Trump's treatment of women bother you:,2827,Not much,15%,11%,87%,2%,0%,N/A
+TX,Does Donald Trump's treatment of women bother you:,2827,Not at all,20%,11%,88%,0%,N/A,1%
+TX,Does Donald Trump's treatment of women bother you?,2827,Yes,63%,61%,33%,5%,1%,N/A
+TX,Does Donald Trump's treatment of women bother you?,2827,No,35%,11%,88%,1%,0%,N/A
+TX,Who would better handle the economy?,2827,Clinton,41%,95%,1%,4%
+TX,Who would better handle the economy?,2827,Trump,53%,5%,92%,3%
+TX,Who would better handle foreign policy?,2827,Clinton,49%,86%,7%,7%,0%
+TX,Who would better handle foreign policy?,2827,Trump,46%,3%,97%,0%,0%
+TX,Condition of national economy,2827,Excellent,3%,N/A,N/A,N/A,N/A,N/A
+TX,Condition of national economy,2827,Good,34%,74%,20%,5%,0%,1%
+TX,Condition of national economy,2827,Not good,36%,30%,63%,3%,2%,2%
+TX,Condition of national economy,2827,Poor,26%,13%,85%,1%,1%,N/A
+TX,Condition of national economy,2827,Good,37%,76%,19%,5%,0%,N/A
+TX,Condition of national economy,2827,Poor,62%,23%,72%,3%,2%,N/A
+TX,Life for the next generation of Americans will be:,2827,Better than today,36%,59%,38%,2%,1%,N/A
+TX,Life for the next generation of Americans will be:,2827,Worse than today,33%,17%,79%,3%,1%,N/A
+TX,Life for the next generation of Americans will be:,2827,About the same,25%,52%,41%,6%,1%,N/A
+TX,Vote for president in a two-way race,2827,Clinton,40%,97%,0%,3%
+TX,Vote for president in a two-way race,2827,Trump,53%,0%,98%,2%
+TX,Vote for president in a two-way race,2827,Would not vote,4%,N/A,N/A,N/A
+TX,Area type,2827,Urban area,44%,53%,42%,5%
+TX,Area type,2827,Suburban area,48%,37%,58%,5%
+TX,Area type,2827,Rural area,8%,26%,71%,3%
+TX,Region,2827,East,13%,25%,71%,4%
+TX,Region,2827,Dallas / Ft. Worth,24%,49%,47%,4%
+TX,Region,2827,Houston,21%,50%,46%,4%
+TX,Region,2827,S. Central,16%,45%,50%,5%
+TX,Region,2827,West,11%,22%,74%,4%
+TX,Region,2827,Latino Southwest,15%,54%,41%,5%
