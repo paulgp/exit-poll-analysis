@@ -4,26 +4,28 @@ tempfile tmp
 
 local x US
 insheet using output/`x'.csv, comma clear names
-keep if poll_type == "Income"
-*keep if poll_type == "Age"
+keep if poll_type == "Age"
 merge m:1 state demographic using ACSData/age_pop, keep(match)
 destring percentage-other3, replace force ignore("%")
 duplicates drop
 drop _merge
 *drop other2 other3
 save `tmp', replace
-local files : dir "output" files "*.csv";
-foreach x in files {
-    insheet using output/`x'.csv, comma clear names
-    keep if poll_type == "Income"
-    merge m:1 state demographic using ACSData/age_pop, keep(match)
-    destring percentage-other3, replace force ignore("%")
-    *drop other2 other3
-    bys demographic (other1): keep if _n == 1
-    duplicates drop
-    drop _merge
-    append using `tmp', force
-    save `tmp', replace
+local files : dir "output" files "*.csv"
+foreach x in `files' {
+    if "`x'" != "NH.csv" &  "`x'" != "US.csv" {
+        disp "`x'"
+        insheet using output/`x', comma clear names
+        keep if poll_type == "Age"
+        merge m:1 state demographic using ACSData/age_pop, keep(match)
+        destring percentage-other3, replace force ignore("%")
+        *drop other2 other3
+        bys demographic (other1): keep if _n == 1
+        capture duplicates drop
+        drop _merge
+        append using `tmp', force
+        save `tmp', replace
+    }
 }
 
 
@@ -47,7 +49,7 @@ gen other_votes = sample_size * (percentage/100)* (other3/100)  / perc
 foreach x of varlist  clinton_votes trump_votes johnson_votes stein_votes other_votes missing {
     gen `x'_m = `x' / 1000000
 }
-
+/*
 
 graph bar (sum) clinton_votes_m trump_votes_m johnson_votes_m stein_votes_m missing_m if state != "US"  , over(demographic )  bar(1, color(dblue)) bar(2, color( dred)) bar(3, color( green)) bar(4, color( yellow)) bar(5, color( gray)) legend(label(1 "Clinton") label(2 "Trump") label(3 "Johnson") label(4 "Stein")  label(5 "Did Not Vote")  rows(2)) ytitle("Millions of Votes") note("@paulgp") title("Swing States") 
 graph export "Graphs/swing_states.png", replace

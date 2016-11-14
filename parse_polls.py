@@ -20,7 +20,7 @@ def pull_poll_info(result):
     
 for fn in os.listdir('htmldata/'):
     if fn.endswith(".htm"):
-        with open(fn, 'rb') as f:
+        with open("htmldata/" + fn, 'rb') as f:
             soup = bs(f, 'html.parser')
             with open('output/%s.csv' % fn[:-4], 'wb') as outf:
                 writer = csv.writer(outf)
